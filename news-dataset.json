@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1618
+    "total_articles": 1631
   },
   "articles": [
     {
@@ -27439,6 +27439,226 @@
         "اختلالات خوردن",
         "بیوتکنولوژی",
         "سلامت"
+      ]
+    },
+    {
+      "id": "20f5e2677ea34945",
+      "date": "2025-09-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "تأکید اوپن‌ای‌آی بر رهبری غیرانتفاعی؛ مسیری ۱۰۰ میلیارد دلاری برای هوش مصنوعی ایمن",
+      "title_en": "Statement on OpenAI’s Nonprofit and PBC",
+      "summary_fa": "OpenAI با انتشار بیانیه‌ای، بر تداوم رهبری نهاد غیرانتفاعی خود تأکید کرده است. این شرکت با ساختار جدیدی که سهام در شرکت انتفاعی (PBC) خود را اعطا می‌کند، قصد دارد بیش از ۱۰۰ میلیارد دلار منابع را برای پیشبرد هوش مصنوعی ایمن و مفید برای بشریت فراهم آورد. هدف اصلی این تغییرات، تقویت ماموریت اصلی OpenAI برای توسعه هوش مصنوعی به نفع تمام انسان‌ها است.",
+      "tags": [
+        "OpenAI",
+        "Nonprofit",
+        "PBC",
+        "AI Funding",
+        "AI Safety"
+      ]
+    },
+    {
+      "id": "10637370a84f35d1",
+      "date": "2025-09-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "تقویت مشارکت OpenAI و مایکروسافت با محوریت ایمنی و نوآوری هوش مصنوعی",
+      "title_en": "A joint statement from OpenAI and Microsoft",
+      "summary_fa": "OpenAI و مایکروسافت یک تفاهم‌نامه جدید امضا کردند. این اقدام به منظور تقویت همکاری‌های موجود میان دو شرکت و نشان‌دهنده تعهد مشترک آنها به ایمنی و نوآوری در حوزه هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "Microsoft",
+        "AI safety",
+        "همکاری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "00474c9a0aa5f9d1",
+      "date": "2025-09-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/safetykit",
+      "category": "امنیت سایبری",
+      "title_fa": "SafetyKit: افزایش هوشمندی نظارت بر محتوا با مدل‌های قدرتمند OpenAI",
+      "title_en": "SafetyKit scales risk agents with OpenAI’s most capable models",
+      "summary_fa": "SafetyKit ابزاری است که با بهره‌گیری از پیشرفته‌ترین مدل‌های هوش مصنوعی OpenAI، از جمله GPT-5، قابلیت‌های نظارت بر محتوا را به شکل چشمگیری ارتقا می‌دهد. این سامانه به سازمان‌ها کمک می‌کند تا با دقت بالاتری به اجرای قوانین و مقررات انطباق بپردازند. در نتیجه، SafetyKit از سیستم‌های ایمنی قدیمی پیشی گرفته و راهکارهای کارآمدتری برای مدیریت ریسک و حفظ امنیت آنلاین ارائه می‌کند.",
+      "tags": [
+        "SafetyKit",
+        "OpenAI",
+        "GPT-5",
+        "تعدیل محتوا",
+        "انطباق"
+      ]
+    },
+    {
+      "id": "a4096f68bad352b0",
+      "date": "2025-09-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/people-first-ai-fund",
+      "category": "مسئولیت اجتماعی هوش مصنوعی",
+      "title_fa": "صندوق ۵۰ میلیون دلاری «هوش مصنوعی مردم‌محور» OpenAI برای حمایت از سازمان‌های غیرانتفاعی",
+      "title_en": "A People-First AI Fund: $50M to support nonprofits",
+      "summary_fa": "OpenAI در راستای تعهد خود به استفاده از هوش مصنوعی برای منافع عمومی، صندوق «هوش مصنوعی مردم‌محور» را با بودجه ۵۰ میلیون دلاری راه‌اندازی کرده است. هدف این ابتکار، حمایت از سازمان‌های غیرانتفاعی در ایالات متحده است که در زمینه‌های آموزش، نوآوری اجتماعی و فرصت‌های اقتصادی فعالیت می‌کنند. این کمک‌هزینه‌های بدون محدودیت، به جوامع کمک می‌کنند تا هوش مصنوعی را در جهت خیر همگانی شکل دهند. درخواست برای این صندوق تا ۸ اکتبر ۲۰۲۵ (۱۶ مهر ۱۴۰۴) پذیرفته می‌شود.",
+      "tags": [
+        "OpenAI",
+        "People-First AI Fund",
+        "nonprofits",
+        "AI for Good",
+        "سرمایه‌گذاری اجتماعی"
+      ]
+    },
+    {
+      "id": "c2b64d43b05a1bdc",
+      "date": "2025-09-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/why-language-models-hallucinate",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI دلیل \"توهم‌زایی\" مدل‌های زبان بزرگ را فاش کرد: راهکاری برای هوش مصنوعی قابل اعتمادتر",
+      "title_en": "Why language models hallucinate",
+      "summary_fa": "پژوهش جدید OpenAI به توضیح دلایل توهم‌زایی در مدل‌های زبان بزرگ می‌پردازد. این یافته‌ها نشان می‌دهد که چگونه ارزیابی‌های بهبود یافته می‌توانند به افزایش قابلیت اطمینان، صداقت و ایمنی هوش مصنوعی کمک کنند.",
+      "tags": [
+        "OpenAI",
+        "توهم‌زایی هوش مصنوعی",
+        "مدل زبان بزرگ",
+        "ایمنی هوش مصنوعی",
+        "قابلیت اطمینان هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2a2cd101885ec198",
+      "date": "2025-09-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/openai-for-greece",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ورود ChatGPT Edu به مدارس یونان؛ همکاری OpenAI و دولت برای ترویج سواد هوش مصنوعی",
+      "title_en": "OpenAI and Greek Government launch ‘OpenAI for Greece’",
+      "summary_fa": "OpenAI و دولت یونان طرح «OpenAI for Greece» را آغاز کرده‌اند تا ChatGPT Edu را وارد مدارس متوسطه کنند و آموزش مسئولانه هوش مصنوعی را ترویج دهند. این همکاری با هدف افزایش سواد هوش مصنوعی در کشور، حمایت از استارتاپ‌های محلی و پیشبرد رشد اقتصادی ملی شکل گرفته است.",
+      "tags": [
+        "OpenAI",
+        "Greece",
+        "ChatGPT Edu",
+        "آموزش هوش مصنوعی",
+        "توسعه اقتصادی"
+      ]
+    },
+    {
+      "id": "89c6cb6d29717113",
+      "date": "2026-10-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "تیم کوک: اپل هوش مصنوعی را صرفاً «برای داشتن هوش مصنوعی» عرضه نمی‌کند",
+      "title_en": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary_fa": "تیم کوک، مدیرعامل اپل، از رویکرد این شرکت در قبال هوش مصنوعی دفاع کرد. او تاکید کرد که اپل قصد ندارد صرفاً برای حضور در بازار یا عقب نماندن از رقبا، هوش مصنوعی را عرضه کند. به گفته او، تمرکز اپل بر ارائه راهکارهای هوش مصنوعی با کیفیت، هدفمند و کاربردی است که واقعاً به بهبود تجربه کاربری منجر شود. این اظهارات، استراتژی محتاطانه و کیفیت‌محور اپل در مواجهه با موج هوش مصنوعی را نشان می‌دهد.",
+      "tags": [
+        "Apple",
+        "Tim Cook",
+        "AI",
+        "هوش مصنوعی",
+        "استراتژی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "cefcb0bd2478e838",
+      "date": "2026-10-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "TechCrunch Founder Summit: فرصتی بی‌نظیر برای شبکه‌سازی و توسعه استارتاپ‌ها",
+      "title_en": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary_fa": "رویداد TechCrunch Founder Summit در تاریخ ۴ نوامبر در ایستگاه برق SoWa در بوستون برگزار می‌شود. این رویداد یک روز کامل فرصت‌هایی برای شبکه‌سازی معنادار، کسب بینش‌های عملی و برقراری ارتباطاتی حیاتی را فراهم می‌کند که می‌تواند مسیر استارتاپ شما را دگرگون سازد. فرصت ثبت‌نام با قیمت فعلی رو به اتمام است؛ پیش از افزایش قیمت‌ها در روز برگزاری، اقدام کنید.",
+      "tags": [
+        "TechCrunch",
+        "Startup",
+        "Networking",
+        "Founder Summit",
+        "Boston"
+      ]
+    },
+    {
+      "id": "bc398a80a0dffe88",
+      "date": "2026-10-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "چراغ سبز دادگاه به شکایت NAACP از xAI بر سر آلودگی مراکز داده",
+      "title_en": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary_fa": "یک شکایت حقوقی از سوی سازمان NAACP علیه شرکت xAI، زیرمجموعه هوش مصنوعی اسپیس‌ایکس، به دلیل آلودگی ناشی از دیتاسنترهای آن مطرح شده است. این شکایت، xAI را به نقض قانون هوای پاک متهم می‌کند. اخیراً، قاضی پرونده اجازه داد تا این شکایت به روند رسیدگی خود ادامه دهد و موانع اولیه را از سر راه آن برداشت.",
+      "tags": [
+        "NAACP",
+        "xAI",
+        "Clean Air Act",
+        "آلودگی مراکز داده",
+        "پرونده حقوقی"
+      ]
+    },
+    {
+      "id": "344dcf79744aa216",
+      "date": "2026-10-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "شنیده‌ها: اوپن‌ای‌آی هدف جذب سرمایه خود برای دور جدید را کاهش داد",
+      "title_en": "OpenAI reportedly lowers funding target for new round",
+      "summary_fa": "گزارش‌ها حاکی از آن است که شرکت OpenAI، سازنده ChatGPT، هدف جذب سرمایه خود را برای دور جدید تامین مالی کاهش داده است. به نظر می‌رسد این دور از سرمایه‌گذاری آنطور که انتظار می‌رفت پیش نرفته و نتوانسته انتظارات اولیه را برآورده کند.",
+      "tags": [
+        "OpenAI",
+        "سرمایه‌گذاری",
+        "جذب سرمایه",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "43523836c60442d9",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "category": "حریم خصوصی",
+      "title_fa": "خداحافظی با «آلی»: دستیار هوش مصنوعی حامی حریم خصوصی تعطیل می‌شود",
+      "title_en": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary_fa": "در حالی که بازار از دستیارهای هوش مصنوعی جدید اشباع شده است، «آلی» (Ollie)، دستیار هوش مصنوعی که رویکردی متفاوت با تمرکز بر حفظ حریم خصوصی کاربران داشت، به کار خود پایان می‌دهد. بنیانگذار این پروژه اعلام کرده است که «آلی» تا یک هفته دیگر تعطیل خواهد شد و دیگر در دسترس نخواهد بود.",
+      "tags": [
+        "Ollie",
+        "AI assistant",
+        "حریم خصوصی",
+        "استارتاپ",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6198118eee1371c7",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "سقوط سهام اینتل: ۱۲ میلیارد دلار از ارزش سهام دولتی از دست رفت",
+      "title_en": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "summary_fa": "سهام شرکت اینتل با افت شدید مواجه شده و ۱۲ میلیارد دلار از ارزش سهام دولتی آن از دست رفته است. اینتل از کاهش فروش کامپیوترهای شخصی آسیب می‌بیند. در همین حال، صنعت هوش مصنوعی با مصرف بالای حافظه و سایر قطعات، به افزایش قیمت پی‌سی‌ها منجر شده و وضعیت را برای اینتل دشوارتر کرده است.",
+      "tags": [
+        "Intel",
+        "AI",
+        "PC",
+        "بازار سهام",
+        "قطعات کامپیوتر"
+      ]
+    },
+    {
+      "id": "bbc846977e881f58",
+      "date": "2026-10-30",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "هشدار درباره داروهای لاغری GLP-1: آیا بحران فزاینده اختلالات خوردن را وخیم‌تر می‌کنند؟",
+      "title_en": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "summary_fa": "داروهای کاهش وزن GLP-1، با وجود پیشرفت چشمگیر در حوزه بیوتکنولوژی، نگرانی‌هایی را در میان روانشناسان بالینی ایجاد کرده‌اند. این متخصصان بیم دارند که این داروها بتوانند محرکی برای بروز یا تشدید اختلالات خوردن باشند. در همین راستا، گزارشی تازه نشان می‌دهد که شیوع جهانی بی‌اشتهایی عصبی و پرخوری عصبی (آنورکسیا و بولیمیا) بین سال‌های ۱۹۹۰ تا ۲۰۲۳، ۷۱ درصد افزایش یافته است. این وضعیت، پتانسیل وخامت اوضاع را با گسترش مصرف داروهای GLP-1 پررنگ‌تر می‌کند.",
+      "tags": [
+        "GLP-1",
+        "اختلالات خوردن",
+        "داروهای لاغری",
+        "biotech",
+        "سلامت روان"
       ]
     }
   ]
