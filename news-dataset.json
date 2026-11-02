@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-01",
+    "last_updated": "2026-11-02",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1631
+    "total_articles": 1644
   },
   "articles": [
     {
@@ -27659,6 +27659,227 @@
         "داروهای لاغری",
         "biotech",
         "سلامت روان"
+      ]
+    },
+    {
+      "id": "551c8dbfe7f61509",
+      "date": "2025-09-04",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/expanding-economic-opportunity-with-ai",
+      "category": "بازار کار و آموزش هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی: طرح جدید برای گسترش فرصت‌های شغلی و آموزش مهارت‌های هوش مصنوعی",
+      "title_en": "Expanding economic opportunity with AI",
+      "summary_fa": "شرکت OpenAI از راه‌اندازی یک «پلتفرم مشاغل» جدید و همچنین برنامه‌های «گواهی‌نامه» (Certifications) خبر داده است. هدف از این اقدام، ایجاد ارتباط میان نیروی کار با فرصت‌های شغلی، دوره‌های آموزشی و گواهی‌نامه‌های تخصصی در حوزه هوش مصنوعی است. این طرح به دنبال گسترش فرصت‌های اقتصادی و افزایش دسترسی افراد به مهارت‌های مورد نیاز در عصر هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "Jobs Platform",
+        "Certifications",
+        "مهارت‌های هوش مصنوعی",
+        "بازار کار"
+      ]
+    },
+    {
+      "id": "bcd181f7199941e1",
+      "date": "2025-09-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "وایاجی راجی، مدیر ارشد فناوری اپلیکیشن‌ها: سمتی جدید پس از تصاحب Statsig",
+      "title_en": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+      "summary_fa": "پس از تصاحب شرکت Statsig، وایاجی راجی به سمت جدید خود به عنوان مدیر ارشد فناوری اپلیکیشن‌ها (CTO of Applications) منصوب شد. او در این جایگاه، مسئولیت‌های توسعه فناوری اپلیکیشن‌ها را بر عهده خواهد داشت و مستقیماً به فیدجی سیمو، مدیرعامل بخش اپلیکیشن‌ها، گزارش خواهد داد. این انتصاب، نشان‌دهنده ادغام توانمندی‌های Statsig در ساختار سازمانی جدید و بهره‌گیری از تجربه راجی در این حوزه است.",
+      "tags": [
+        "Vijaye Raji",
+        "Statsig",
+        "CTO",
+        "acquisition",
+        "M&A"
+      ]
+    },
+    {
+      "id": "07d34a91448890de",
+      "date": "2025-09-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI: گام‌های تازه برای تجربه کاربری ایمن‌تر و هوشمندتر ChatGPT، با تمرکز بر نوجوانان",
+      "title_en": "Building more helpful ChatGPT experiences for everyone",
+      "summary_fa": "OpenAI اعلام کرده است که برای بهبود تجربه کاربری ChatGPT و افزایش ایمنی آن، تدابیر جدیدی اتخاذ کرده است. این شرکت با متخصصان همکاری می‌کند و برای حفاظت از نوجوانان، کنترل‌های والدین را تقویت می‌نماید. همچنین، مکالمات حساس در ChatGPT به مدل‌های استدلالی هدایت می‌شوند تا پاسخ‌های دقیق‌تر و مسئولانه‌تری ارائه گردد.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "ایمنی هوش مصنوعی",
+        "کنترل والدین",
+        "تجربه کاربری"
+      ]
+    },
+    {
+      "id": "dd6e5d1b40b21eae",
+      "date": "2025-08-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-realtime",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "مکالمه هوش مصنوعی در لحظه: معرفی gpt-realtime و API پیشرفته با پشتیبانی صوتی و تصویری",
+      "title_en": "Introducing gpt-realtime and Realtime API updates",
+      "summary_fa": "شرکت سازنده، یک مدل پیشرفته‌تر گفتار به گفتار با نام gpt-realtime را معرفی کرده است. همچنین، قابلیت‌های جدیدی به API بلادرنگ آن اضافه شده که شامل پشتیبانی از سرورهای MCP، ورودی تصویری و امکان برقراری تماس تلفنی از طریق SIP می‌شود.",
+      "tags": [
+        "gpt-realtime",
+        "API",
+        "Speech-to-Speech",
+        "مدل‌های هوش مصنوعی",
+        "تعامل بلادرنگ"
+      ]
+    },
+    {
+      "id": "876a61a8813fc7fc",
+      "date": "2025-08-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/supporting-nonprofit-and-community-innovation",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "صندوق ۵۰ میلیون دلاری OpenAI: توانمندسازی سازمان‌های ناسودبر با هوش مصنوعی",
+      "title_en": "Supporting nonprofit and community innovation",
+      "summary_fa": "OpenAI از راه‌اندازی صندوق «People-First AI Fund» با سرمایه ۵۰ میلیون دلار خبر داد. هدف این صندوق کمک به سازمان‌های ناسودبر در ایالات متحده است تا با بهره‌گیری از هوش مصنوعی، تأثیرگذاری خود را گسترش دهند. درخواست‌ها برای دریافت کمک‌هزینه از این صندوق از ۸ سپتامبر تا ۸ اکتبر ۲۰۲۵ پذیرفته می‌شود و حوزه‌هایی نظیر آموزش، بهداشت و درمان، و تحقیقات را شامل می‌شود.",
+      "tags": [
+        "OpenAI",
+        "AI Fund",
+        "هوش مصنوعی",
+        "سازمان‌های ناسودبر",
+        "کمک‌هزینه"
+      ]
+    },
+    {
+      "id": "b62df9776d1d3510",
+      "date": "2025-08-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/collective-alignment-aug-2025-updates",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی: نظرات عمومی، راهنمای همسوسازی هوش مصنوعی",
+      "title_en": "Collective alignment: public input on our Model Spec",
+      "summary_fa": "اوپن‌ای‌آی با نظرسنجی از بیش از ۱۰۰۰ نفر در سراسر جهان، دیدگاه‌های عمومی را درباره‌ی نحوه‌ی رفتار هوش مصنوعی جمع‌آوری کرد. این شرکت با مقایسه‌ی این نظرات با \"Model Spec\" خود، قصد دارد هوش مصنوعی را با ارزش‌ها و دیدگاه‌های متنوع انسانی همسو سازد. این رویکرد، موسوم به \"همسوسازی جمعی\"، در حال شکل‌دهی به تنظیمات پیش‌فرض هوش مصنوعی برای انعکاس بهتر نظرات عمومی است.",
+      "tags": [
+        "OpenAI",
+        "AI alignment",
+        "Model Spec",
+        "اخلاق هوش مصنوعی",
+        "ارزش‌های انسانی"
+      ]
+    },
+    {
+      "id": "33c086ca1438f528",
+      "date": "2026-11-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "OpenAI دیتاسنترهایش را «پردیس‌های محاسباتی هوش مصنوعی» می‌نامد",
+      "title_en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary_fa": "شرکت OpenAI در تلاش برای بهبود تصویر عمومی دیتاسنترهای خود، در حال بررسی تغییر نام آن‌ها به «پردیس‌های محاسباتی هوش مصنوعی» است. این استراتژی تلاشی است تا با عنوانی جذاب‌تر، نگاه منفی موجود نسبت به این مراکز زیرساختی حیاتی برای هوش مصنوعی را تغییر دهد.",
+      "tags": [
+        "OpenAI",
+        "دیتاسنتر",
+        "برندسازی",
+        "AI compute campuses",
+        "زیرساخت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "0ae10264665c4816",
+      "date": "2026-11-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هوش مصنوعی: زندگی آسان مدیران عامل و بی‌تفاوتی به دیگران؟",
+      "title_en": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summary_fa": "این گزارش به بررسی این موضوع می‌پردازد که چرا اظهارات مدیران عامل شرکت‌های تکنولوژی درباره هوش مصنوعی غالباً بی‌تفاوت و بی‌خبر از واقعیت‌های موجود به نظر می‌رسد. در حالی که هوش مصنوعی ممکن است فرایندهای کاری مدیران ارشد را ساده‌تر کند، این سوال مطرح می‌شود که منافع آن برای سایر اقشار جامعه و کارمندان چیست و چگونه این اظهارات می‌تواند شکاف دیدگاه‌ها را عمیق‌تر کند.",
+      "tags": [
+        "AI",
+        "Tech CEOs",
+        "اخلاق هوش مصنوعی",
+        "تأثیر اجتماعی",
+        "رهبری تکنولوژی"
+      ]
+    },
+    {
+      "id": "d52c9778a55e47ad",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "category": "کاربردهای هوش مصنوعی",
+      "title_fa": "Zest: دستیار هوش مصنوعی جدیدی که رستوران پیدا می‌کند و با پیامک رزرو می‌گیرد",
+      "title_en": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "summary_fa": "آیا هر بار که می‌خواهید بیرون غذا بخورید، در انتخاب رستوران به توافق نمی‌رسید؟ Zest، یک دستیار هوش مصنوعی جدید، برای حل همین مشکل طراحی شده است. این عامل هوش مصنوعی می‌تواند سلیقه غذایی تمام اعضای گروه را ترکیب کند، گزینه‌های رستوران را به رأی بگذارد و در نهایت، رزرو میز را از طریق پیام متنی انجام دهد.",
+      "tags": [
+        "Zest",
+        "هوش مصنوعی",
+        "رزرو رستوران",
+        "دستیار هوشمند",
+        "پیام متنی"
+      ]
+    },
+    {
+      "id": "135f70cd39eb4ce6",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "نخستین مرکز داده فضایی گوگل فعال شد: شعرسرایی هوش مصنوعی در مدار زمین",
+      "title_en": "Google’s first data center satellite is online and writing poetry",
+      "summary_fa": "اولین واحد پردازش تنسور (TPU) گوگل به فضا ارسال شده و اکنون در مدار زمین فعال است. این مرکز داده فضایی، مدل هوش مصنوعی Gemma 4 از DeepMind را اجرا می‌کند و در حال حاضر قابلیت سرودن شعر را به نمایش گذاشته است.",
+      "tags": [
+        "Google",
+        "TPU",
+        "Gemma 4",
+        "ماهواره",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8cb2db80dc5c1d4f",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "افشاگر ترانوس درباره حباب هوش مصنوعی هشدار می‌دهد: فرصتی برای فریبکاری",
+      "title_en": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "summary_fa": "تایلر شولتز، افشاگر نام‌آشنای پرونده شرکت ترانوس، نسبت به خطر فریبکاری گسترده در دوران رونق کنونی هوش مصنوعی هشدار داده است. به گفته او، ماجرای درس‌آموز ترانوس امروز اهمیت ویژه‌ای پیدا می‌کند، زیرا شرکت‌های هوش مصنوعی که تاکنون سودی نداشته‌اند، با ارزش‌گذاری‌های تریلیون دلاری جذب سرمایه می‌کنند. این وضعیت، فرصت مناسبی برای اغفال و کلاهبرداری ایجاد می‌کند.",
+      "tags": [
+        "Theranos",
+        "Tyler Shultz",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "فریبکاری"
+      ]
+    },
+    {
+      "id": "40aed769d1c2e6f7",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "TechCrunch Founder Summit 2026: شبکه‌سازی هوشمندانه برای بنیان‌گذاران با Braindate",
+      "title_en": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "summary_fa": "اجلاس بنیان‌گذاران TechCrunch در سال ۲۰۲۶ که در تاریخ ۴ نوامبر در بوستون برگزار می‌شود، با بهره‌گیری از پلتفرم Braindate، تجربه‌ای نوین در شبکه‌سازی ارائه می‌دهد. این رویداد با هدف تسهیل ارتباطات ۱ به ۱ و گروهی معنادار، به شرکت‌کنندگان کمک می‌کند تا به جای گفت‌وگوهای سطحی، تعاملات هدفمند داشته باشند. علاقه‌مندان می‌توانند با ثبت‌نام زودهنگام، تا ۱۰۰ دلار تخفیف دریافت کرده و یک بلیط دوم را رایگان به دست آورند.",
+      "tags": [
+        "TechCrunch Founder Summit",
+        "Braindate",
+        "Networking",
+        "استارتاپ",
+        "بنیان‌گذاران"
+      ]
+    },
+    {
+      "id": "e49f46b109f68045",
+      "date": "2026-11-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "وب عامل‌محور از راه رسید: تحقق رویای تیم برنرز-لی برای اینترنتی هوشمند",
+      "title_en": "The agentic web is here",
+      "summary_fa": "تیم برنرز-لی، خالق وب جهان‌گستر، در سال ۲۰۰۱ و یک دهه پس از اختراع خود، چشم‌اندازی جدید را مطرح کرد. او در مقاله‌ای با همکارانش در Scientific American، مفهوم «وب معنایی» را معرفی کرد؛ اینترنتی که توسط عامل‌های نرم‌افزاری خودکار هدایت می‌شود. این عامل‌ها قرار بود با قابلیت‌های خود، نیازهای کاربران را برطرف سازند و تجربه کاربری را هوشمندتر کنند. اکنون پس از دو دهه، ایده وب عامل‌محور در حال تبدیل شدن به واقعیت است.",
+      "tags": [
+        "Semantic Web",
+        "Agentic Web",
+        "Tim Berners-Lee",
+        "هوش مصنوعی",
+        "عامل‌های خودکار"
       ]
     }
   ]
