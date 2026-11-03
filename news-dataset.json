@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-02",
+    "last_updated": "2026-11-03",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1644
+    "total_articles": 1659
   },
   "articles": [
     {
@@ -27880,6 +27880,260 @@
         "Tim Berners-Lee",
         "هوش مصنوعی",
         "عامل‌های خودکار"
+      ]
+    },
+    {
+      "id": "de4cf53f9db96311",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scaling-git-at-openai",
+      "category": "مهندسی و ابزارهای توسعه هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی چگونه Git را برای توسعه‌ی عظیم هوش مصنوعی مقیاس‌پذیر کرد؟ معرفی Pando",
+      "title_en": "Scaling Git at OpenAI",
+      "summary_fa": "با پیشرفت مدل‌های هوش مصنوعی مانند Codex، تیم اوپن‌ای‌آی با چالش مدیریت توسعه‌ی عظیم کد در مقیاس بالا مواجه شد. برای حل این مشکل، آنها سیستم Pando را طراحی و توسعه دادند. Pando یک بک‌اند سازگار با Git است که به طور خاص برای پاسخگویی به نیازهای مقیاس‌پذیری بی‌سابقه‌ی پروژه‌های هوش مصنوعی ساخته شده است.",
+      "tags": [
+        "OpenAI",
+        "Git",
+        "Pando",
+        "Codex",
+        "Scalability"
+      ]
+    },
+    {
+      "id": "19244c7aa2063fd3",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/grid-protectors-program",
+      "category": "انرژی و پایداری هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی و برنامه‌ی «محافظان شبکه»: راهکاری برای پایداری انرژی و کاهش هزینه مصرف‌کنندگان",
+      "title_en": "Introducing the Grid Protectors Program",
+      "summary_fa": "شرکت اوپن‌ای‌آی برنامه‌ای با نام «محافظان شبکه» را معرفی کرده است. این برنامه با همکاری شرکت‌های برق، به پایداری شبکه‌های توزیع کمک می‌کند تا مراکز داده آینده بتوانند انرژی مورد نیاز خود را تامین کنند. هدف دیگر این طرح، محافظت از هزینه‌های برق مصرف‌کنندگان است.",
+      "tags": [
+        "OpenAI",
+        "Grid Protectors Program",
+        "انرژی هوش مصنوعی",
+        "پایداری شبکه برق",
+        "مراکز داده"
+      ]
+    },
+    {
+      "id": "262cfa35f4308cc0",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "category": "امنیت سایبری",
+      "title_fa": "تقویت دفاع سایبری OpenAI: رزمایش امنیتی جدید با کمک هوش مصنوعی آغاز می‌شود",
+      "title_en": "Preparing our next security sprint to harden OpenAI",
+      "summary_fa": "شرکت OpenAI در حال آماده‌سازی برای آغاز یک رزمایش امنیتی داخلی جدید است. این پروژه با همکاری شرکت Cathedral Systems انجام می‌شود و هدف آن آزمایش و تقویت سیستم‌های دفاعی OpenAI با بهره‌گیری از هوش مصنوعی است. این اقدام برای افزایش استحکام و ایمنی پلتفرم‌های این شرکت در برابر تهدیدات سایبری طراحی شده است.",
+      "tags": [
+        "OpenAI",
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "Cathedral Systems",
+        "دفاع سایبری"
+      ]
+    },
+    {
+      "id": "6fd6ad7938fa5bc5",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "category": "امنیت سایبری",
+      "title_fa": "OpenAI: پاداش‌های بیشتر برای متخصصان امنیت سایبری",
+      "title_en": "Rewarding defenders with bigger bug bounties",
+      "summary_fa": "شرکت OpenAI اعلام کرده است که به منظور تقویت امنیت سایبری خود، جوایز برنامه‌های کشف آسیب‌پذیری امنیتی (Bug Bounty) را افزایش می‌دهد. این اقدام شامل پاداش‌های جدیدی برای کیفیت گزارش‌ها، وفاداری محققان و مشارکت در کمپین‌های اولویت‌دار است. هدف از این کار، تشویق و جذب هرچه بیشتر محققان امنیتی مستقل برای شناسایی و گزارش نقاط ضعف در سیستم‌های هوش مصنوعی این شرکت است.",
+      "tags": [
+        "OpenAI",
+        "Bug Bounty",
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "آسیب‌پذیری"
+      ]
+    },
+    {
+      "id": "ed4b58253682640f",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/lifeval",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "معرفی LifeVal: معیاری جدید برای سنجش کارایی هوش مصنوعی در امور روزمره",
+      "title_en": "LifeVal",
+      "summary_fa": "LifeVal به عنوان یک معیار جدید برای سنجش میزان کمک هوش مصنوعی به کاربران در انجام وظایف روزمره معرفی شده است. این معیار، توانایی هوش مصنوعی را در رسیدگی به طیف وسیعی از امور، از یافتن خدمات نگهداری از کودک گرفته تا مدیریت امور مالی و انجام کارهای اداری دولتی ارزیابی می‌کند.",
+      "tags": [
+        "LifeVal",
+        "هوش مصنوعی",
+        "معیار",
+        "کارهای روزمره",
+        "ارزیابی"
+      ]
+    },
+    {
+      "id": "598c6194c0d34c23",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/qodo-codex-plugin",
+      "category": "کاربرد هوش مصنوعی در توسعه نرم‌افزار",
+      "title_fa": "Qodo با Codex: بازبینی هوشمند کد با درک بستر سازمانی",
+      "title_en": "Qodo builds context into AI code review with Codex",
+      "summary_fa": "شرکت Qodo پلتفرم خود را با ادغام دانش سازمانی و استانداردهای کدنویسی شرکت‌ها در سیستم بازبینی کد هوش مصنوعی Codex تقویت کرده است. این اقدام به توسعه‌دهندگان کمک می‌کند تا پیش از ارسال درخواست پول (pull request)، مسائل حیاتی (P0) را در مخازن مختلف کد شناسایی و رفع کنند. هدف این رویکرد، افزایش کارایی و کاهش خطاهای بحرانی در فرایند توسعه نرم‌افزار است.",
+      "tags": [
+        "Qodo",
+        "Codex",
+        "AI code review",
+        "توسعه نرم‌افزار",
+        "کیفیت کد"
+      ]
+    },
+    {
+      "id": "0e5b1d74afc987fe",
+      "date": "2026-11-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "category": "کاربرد هوش مصنوعی",
+      "title_fa": "اپل واچ: قابلیت‌های هوش مصنوعی مرور و خلاصه‌سازی مکالمات در فاز بتا",
+      "title_en": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "summary_fa": "قابلیت‌های جدید هوش مصنوعی اپل موسوم به Audio Intelligence که برای ساعت هوشمند اپل واچ توسعه یافته‌اند، وارد فاز آزمایش بتا شده‌اند. این ویژگی‌ها به کاربران امکان می‌دهند تا مکالمات را مرور کرده و به راحتی نکات مهم آن را به خاطر بسپارند یا یادداشت‌برداری کنند. این ابزار می‌تواند در یادآوری جزئیات صحبت‌ها و افزایش بهره‌وری شخصی بسیار کارآمد باشد.",
+      "tags": [
+        "Apple Watch",
+        "AI",
+        "Audio Intelligence",
+        "هوش مصنوعی",
+        "فاز بتا"
+      ]
+    },
+    {
+      "id": "4c7d73c3037dd08e",
+      "date": "2026-11-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Dreambeans گوگل: قصه‌گویی هوش مصنوعی برای میلیون‌ها هندی در ۱۳ زبان محلی",
+      "title_en": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary_fa": "Dreambeans، جدیدترین پروژه آزمایشی هوش مصنوعی گوگل، اکنون در هند در دسترس قرار گرفته است. هدف این ابزار، ارائه داستان‌های شخصی‌سازی شده توسط هوش مصنوعی به میلیون‌ها کاربر هندی است. این پلتفرم قابلیت پشتیبانی از ۱۳ زبان محلی هند را داراست و تجربه جدیدی از روایت‌گری دیجیتال را به ارمغان می‌آورد.",
+      "tags": [
+        "Google",
+        "Dreambeans",
+        "AI",
+        "Generative AI",
+        "India"
+      ]
+    },
+    {
+      "id": "9c67c7267a5625d5",
+      "date": "2026-11-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "اپل به دنبال فرصت‌های درآمدزایی جدید از هوش مصنوعی شخص ثالث",
+      "title_en": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary_fa": "شرکت اپل در جریان تماس کنفرانس گزارش مالی اخیر خود، به فرصت‌هایی برای افزایش درآمد از طریق همکاری با توسعه‌دهندگان شخص ثالث هوش مصنوعی اشاره کرده است. این گمانه‌زنی‌ها نشان می‌دهد که غول تکنولوژی قصد دارد از رونق برنامه‌های هوش مصنوعی برای تقویت بنیه‌ی مالی خود بهره ببرد. انتظار می‌رود اپل در آینده جزئیات بیشتری از استراتژی‌های درآمدزایی خود در این زمینه را فاش کند.",
+      "tags": [
+        "Apple",
+        "AI",
+        "درآمدزایی",
+        "اپلیکیشن شخص ثالث"
+      ]
+    },
+    {
+      "id": "bd936fe1d4a26927",
+      "date": "2026-11-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "اشتیاق پرهزینه گارری تن به عامل‌های هوش مصنوعی: سالانه ۲۰۰ هزار دلار",
+      "title_en": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary_fa": "گارری تن، رئیس Y Combinator، اذعان کرده است که به دلیل اشتیاق فراوانش به کار با عامل‌های هوش مصنوعی، گاهی از «جنون سایبری» رنج می‌برد و به ندرت می‌خوابد. او در قسمتی جدید از پادکست Walter Isaacson به نام The Builders، از این علاقه پرهزینه پرده برداشت. این مدیر مطرح حوزه تکنولوژی، هزینه‌ای تا ۲۰۰ هزار دلار در سال را برای استفاده از توکن‌های هوش مصنوعی تخمین زده است.",
+      "tags": [
+        "Garry Tan",
+        "Y Combinator",
+        "AI agents",
+        "هوش مصنوعی",
+        "هزینه‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "19ce29ebfa962815",
+      "date": "2026-11-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Trajectory با جذب ۴۵ میلیون دلار، آموزش مدل‌های هوش مصنوعی را برای غیرمتخصصان هموار می‌کند",
+      "title_en": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary_fa": "استارتاپ Trajectory که تنها یک سال از تاسیس آن می‌گذرد، موفق به جذب ۴۵ میلیون دلار سرمایه جدید شده است. هدف این شرکت، تسهیل آموزش مدل‌های هوش مصنوعی برای متخصصان غیرفنی و افزایش دسترسی‌پذیری آن است. با این جذب سرمایه، ارزش بازار Trajectory به ۳۰۰ میلیون دلار رسیده است.",
+      "tags": [
+        "Trajectory",
+        "جذب سرمایه",
+        "آموزش هوش مصنوعی",
+        "مدل هوش مصنوعی",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "55dd7e97ced5d872",
+      "date": "2026-11-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "Anthropic هشدار می‌دهد: هوش مصنوعی در آستانه قابلیت خودساختگی (RSI)",
+      "title_en": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary_fa": "شرکت Anthropic هشدار داده است که هوش مصنوعی در حال نزدیک شدن به قابلیت RSI (Recursive Self-Improvement) یا خودبهبودبخشی بازگشتی است. این نقطه به معنای توانایی هوش مصنوعی برای آموزش خود به قدری عالی است که منجر به شتابی چشمگیر در قابلیت‌هایش می‌شود. به اعتقاد کسانی که نگران خطرات هوش مصنوعی هستند، RSI یک رویداد فاجعه‌بار است که راه بازگشتی ندارد.",
+      "tags": [
+        "Anthropic",
+        "RSI",
+        "AI Safety",
+        "خودساختگی هوش مصنوعی",
+        "خطر وجودی"
+      ]
+    },
+    {
+      "id": "0ad9e89a8ab0a418",
+      "date": "2026-11-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "category": "هوش مصنوعی و تحلیل داده",
+      "title_fa": "هوش مصنوعی عاملی: گام بعدی در تحلیل داده‌ها و چالش کیفیت بینش‌ها",
+      "title_en": "Raising the quality of insights in agentic analytics",
+      "summary_fa": "هوش مصنوعی مولد در سال‌های اخیر، تحلیل داده‌ها در سازمان‌ها را دگرگون کرده و دسترسی به آن را برای کاربران سراسر سازمان تسهیل نموده است. اکنون هوش مصنوعی عاملی (Agentic AI) وعده می‌دهد که با خودکارسازی کامل فرایندها و اقدام بر اساس بینش‌های به دست آمده، قابلیت‌های بیشتری را ارائه دهد. با این حال، یک چالش اساسی در این زمینه وجود دارد: کیفیت بینش‌هایی که در حال حاضر توسط این عوامل هوشمند تولید می‌شوند، نیاز به بهبود جدی دارد.",
+      "tags": [
+        "Agentic AI",
+        "Generative AI",
+        "تحلیل داده",
+        "بینش‌های سازمانی",
+        "کیفیت"
+      ]
+    },
+    {
+      "id": "728c21b3deeb61e6",
+      "date": "2026-11-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "فراتر از شمارش توکن‌ها: سنجش واقعی ارزش عامل‌های هوش مصنوعی در خروجی نهایی",
+      "title_en": "Stop counting tokens, start counting what ships",
+      "summary_fa": "عامل‌های هوش مصنوعی، به‌ویژه در وظایف پیچیده‌ای مانند برنامه‌نویسی، فراتر از یک پاسخ ساده عمل می‌کنند. آن‌ها مراحلی چون برنامه‌ریزی، تولید کد، آزمایش و رفع خطا را بارها تکرار می‌کنند که می‌تواند ۱۰ تا ۵۰ برابر بیشتر از یک پرسش چت ساده، توکن مصرف کند. این روند نشان می‌دهد که هرچه عامل‌های هوش مصنوعی کارآمدتر و مفیدتر باشند، تعاملات آن‌ها پیچیده‌تر و در نتیجه مصرف توکن برای انجام یک کار واحد به طور چشمگیری افزایش می‌یابد. بنابراین، ارزیابی این ابزارها تنها بر اساس تعداد توکن‌های مصرفی، معیار دقیقی برای سنجش ارزش واقعی آن‌ها نیست.",
+      "tags": [
+        "AI agents",
+        "Tokens",
+        "AI development",
+        "معیارهای ارزیابی",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "54d517bb1328ce54",
+      "date": "2026-11-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "category": "فناوری‌های وب",
+      "title_fa": "وب عامل‌محور از راه رسید: رویای ۲۰ ساله تیم برنرز-لی برای اینترنت هوشمند",
+      "title_en": "The Download: the agentic web arrives and the drive for safer roads",
+      "summary_fa": "خبرنامه روزانه \"The Download\" به بررسی تحولات تکنولوژی می‌پردازد و در شماره امروز خود، به \"وب عامل‌محور\" پرداخته است. این مفهوم، چشم‌اندازی بود که تیم برنرز-لی، مخترع وب، در سال ۲۰۰۱ مطرح کرد. وب عامل‌محور به اینترنتی اشاره دارد که توسط عامل‌های نرم‌افزاری خودمختار اداره شده و قادرند به‌طور مستقل به نیازهای کاربران پاسخ دهند.",
+      "tags": [
+        "agentic web",
+        "autonomous agents",
+        "Tim Berners-Lee",
+        "اینترنت",
+        "هوش مصنوعی"
       ]
     }
   ]
