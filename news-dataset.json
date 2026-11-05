@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-05",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1659
+    "total_articles": 1671
   },
   "articles": [
     {
@@ -28134,6 +28134,210 @@
         "Tim Berners-Lee",
         "اینترنت",
         "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "3a06f84c0f51a102",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-to-acquire-pierre",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "OpenAI شرکت Pierre Computer را برای تقویت ابزارهای کدنویسی هوش مصنوعی خود خریداری می‌کند",
+      "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary_fa": "شرکت OpenAI اعلام کرده است که قصد دارد شرکت Pierre Computer را خریداری کند. این اقدام با هدف گسترش و تقویت ابزارهای هوش مصنوعی Codex انجام می‌شود که در زمینه‌های ساخت، درک و بازبینی کد کاربرد دارند.",
+      "tags": [
+        "OpenAI",
+        "Pierre Computer",
+        "Codex",
+        "هوش مصنوعی",
+        "خرید و تملک"
+      ]
+    },
+    {
+      "id": "75679f5aa60bfcf8",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "category": "امنیت سایبری",
+      "title_fa": "Daybreak Red: هوش مصنوعی GPT-5.6 Cyber در AWS GovCloud برای امنیت سایبری عرضه شد",
+      "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary_fa": "خدمت Daybreak Red اکنون به طور رسمی در AWS GovCloud (US-East) راه‌اندازی شده است. این سرویس، مدل هوش مصنوعی GPT-5.6 Cyber را از طریق Amazon Bedrock برای انجام فعالیت‌های مجاز امنیت سایبری در اختیار مشتریان تاییدشده قرار می‌دهد.",
+      "tags": [
+        "Daybreak Red",
+        "GPT-5.6 Cyber",
+        "AWS GovCloud",
+        "امنیت سایبری",
+        "Amazon Bedrock"
+      ]
+    },
+    {
+      "id": "a4f4c423c5426033",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "category": "امنیت سایبری",
+      "title_fa": "شاهکار هوش مصنوعی OpenAI: شناسایی و رفع خودکار ۹۴۸ آسیب‌پذیری امنیتی کرنل لینوکس",
+      "title_en": "A thousand fewer paths to root",
+      "summary_fa": "OpenAI یک سیستم خودکار (pipeline) توسعه داده است که به طور مستقل موفق به کشف، اعتبارسنجی و تولید وصله امنیتی برای ۹۴۸ آسیب‌پذیری جدی در کرنل لینوکس شده است. این آسیب‌پذیری‌ها از نوع افزایش دسترسی محلی (privilege escalation) بوده‌اند. این دستاورد مهم، گامی بزرگ در جهت افزایش امنیت سیستم‌عامل‌های لینوکسی و کاهش خطرات نفوذ به حساب می‌آید.",
+      "tags": [
+        "OpenAI",
+        "Linux kernel",
+        "امنیت سایبری",
+        "آسیب‌پذیری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "0a437d67f2effbc5",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-images-2-6",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Images 2.6: جهشی نوین در تولید و ویرایش تصویر با سرعت و دقت بیشتر",
+      "title_en": "Introducing Images 2.6",
+      "summary_fa": "نسخه ۲.۶ ابزار Images با ارائه قابلیت‌های نوین، تجربه تولید و ویرایش تصویر را بهبود می‌بخشد. این به‌روزرسانی مهم شامل تولید سریع‌تر تصاویر، امکان ساخت GIF و قابلیت‌های ویرایش بسیار دقیق‌تر است. تمامی این امکانات جدید، همراه با کنترل‌های پیشرفته‌تر API، در پلتفرم‌های ChatGPT، Codex و API در دسترس کاربران قرار گرفته‌اند.",
+      "tags": [
+        "Images 2.6",
+        "ChatGPT",
+        "تولید تصویر",
+        "هوش مصنوعی",
+        "API"
+      ]
+    },
+    {
+      "id": "bf25be8f87794d7d",
+      "date": "2026-11-04",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/devrev-enterprise-self-service",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "DevRev و نسل جدید خودخدمتی سازمانی با GPT-6.1 Sol",
+      "title_en": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary_fa": "شرکت DevRev با استفاده از مدل پیشرفته GPT-6.1 Sol، نسل جدیدی از خدمات خودخدمتی مستقل و هوشمند را برای سازمان‌ها ارائه می‌دهد. این مدل قدرتمند، سیستم‌های «Computer» و «Operator» این شرکت را تقویت می‌کند. هدف اصلی، ایجاد تعادل بهینه بین قابلیت‌های استدلال، سرعت پاسخگویی و مدیریت هزینه‌ها در ارائه‌ی خدمات سازمانی است.",
+      "tags": [
+        "DevRev",
+        "GPT-6.1 Sol",
+        "خودخدمتی هوشمند",
+        "خدمات سازمانی",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "26c6032e1d267765",
+      "date": "2026-11-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "category": "کاربرد هوش مصنوعی در علم و مهندسی",
+      "title_fa": "تسریع فرآیندهای مهندسی در دنیای واقعی با کمک ChatGPT و Codex",
+      "title_en": "Accelerating engineering for the physical world",
+      "summary_fa": "این خبر به بررسی نقش مدل‌های هوش مصنوعی ChatGPT و Codex در شتاب‌دهی به فرآیندهای مهندسی می‌پردازد. این فناوری‌ها به مهندسان کمک می‌کنند تا طراحی‌های CAD، مدارهای چاپی (PCB) و شبیه‌سازی‌ها را در دنیای فیزیکی با سرعت و کارایی بیشتری انجام دهند. با بهره‌گیری از هوش مصنوعی، مراحل پیچیده طراحی و توسعه محصول به شکل چشمگیری سریع‌تر و بهینه‌تر می‌شوند.",
+      "tags": [
+        "ChatGPT",
+        "Codex",
+        "مهندسی",
+        "CAD",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "1c7da4acfcdd25cb",
+      "date": "2026-11-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "گزارش‌ها: اپل بودجه هوش مصنوعی داخلی خود را کاهش می‌دهد",
+      "title_en": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary_fa": "بر اساس گزارش‌های اخیر، شرکت اپل در حال کاهش قابل توجه بودجه‌ای است که برای استفاده از هوش مصنوعی در تیم‌های مهندسی خود اختصاص داده بود. این اقدام می‌تواند نشانه‌ای از تغییر اولویت‌ها یا بازنگری در استراتژی‌های داخلی این غول فناوری در حوزه هوش مصنوعی باشد.",
+      "tags": [
+        "Apple",
+        "AI",
+        "بودجه",
+        "استراتژی شرکت",
+        "کاهش هزینه"
+      ]
+    },
+    {
+      "id": "33a7076609087ff9",
+      "date": "2026-11-04",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "لابی‌گری هوش مصنوعی در آمریکا: میلیون‌ها دلار برای نفوذ در کنگره، با نتایجی متفاوت",
+      "title_en": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "summary_fa": "کمیته‌های اقدام سیاسی (PACs) مرتبط با صنعت هوش مصنوعی، میلیون‌ها دلار برای تأثیرگذاری بر انتخابات میان‌دوره‌ای ۲۰۲۶ آمریکا هزینه کرده‌اند. با این حال، نتایج این تلاش‌ها متفاوت بوده و موفقیت یکسانی را به همراه نداشته است. هم‌اکنون، گروه‌های سیاسی توجه خود را به دور بعدی انتخابات معطوف کرده‌اند تا رویکردهای آتی خود را تعیین کنند.",
+      "tags": [
+        "AI",
+        "PACs",
+        "کنگره آمریکا",
+        "لابی‌گری",
+        "انتخابات"
+      ]
+    },
+    {
+      "id": "f3f4f568585b6de9",
+      "date": "2026-11-04",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "category": "پذیرش هوش مصنوعی",
+      "title_fa": "اوبر: استقبال از عامل‌های هوش مصنوعی برای رزرو سفر تقریباً صفر است",
+      "title_en": "Almost no one uses AI agents to book their Uber, company says",
+      "summary_fa": "اوبر در گزارشی جدید اعلام کرده که استفاده از عامل‌های هوش مصنوعی برای رزرو سفر در پلتفرم این شرکت بسیار محدود است. طبق گفته این شرکت، حتی در شلوغ‌ترین هفته سه‌ماهه گذشته، تنها چهار نفر سفر خود را با استفاده از یک عامل هوش مصنوعی رزرو کرده‌اند.",
+      "tags": [
+        "Uber",
+        "AI agents",
+        "هوش مصنوعی",
+        "رزرو سفر",
+        "پذیرش کاربر"
+      ]
+    },
+    {
+      "id": "6050c43be029e750",
+      "date": "2026-11-04",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI و نفوذ در انتخابات ۲۰۲۸: هوش مصنوعی، ابزار جدید سیاست؟",
+      "title_en": "OpenAI is already trying to shape the 2028 election",
+      "summary_fa": "کریس لیهین از OpenAI اعلام کرده است که هدف این شرکت، تبدیل هوش مصنوعی به محور اصلی انتخابات ۲۰۲۸ آمریکاست. او پیشنهاد یک «قرارداد اجتماعی جدید» را مطرح کرده که ضمن نفع رساندن به شهروندان، منافع تجاری این غول هوش مصنوعی را نیز تأمین کند.",
+      "tags": [
+        "OpenAI",
+        "انتخابات ۲۰۲۸",
+        "هوش مصنوعی",
+        "سیاست",
+        "Chris Lehane"
+      ]
+    },
+    {
+      "id": "2550523e2a0eb13f",
+      "date": "2026-11-04",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "چرخش سیاسی در تگزاس، موقعیت این ایالت را به عنوان قطب مراکز داده هوش مصنوعی به خطر می‌اندازد",
+      "title_en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary_fa": "ایالت تگزاس به سرعت در حال تبدیل شدن به بزرگترین بازار مراکز داده در ایالات متحده و قطب اصلی ساخت‌وسازهای عظیم هوش مصنوعی توسط شرکت‌های بزرگ فناوری بود. اما موج آبی دموکرات‌ها که این ایالت را فرا گرفته، ممکن است این موقعیت را به خطر اندازد. پیروزی دموکرات‌ها در انتخابات سنا و فرمانداری، نگرانی‌هایی را در مورد آینده این سرمایه‌گذاری‌ها ایجاد کرده است.",
+      "tags": [
+        "Texas",
+        "مراکز داده",
+        "هوش مصنوعی",
+        "سیاست آمریکا",
+        "Big Tech"
+      ]
+    },
+    {
+      "id": "6bd88fe9252b2402",
+      "date": "2026-11-03",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "نظریه بازی معکوس: راهی جدید برای کنترل عامل‌های هوش مصنوعی و تضمین وفاداری ابرهوش‌ها",
+      "title_en": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "summary_fa": "در جدیدترین نسخه خبرنامه روزانه تکنولوژی، رویکردی نوین به نام «نظریه بازی معکوس» برای کنترل عامل‌های هوش مصنوعی معرفی شده است. این روش با طراحی سیستم‌هایی که به مدل‌های قدرتمند هوش مصنوعی انگیزه می‌دهند، به دنبال همراستا نگه داشتن آن‌ها با اهداف انسانی است. هدف نهایی، تضمین وفاداری و مهار هوش مصنوعی فوق‌بشری است تا از مسیر مطلوب منحرف نشوند.",
+      "tags": [
+        "نظریه بازی معکوس",
+        "AI agents",
+        "هوش مصنوعی فوق‌هوشمند",
+        "کنترل هوش مصنوعی",
+        "همراستایی هوش مصنوعی"
       ]
     }
   ]
