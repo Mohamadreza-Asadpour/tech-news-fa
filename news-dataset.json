@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-05",
+    "last_updated": "2026-11-06",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1671
+    "total_articles": 1689
   },
   "articles": [
     {
@@ -28338,6 +28338,309 @@
         "هوش مصنوعی فوق‌هوشمند",
         "کنترل هوش مصنوعی",
         "همراستایی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "b58fee4edbbb5f7a",
+      "date": "2026-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "category": "آموزش و هوش مصنوعی",
+      "title_fa": "استرالیا، پیشگام تربیت فارغ‌التحصیلان «بومی هوش مصنوعی»",
+      "title_en": "Australian universities are creating AI-native graduates",
+      "summary_fa": "دانشگاه‌های استرالیا در اقدامی پیشرو، دسترسی دانشجویان به ابزارهایی مانند ChatGPT را افزایش داده و هوش مصنوعی را به طور گسترده‌ای در فرآیندهای تدریس و یادگیری ادغام می‌کنند. هدف از این رویکرد جدید، تربیت نسلی از فارغ‌التحصیلان است که از همان ابتدا با فناوری‌های هوش مصنوعی آشنا بوده و برای ورود به بازار کار مبتنی بر هوش مصنوعی کاملاً آماده باشند.",
+      "tags": [
+        "هوش مصنوعی در آموزش",
+        "دانشگاه‌های استرالیا",
+        "ChatGPT",
+        "نسل هوش مصنوعی",
+        "آماده‌سازی نیروی کار"
+      ]
+    },
+    {
+      "id": "c88b52d0b21039c7",
+      "date": "2026-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/cultfit-builds-with-codex",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Cult.fit با Codex: تحول در چابکی و کارایی عملیات داخلی",
+      "title_en": "Cult.fit builds operational muscle with Codex",
+      "summary_fa": "شرکت Cult.fit برای بهبود عملیات داخلی خود، از ابزار هوش مصنوعی Codex بهره می‌برد. این پلتفرم به تیم‌های مختلف در این شرکت کمک می‌کند تا ابزارهای مورد نیاز خود را سریع‌تر بسازند، فرآیندهای کاری را تسریع بخشند و در نهایت، شیوه انجام کارها را متحول کنند. هدف اصلی این اقدام، افزایش چابکی و کارایی در سراسر سازمان است.",
+      "tags": [
+        "Cult.fit",
+        "Codex",
+        "هوش مصنوعی",
+        "بهره‌وری عملیاتی",
+        "ابزارهای داخلی"
+      ]
+    },
+    {
+      "id": "53c56afbaf05f856",
+      "date": "2026-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "category": "امنیت سایبری",
+      "title_fa": "GPT-6 Cyber: هوش مصنوعی OpenAI در خط مقدم دفاع سایبری با رویکرد مسئولانه",
+      "title_en": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary_fa": "OpenAI از مدل جدید هوش مصنوعی خود به نام GPT-6 Cyber رونمایی کرده است. این مدل به‌طور خاص برای شناسایی آسیب‌پذیری‌های قابل سوءاستفاده در سیستم‌ها و توسعه راه‌حل‌های ترمیمی در حوزه امنیت سایبری طراحی شده است. نکته حائز اهمیت این است که GPT-6 Cyber به‌گونه‌ای آموزش دیده که همواره در محدوده مجاز و اخلاقی فعالیت کند و از هرگونه استفاده غیرمجاز جلوگیری نماید.",
+      "tags": [
+        "OpenAI",
+        "GPT-6 Cyber",
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "آسیب‌پذیری"
+      ]
+    },
+    {
+      "id": "300d91101f21ec1d",
+      "date": "2026-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/merge-builds-with-openai",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Merge: توسعه ابزارهای محصول و کسب‌وکار با بهره‌گیری از هوش مصنوعی OpenAI",
+      "title_en": "Merge builds product and business tools with OpenAI technology",
+      "summary_fa": "شرکت Merge برای توسعه ابزارهای محصول و کسب‌وکار خود از فناوری‌های هوش مصنوعی پیشرفته OpenAI از جمله GPT-6 Astra، ChatGPT و Codex استفاده می‌کند. این ابزارها کاربردهای متنوعی از بررسی کدهای محصول و پشتیبانی بازاریابی گرفته تا برنامه‌ریزی جلسات مدیران اجرایی و آماده‌سازی گزارش‌های فروش دارند.",
+      "tags": [
+        "Merge",
+        "OpenAI",
+        "ChatGPT",
+        "هوش مصنوعی در کسب‌وکار",
+        "توسعه محصول"
+      ]
+    },
+    {
+      "id": "f93567576105c713",
+      "date": "2026-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI: گامی تازه در تعریف زیرساخت مسئولانه هوش مصنوعی با طرح‌های حمایتی",
+      "title_en": "Setting a new standard for responsible AI infrastructure",
+      "summary_fa": "OpenAI با معرفی «پیمان ملی جامعه» و «سند سیاست‌گذاری پردیس‌های پردازشی»، رویکرد جدیدی برای توسعه زیرساخت‌های هوش مصنوعی ارائه داده است. هدف این طرح‌ها، تعیین استانداردهایی برای توسعه مسئولانه زیرساخت‌های AI است. این ابتکارات بر حفاظت از منابع محلی، ایجاد فرصت‌های شغلی و هدایت اخلاقی توسعه هوش مصنوعی در جوامع تمرکز دارند.",
+      "tags": [
+        "OpenAI",
+        "Responsible AI",
+        "AI infrastructure",
+        "Policy",
+        "توسعه پایدار"
+      ]
+    },
+    {
+      "id": "1f9981de57006417",
+      "date": "2026-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/ads/customers/flipsnack",
+      "category": "کاربرد هوش مصنوعی در کسب‌وکار",
+      "title_fa": "Flipsnack: افزایش چشمگیر ثبت‌نام و کاهش هزینه با بهینه‌سازی تبلیغات مبتنی بر هوش مصنوعی",
+      "title_en": "Flipsnack grows product signups with conversion optimization",
+      "summary_fa": "شرکت Flipsnack با تمرکز بر بهینه‌سازی کمپین‌های تبلیغاتی خود از طریق ChatGPT Ads، موفق به افزایش چشمگیر تعداد ثبت‌نام کاربران محصولش شد. این رویکرد هوشمندانه باعث شد تا Flipsnack همزمان با رشد ثبت‌نام‌ها، هزینه جذب هر کاربر جدید را نیز به طور قابل توجهی کاهش دهد.",
+      "tags": [
+        "Flipsnack",
+        "ChatGPT Ads",
+        "Conversion Optimization",
+        "Digital Marketing",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "9889510bec40cd60",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "پالو آلتو نتورکس در آستانه‌ی خرید استارتاپ امنیت هوش مصنوعی Clutch با پیشنهادی ۵۰۰ میلیون دلاری",
+      "title_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary_fa": "شرکت بزرگ امنیت سایبری پالو آلتو نتورکس در حال مذاکره برای خرید استارتاپ نوپای Clutch است که در زمینه امنیت عامل‌های هوش مصنوعی فعالیت می‌کند. این معامله احتمالی با ارزشی بالغ بر ۵۰۰ میلیون دلار صورت خواهد گرفت. Clutch که مورد حمایت سرمایه‌گذاران بزرگی چون Lightspeed و SignalFire قرار دارد، آخرین بار ۸۵ میلیون دلار ارزش‌گذاری شده بود.",
+      "tags": [
+        "Palo Alto Networks",
+        "Clutch",
+        "امنیت هوش مصنوعی",
+        "اکتساب",
+        "امنیت سایبری"
+      ]
+    },
+    {
+      "id": "01af2f668adeb82b",
+      "date": "2026-11-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ایر بی‌ان‌بی از عرضه دستیار سفر هوش مصنوعی خود در نیمه اول ۲۰۲۷ خبر داد",
+      "title_en": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary_fa": "ایر بی‌ان‌بی از برنامه‌های خود برای عرضه یک دستیار سفر مبتنی بر هوش مصنوعی در نیمه اول سال ۲۰۲۷ خبر داده است. این شرکت اعلام کرده که دستیار هوش مصنوعی آن‌ها به مسافران در برنامه‌ریزی سفر، مقایسه گزینه‌ها و مدیریت رزروها کمک خواهد کرد. همچنین، این دستیار در طول اقامت کاربران، پشتیبانی و کمک‌های لازم را ارائه خواهد داد.",
+      "tags": [
+        "Airbnb",
+        "AI travel agent",
+        "هوش مصنوعی",
+        "گردشگری",
+        "سفر"
+      ]
+    },
+    {
+      "id": "9d6202c03434e451",
+      "date": "2026-11-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "category": "محصولات و سرویس‌های هوش مصنوعی",
+      "title_fa": "متا قابلیت مکالمه ویدیویی با آواتار هوش مصنوعی Muse را برای کاربران آمریکایی فراهم کرد",
+      "title_en": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary_fa": "شرکت متا اعلام کرده است که کاربران آمریکایی هم‌اکنون می‌توانند با آواتار هوش مصنوعی Muse خود به صورت ویدیویی مکالمه کنند. این قابلیت به عامل هوش مصنوعی متا امکان می‌دهد تا در قالب یک آواتار متحرک و قابل شخصی‌سازی، تماس‌های ویدیویی را پاسخ دهد. این اقدام پیش‌درآمدی بر عرضه یک دستگاه پوشیدنی شبیه به Tamagotchi است که برای زنده‌کردن و تعاملی‌تر ساختن Muse طراحی شده است.",
+      "tags": [
+        "Meta",
+        "Muse AI",
+        "AI avatar",
+        "Video chat",
+        "Wearable"
+      ]
+    },
+    {
+      "id": "ea881b03ae961dac",
+      "date": "2026-11-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هشدار متا: مقاومت در برابر دیتاسنترها، گسترش هوش مصنوعی را دشوار می‌سازد",
+      "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary_fa": "متا هشدار داده است که مخالفت‌های فزاینده سیاسی و مردمی با ساخت مراکز داده می‌تواند سرمایه‌گذاری‌های آتی در هوش مصنوعی را به خطر اندازد. این شرکت نگران است که جوامع محلی در برابر پروژه‌های عظیم زیرساختی مقاومت نشان دهند. این موضوع گسترش فناوری هوش مصنوعی را در آینده دشوارتر خواهد کرد.",
+      "tags": [
+        "Meta",
+        "AI",
+        "Data centers",
+        "زیرساخت",
+        "سرمایه‌گذاری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8f7798ef97e41335",
+      "date": "2026-11-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "category": "امنیت سایبری",
+      "title_fa": "عرضه مدل امنیت سایبری جدید OpenAI؛ آیا این برای مقابله با تهدیدات زیرساختی کافی است؟",
+      "title_en": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary_fa": "شرکت OpenAI جدیدترین مدل امنیت سایبری خود را معرفی کرده است. این عرضه در شرایطی صورت می‌گیرد که آزمایشگاه‌های هوش مصنوعی به دلیل تلاش‌هایشان برای حفاظت از زیرساخت‌های دیجیتال، تحت نظارت و بررسی دقیق قرار دارند.",
+      "tags": [
+        "OpenAI",
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "زیرساخت دیجیتال"
+      ]
+    },
+    {
+      "id": "bf7e9a38adde5887",
+      "date": "2026-11-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "OpenAI: عرضه اولیه سهام تا ۲۰۲۷ در چشم‌انداز شرکت",
+      "title_en": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary_fa": "گرگ براکمن، رئیس شرکت OpenAI، در کنفرانس تکنولوژی وال استریت ژورنال اعلام کرد که این شرکت ممکن است تا سال ۲۰۲۷ آماده عرضه اولیه سهام (IPO) شود. او به پیشرفت‌های چشمگیر شرکت در بازار سازمانی اشاره کرد. این در حالی است که رقیب اصلی آنها، Anthropic، پیش‌تر در این حوزه به موفقیت‌هایی دست یافته بود و OpenAI اکنون در حال رقابت جدی با آن است.",
+      "tags": [
+        "OpenAI",
+        "IPO",
+        "Greg Brockman",
+        "Anthropic",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2009a33d518f8a72",
+      "date": "2026-11-05",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "رونق شکننده‌ی هوش مصنوعی در تگزاس: چالش‌های سیاست انرژی پیش روی مراکز داده",
+      "title_en": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "summary_fa": "تگزاس به سرعت به قطب اصلی و سریع‌الرشدترین بازار مراکز داده هوش مصنوعی در آمریکا تبدیل شده است. اما این رشد چشمگیر اکنون با خطر شکنندگی و توقف مواجه است. تغییرات احتمالی در سیاست‌های انرژی ایالت، آینده‌ی این مراکز داده و سرمایه‌گذاری‌های کلان شرکت‌های بزرگ فناوری را تحت‌الشعاع قرار داده و ابهامات زیادی را در مورد پایداری این رونق ایجاد کرده است.",
+      "tags": [
+        "Texas",
+        "مراکز داده هوش مصنوعی",
+        "سیاست انرژی",
+        "Big Tech",
+        "رونق فناوری"
+      ]
+    },
+    {
+      "id": "1025afbf9ca2b7a7",
+      "date": "2026-11-05",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "category": "سیاست انرژی",
+      "title_fa": "لایحه‌ی جدید در سنای آمریکا: شتاب‌دهنده توسعه زیرساخت‌های انرژی",
+      "title_en": "A new bill could change how the US builds energy infrastructure",
+      "summary_fa": "لایحه‌ای گسترده در کنگره آمریکا، با هدف کاهش بروکراسی اداری، می‌تواند به سرعت بخشیدن به توسعه زیرساخت‌های انرژی این کشور کمک کند. این لایحه که «قانون اشتغال و مقرون‌به‌صرفه بودن آمریکا با حمایت هر دو حزب» (BAAJA) نام دارد، قرار است در تاریخ ۹ نوامبر و اندکی پس از انتخابات میان‌دوره‌ای، در مجلس سنا به رأی گذاشته شود. اجرای آن پتانسیل ایجاد تغییرات اساسی در نحوه ساخت و گسترش پروژه‌های انرژی در ایالات متحده را دارد.",
+      "tags": [
+        "زیرساخت انرژی",
+        "سیاست آمریکا",
+        "قانون‌گذاری",
+        "BAAJA"
+      ]
+    },
+    {
+      "id": "38c257273c687579",
+      "date": "2026-11-04",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "category": "پژوهش و فناوری‌های آینده‌نگر",
+      "title_fa": "کاوشی در رویای جاودانگی شناختی: بقای ذهن فراتر از مرگ",
+      "title_en": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "summary_fa": "تکنولوژیست‌های پیشرو در تلاشند تا راهکارهایی برای تداوم آگاهی و بقای ذهن انسان حتی پس از مرگ بیابند. این پژوهش‌ها با هدف دستیابی به نوعی «جاودانگی شناختی» صورت می‌گیرد. در گفتگویی آتی با حضور سردبیران علمی و زیست‌پزشکی، مسیرهای ممکن برای حفظ عملکرد ذهن بررسی خواهد شد.",
+      "tags": [
+        "جاودانگی شناختی",
+        "آگاهی",
+        "فناوری‌های آینده",
+        "علوم اعصاب"
+      ]
+    },
+    {
+      "id": "943b2cb16dd853b8",
+      "date": "2026-11-04",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای آمریکا: تغییر مسیر احتمالی سیاست‌های انرژی",
+      "title_en": "What’s next for US energy policy after the midterm elections?",
+      "summary_fa": "با اعلام نتایج انتخابات میان‌دوره‌ای آمریکا، حزب دموکرات توانست کنترل هر دو مجلس نمایندگان و سنا را در دست بگیرد. این پیروزی یک چرخش قابل توجه در مقایسه با دوره قبلی دونالد ترامپ محسوب می‌شود. تغییر در ترکیب کنگره می‌تواند بر سیاست‌های آتی کشور، از جمله رویکردهای مربوط به انرژی و فناوری، تأثیرگذار باشد.",
+      "tags": [
+        "انتخابات میان‌دوره‌ای آمریکا",
+        "Democratic Party",
+        "سیاست انرژی",
+        "کنگره آمریکا",
+        "US Politics"
+      ]
+    },
+    {
+      "id": "1637a0703f9f51dc",
+      "date": "2026-11-04",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "category": "نوآوری در صنعت غذا",
+      "title_fa": "نوآوری در صنعت غذا: استارتاپ‌ها با «گوشت ترکیبی» به جنگ مصرف گوشت قرمز می‌روند",
+      "title_en": "The Download: blended meat, restored sight, and the agentic web",
+      "summary_fa": "خبرنامه روزانه «The Download» به فعالیت استارتاپ‌هایی اشاره می‌کند که با معرفی «غذاهای ترکیبی» (Blended Food)، به دنبال کاهش چشمگیر مصرف گوشت قرمز هستند. این رویکرد، با ترکیب گوشت با سایر مواد غذایی، جایگزینی سالم‌تر و پایدارتر ارائه می‌دهد. به عنوان نمونه، جف دوج در سال ۲۰۲۵ با سرو کوفته‌قلقلی‌های حاوی این نوع گوشت در مدارس، توانست رضایت دانش‌آموزان را جلب کند و موفقیت این روش را به اثبات برساند.",
+      "tags": [
+        "گوشت ترکیبی",
+        "فناوری غذا",
+        "استارتاپ",
+        "پایداری",
+        "کاهش مصرف گوشت قرمز"
+      ]
+    },
+    {
+      "id": "f5f168ec4f0cd17b",
+      "date": "2026-11-04",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ریشه‌یابی داده‌ها: راهکار تضمین امنیت و دقت در سازمان‌های عامل‌محور هوش مصنوعی",
+      "title_en": "Securing the agentic enterprise with data lineage",
+      "summary_fa": "در سازمان‌های عامل‌محور، عامل‌های هوش مصنوعی به طور مستقل برای انجام وظایف مختلف (مانند قیمت‌گذاری مشتری و تهیه پیشنهاد) به داده‌های حساس از منابع متعدد دسترسی پیدا می‌کنند. این فرآیند اغلب بدون نظارت انسانی انجام می‌شود و عامل‌ها خروجی‌های خود را بدون تأیید نهایی انسان تولید می‌کنند. این فقدان بررسی می‌تواند منجر به خطاهای مهم در داده‌ها و خروجی‌ها شود، که چالش‌های جدی برای دقت و امنیت سازمانی ایجاد می‌کند و اهمیت ردیابی منشأ داده‌ها (data lineage) را دوچندان می‌سازد.",
+      "tags": [
+        "AI agents",
+        "Data lineage",
+        "Enterprise AI",
+        "امنیت داده",
+        "هوش مصنوعی سازمانی"
       ]
     }
   ]
