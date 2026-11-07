@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-07",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1689
+    "total_articles": 1700
   },
   "articles": [
     {
@@ -28641,6 +28641,193 @@
         "Enterprise AI",
         "امنیت داده",
         "هوش مصنوعی سازمانی"
+      ]
+    },
+    {
+      "id": "cfd4354afa14004f",
+      "date": "2026-11-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "OpenAI ابزاری برای سنجش توانایی هوش مصنوعی در آزمایشگاه‌های زیستی معرفی کرد",
+      "title_en": "Measuring how AI agents handle everyday wet-lab science",
+      "summary_fa": "شرکت OpenAI به تازگی BioBasicsBench را معرفی کرده است، یک معیار سنجش ۱۰۰ وظیفه‌ای. این ابزار برای ارزیابی میزان توانایی عامل‌های هوش مصنوعی در تفسیر داده‌های خام آزمایشگاهی و انجام امور روزمره در آزمایشگاه‌های زیستی (wet-lab science) طراحی شده است.",
+      "tags": [
+        "OpenAI",
+        "BioBasicsBench",
+        "AI agents",
+        "آزمایشگاه زیستی",
+        "معیار سنجش"
+      ]
+    },
+    {
+      "id": "a2357e701f020223",
+      "date": "2026-11-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/cisco-cyber",
+      "category": "امنیت سایبری",
+      "title_fa": "سیسکو و OpenAI: دفاع سایبری سازمانی با سرعت ماشین",
+      "title_en": "How Cisco defends at machine speed with OpenAI",
+      "summary_fa": "شرکت سیسکو با ادغام هوش شبکه خود و مدل‌های هوش مصنوعی OpenAI، امنیت سایبری سازمانی را به سرعت ماشین ارتقا می‌دهد. این همکاری به منظور ایجاد سیستم‌های دفاعی تطبیق‌پذیرتر و واکنش‌گراتر در برابر تهدیدات نوین سایبری طراحی شده است.",
+      "tags": [
+        "Cisco",
+        "OpenAI",
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "دفاع شبکه"
+      ]
+    },
+    {
+      "id": "08b710f1e7801fa8",
+      "date": "2026-11-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/heimstaden",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Heimstaden با هوش مصنوعی، مدیریت املاک مسکونی را در اروپا متحول می‌کند",
+      "title_en": "Heimstaden is changing residential real estate management with AI",
+      "summary_fa": "شرکت Heimstaden با به‌کارگیری ChatGPT Enterprise و Codex از OpenAI، مدیریت املاک مسکونی خود را در سراسر اروپا متحول کرده است. این رویکرد نوآورانه به آن‌ها کمک می‌کند تا هزینه‌ها را کاهش دهند و کارایی کارمندان خود را افزایش دهند.",
+      "tags": [
+        "Heimstaden",
+        "OpenAI",
+        "ChatGPT Enterprise",
+        "مدیریت املاک",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "3d509e27bae229a3",
+      "date": "2026-11-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "OpenAI مدیر ارشد جدید ارتباطات و امور شرکتی خود را معرفی کرد",
+      "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary_fa": "جیل هیزلبیکر به عنوان مدیر ارشد امور شرکت‌ها به OpenAI پیوست. او مسئولیت هدایت ارتباطات جهانی و موقعیت‌سازی شرکتی این سازمان پیشرو در هوش مصنوعی را بر عهده خواهد گرفت.",
+      "tags": [
+        "OpenAI",
+        "Jill Hazelbaker",
+        "Chief Corporate Affairs Officer",
+        "ارتباطات شرکتی",
+        "صنعت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "314bd089789a0995",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "اوپن‌ای‌آی با جذب ۱۱ میلیارد دلار سرمایه جدید، ۱.۲۵ تریلیون دلاری شد",
+      "title_en": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary_fa": "گزارش‌ها حاکی از آن است که شرکت اوپن‌ای‌آی (OpenAI) موفق به جذب ۱۱ میلیارد دلار سرمایه اضافی شده است. این سرمایه‌گذاری بخشی از یک دور تامین مالی است که هنوز به طور کامل بسته نشده، اما انتظار می‌رود در هفته‌های آتی نهایی شود. با این جذب سرمایه، ارزش کلی شرکت به رقم خیره‌کننده ۱.۲۵ تریلیون دلار رسیده است.",
+      "tags": [
+        "OpenAI",
+        "سرمایه گذاری",
+        "هوش مصنوعی",
+        "تامین مالی",
+        "ارزش گذاری"
+      ]
+    },
+    {
+      "id": "4758b3e084074531",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "category": "امنیت سایبری",
+      "title_fa": "هشدار امنیتی: صدها ابزار هک هوش مصنوعی Artex به صورت عمومی در وب افشا شدند",
+      "title_en": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary_fa": "پژوهشگران امنیتی از کشف صدها سرور خبر داده‌اند که ابزار تست نفوذ Artex را میزبانی می‌کردند و به صورت عمومی و بدون محافظت در اینترنت قابل دسترسی بودند. این افشا به معنای آن است که هر کسی می‌تواند به این ابزارهای هک پیشرفته دسترسی پیدا کند و از آن‌ها سوءاستفاده نماید.",
+      "tags": [
+        "Artex",
+        "امنیت سایبری",
+        "ابزار هک",
+        "افشای سرور",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "46e88a02e03424f2",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "متا از «اسپیسز» رونمایی کرد: شیوه‌ای نوین برای همکاری با عامل‌های هوش مصنوعی Muse",
+      "title_en": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary_fa": "متا همچنان به توسعه و افزودن قابلیت‌های تازه به عامل‌های هوش مصنوعی خود با نام «میوز» ادامه می‌دهد. جدیدترین ویژگی معرفی شده، «اسپیسز» نام دارد که نویدبخش روشی نوین برای تعامل و همکاری کاربران با این دستیاران هوش مصنوعی است. این قابلیت گام دیگری در مسیر ارتقای تجربه‌ی کاربری با هوش مصنوعی متا محسوب می‌شود.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "Spaces",
+        "هوش مصنوعی",
+        "همکاری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "860444638104df4b",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "چگونه موج آبی انتخابات میان‌دوره‌ای آمریکا می‌تواند صنعت هوش مصنوعی را بازتعریف کند؟",
+      "title_en": "How a Blue Wave midterm might reshape the AI industry",
+      "summary_fa": "پیروزی‌های تاریخی دموکرات‌ها در انتخابات میان‌دوره‌ای اخیر آمریکا می‌تواند صنعت فناوری و به تبع آن هوش مصنوعی را دگرگون کند. مردم در ۴۱ همه‌پرسی محلی مربوط به مراکز داده رای دادند و در تقریباً تمام موارد، به وضع محدودیت‌های بیشتر برای توسعه این مراکز رأی مثبت دادند. این روند نشان‌دهنده تغییر دیدگاه عمومی و احتمال افزایش قوانین سخت‌گیرانه‌تر در این بخش حیاتی زیرساخت هوش مصنوعی است.",
+      "tags": [
+        "انتخابات میان‌دوره‌ای آمریکا",
+        "مراکز داده",
+        "تنظیم‌گری هوش مصنوعی",
+        "AI Industry",
+        "موج آبی"
+      ]
+    },
+    {
+      "id": "ead671d25881cf90",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "انتخابات میان‌دوره‌ای آمریکا: آیا صنعت هوش مصنوعی در آستانه دوران سخت است؟",
+      "title_en": "After the midterms, is the AI industry in for a rough two years?",
+      "summary_fa": "پیروزی‌های دموکرات‌ها در انتخابات میان‌دوره‌ای اخیر آمریکا می‌تواند صنعت تکنولوژی و هوش مصنوعی را دستخوش تحولات مهمی کند. رای‌دهندگان در ۴۱ همه‌پرسی مرتبط با مراکز داده، در اکثر موارد به اعمال محدودیت‌های بیشتر برای توسعه این مراکز رای مثبت دادند. این نتایج نشان می‌دهد که دوران چالش‌برانگیزی با مقررات سخت‌گیرانه‌تر در انتظار شرکت‌های فناوری، به‌ویژه در زمینه هوش مصنوعی، خواهد بود.",
+      "tags": [
+        "انتخابات میان‌دوره‌ای آمریکا",
+        "AI industry",
+        "مراکز داده",
+        "مقررات‌گذاری",
+        "سیاست‌گذاری تکنولوژی"
+      ]
+    },
+    {
+      "id": "69dd96b9d4af8ef1",
+      "date": "2026-11-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "category": "رباتیک و هوش مصنوعی کاربردی",
+      "title_fa": "خانه‌داری با ربات‌های انسان‌نما: تجربه‌ای از آینده و آمادگی سامسونگ برای رونق هوش مصنوعی",
+      "title_en": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "summary_fa": "گزارش جدید The Download به تجربه‌ای از آینده خدمات نظافت خانگی با ربات‌های انسان‌نما می‌پردازد. نویسنده در این گزارش شاهد عملکرد یک ربات انسان‌نما در تمیز کردن آپارتمان خود بوده و این تجربه را طعمی از آینده فناوری توصیف می‌کند. همزمان، این خبر به نقش استراتژیک سامسونگ در ساخت زیرساخت‌ها و سخت‌افزارهای لازم برای رشد و رونق هوش مصنوعی اشاره دارد.",
+      "tags": [
+        "ربات انسان‌نما",
+        "خدمات نظافت رباتیک",
+        "Samsung",
+        "سخت‌افزار هوش مصنوعی",
+        "رونق هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "e804e0e792890345",
+      "date": "2026-11-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "category": "رباتیک و هوش مصنوعی",
+      "title_fa": "تجربه‌ی نظافت با ربات انسان‌نما: آیا آینده فرا رسیده است؟",
+      "title_en": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary_fa": "نویسنده که معمولاً برای نظافت منزل از کسی کمک نمی‌گیرد و ترجیح می‌دهد خودش این کار را انجام دهد، با دیدن پستی در X درباره‌ی سرویس جدید نظافت توسط ربات‌های انسان‌نما در سان‌فرانسیسکو، بلافاصله ثبت‌نام کرد. این تجربه، حس چشیدن آینده را به او داد و نشان داد که ربات‌های انسان‌نما می‌توانند در کارهای روزمره به کمک انسان بیایند.",
+      "tags": [
+        "ربات انسان‌نما",
+        "خدمات نظافت",
+        "رباتیک",
+        "هوش مصنوعی",
+        "San Francisco"
       ]
     }
   ]
