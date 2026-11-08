@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-07",
+    "last_updated": "2026-11-08",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1700
+    "total_articles": 1712
   },
   "articles": [
     {
@@ -28828,6 +28828,210 @@
         "رباتیک",
         "هوش مصنوعی",
         "San Francisco"
+      ]
+    },
+    {
+      "id": "bc8f9eac19663ff6",
+      "date": "2026-11-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/partnering-with-hacktron",
+      "category": "امنیت سایبری",
+      "title_fa": "تقویت امنیت OpenAI با همکاری Hacktron برای کشف آسیب‌پذیری‌ها",
+      "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary_fa": "OpenAI در حال همکاری با شرکت Hacktron است تا آسیب‌پذیری‌های موجود در سیستم‌های خود را شناسایی کند. هدف از این مشارکت، آزمایش ارتباطات با سرویس‌های شخص ثالث و تقویت دفاع سایبری با بهره‌گیری از هوش مصنوعی پیشرفته است.",
+      "tags": [
+        "OpenAI",
+        "Hacktron",
+        "امنیت سایبری",
+        "آسیب‌پذیری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "c0d7b0808284d182",
+      "date": "2026-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/franklin-templeton",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "فرانکلین تمپلتون: OpenAI، ابزار نوین در تحقیقات سرمایه‌گذاری",
+      "title_en": "Franklin Templeton uses OpenAI to support investment research",
+      "summary_fa": "شرکت مدیریت دارایی فرانکلین تمپلتون، هوش مصنوعی OpenAI را برای ارتقای تحقیقات سرمایه‌گذاری خود به کار گرفته است. این شرکت قصد دارد با توسعه گردش کارهای مبتنی بر هوش مصنوعی، به‌ویژه در بخش تحقیقات سهام، به مدیران پورتفولیو در مقایسه دیدگاه‌های تحقیقاتی و ارزیابی دقیق‌تر ریسک‌های سرمایه‌گذاری یاری رساند.",
+      "tags": [
+        "Franklin Templeton",
+        "OpenAI",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "مدیریت دارایی"
+      ]
+    },
+    {
+      "id": "ff138f709a7e7c37",
+      "date": "2026-11-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI مشاور ارشد امنیت ملی و نوسازی خود را منصوب کرد",
+      "title_en": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary_fa": "شرکت OpenAI دن دریسکول را به عنوان مشاور ارشد جدید خود در زمینه نوسازی امنیت ملی منصوب کرده است. وظیفه اصلی او مشاوره در توسعه هوش مصنوعی مسئولانه برای تقویت امنیت ملی، تاب‌آوری سایبری و همچنین گسترش همکاری با متحدان ایالات متحده است.",
+      "tags": [
+        "OpenAI",
+        "Dan Driscoll",
+        "امنیت ملی",
+        "هوش مصنوعی مسئولانه",
+        "امنیت سایبری"
+      ]
+    },
+    {
+      "id": "bbd4d7a8dcb56d48",
+      "date": "2026-10-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/ads/customers/evernote",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "اورنوت با هوش مصنوعی، کاربران را به مشترکان پولی تبدیل می‌کند",
+      "title_en": "Evernote turns AI-driven discovery into paid subscriptions",
+      "summary_fa": "شرکت اورنوت برای معرفی اپلیکیشن یادداشت‌برداری خود به کاربران فعال در حوزه هوش مصنوعی، از تبلیغات ChatGPT بهره برده است. هدف این کمپین، تبدیل کاربران آزمایشی رایگان به مشترکان پولی بوده است. تیم اورنوت به دقت نرخ تبدیل آزمایش رایگان به اشتراک پولی را رصد کرده است تا اثربخشی این استراتژی را بسنجد.",
+      "tags": [
+        "Evernote",
+        "ChatGPT Ads",
+        "هوش مصنوعی",
+        "بازاریابی دیجیتال",
+        "اشتراک پولی"
+      ]
+    },
+    {
+      "id": "811b4103ccadc34f",
+      "date": "2025-08-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-anthropic-safety-evaluation",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI و Anthropic نتایج ارزیابی ایمنی مشترک مدل‌های هوش مصنوعی خود را منتشر کردند",
+      "title_en": "OpenAI and Anthropic share findings from a joint safety evaluation",
+      "summary_fa": "شرکت‌های پیشرو OpenAI و Anthropic برای اولین بار نتایج یک ارزیابی ایمنی مشترک و بی‌سابقه را به اشتراک گذاشتند. در این همکاری، آن‌ها مدل‌های هوش مصنوعی یکدیگر را از نظر مشکلاتی مانند عدم همراستایی، پیروی از دستورالعمل‌ها، توهم‌زایی و توانایی جیلبریکینگ آزمایش کردند. این یافته‌ها ضمن برجسته‌سازی پیشرفت‌ها و چالش‌های موجود، ارزش همکاری میان آزمایشگاه‌ها را در جهت بهبود ایمنی هوش مصنوعی تأیید می‌کند.",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "ایمنی هوش مصنوعی",
+        "ارزیابی مدل‌ها",
+        "همکاری"
+      ]
+    },
+    {
+      "id": "df242e3d3177ce69",
+      "date": "2025-08-26",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/helping-people-when-they-need-it-most",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هوش مصنوعی و سلامت روان: تضمین ایمنی کاربران در شرایط بحرانی",
+      "title_en": "Helping people when they need it most",
+      "summary_fa": "این خبر به رویکردهای ایمنی برای کاربران دچار مشکلات روحی یا عاطفی از طریق سیستم‌های هوش مصنوعی می‌پردازد. با وجود پتانسیل کمک، سیستم‌های کنونی محدودیت‌هایی دارند که ممکن است چالش‌هایی ایجاد کنند. تلاش‌های گسترده‌ای برای پالایش و بهبود این سیستم‌ها در جریان است تا بتوانند حمایتی ایمن و مؤثرتر ارائه دهند.",
+      "tags": [
+        "سلامت روان",
+        "ایمنی هوش مصنوعی",
+        "هوش مصنوعی مسئولانه",
+        "کاربران آسیب‌پذیر",
+        "هوش مصنوعی و بحران"
+      ]
+    },
+    {
+      "id": "ed263cbbe1a45523",
+      "date": "2026-11-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "انتخابات میان‌دوره‌ای آمریکا: آینده‌ی پرچالش ایلان ماسک و مراکز داده",
+      "title_en": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary_fa": "نتایج انتخابات میان‌دوره‌ای آمریکا می‌تواند پیامدهای مهمی برای صنعت تکنولوژی به همراه داشته باشد. تحلیل‌ها نشان می‌دهد که پس از این انتخابات، ایلان ماسک و پروژه‌های مرتبط با مراکز داده ممکن است با چالش‌های جدی روبرو شوند. این تحولات می‌تواند مسیر آتی توسعه و سرمایه‌گذاری در بخش‌های کلیدی تکنولوژی را تحت تأثیر قرار دهد.",
+      "tags": [
+        "Elon Musk",
+        "Data centers",
+        "Midterms",
+        "صنعت تکنولوژی",
+        "سیاست تکنولوژی"
+      ]
+    },
+    {
+      "id": "69c75581d56ff5e1",
+      "date": "2026-11-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "category": "ژئوپلیتیک تکنولوژی",
+      "title_fa": "اتهام جاسوسی از مدیرعامل انویدیا: پکن یک مدیر اجرایی را برای رصد جِنسِن هوانگ استخدام کرده بود",
+      "title_en": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary_fa": "بر اساس یک یادداشت اطلاعاتی آمریکا، وزارت امنیت دولتی چین (MSS) یک مدیر اجرایی زن در حوزه فناوری را به خدمت گرفته بود تا از جنسن هوانگ، مدیرعامل شرکت انویدیا، جاسوسی کند. این ادعا در گزارشی که اوایل سال جاری منتشر شد، فاش شده است.",
+      "tags": [
+        "Nvidia",
+        "چین",
+        "جاسوسی",
+        "Jensen Huang",
+        "Ministry of State Security"
+      ]
+    },
+    {
+      "id": "36231604b2886429",
+      "date": "2026-11-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "category": "زیرساخت هوش مصنوعی",
+      "title_fa": "گوگل پروژه مرکز داده پرچالش کروسو در وایومینگ را خرید",
+      "title_en": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary_fa": "گوگل پروژه مرکز داده‌ای را که شرکت کروسو در وایومینگ در حال ساخت آن بود و با چالش‌های متعددی مواجه شده بود، خریداری کرد. این معامله بار دیگر بر دشواری‌های توسعه و ساخت مراکز داده عظیم مقیاس برای هوش مصنوعی تأکید می‌کند.",
+      "tags": [
+        "Google",
+        "Crusoe",
+        "Data Center",
+        "AI Infrastructure",
+        "Wyoming"
+      ]
+    },
+    {
+      "id": "d275be2a1267c8e7",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "داده‌ها نشان می‌دهد: توقف رشد هزینه‌کرد هوش مصنوعی، نگرانی‌ها را پیش از عرضه اولیه سهام Anthropic افزایش می‌دهد",
+      "title_en": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary_fa": "برخلاف تصور رایج، با وجود افزایش چشمگیر استفاده از هوش مصنوعی، میزان هزینه‌کرد شرکت‌ها در این حوزه متوقف شده است. این روند کُند شدن رشد هزینه‌ها، ناشی از کاهش قیمت‌ها و کنترل هوشمندانه‌تر هزینه‌ها توسط بزرگترین مصرف‌کنندگان هوش مصنوعی است. تحلیلگران معتقدند این وضعیت می‌تواند فرضیات سرمایه‌گذاران درباره رشد انفجاری (hypergrowth) هوش مصنوعی را به چالش بکشد، به ویژه در حالی که شرکت بزرگی مانند Anthropic در آستانه عرضه اولیه سهام خود قرار دارد.",
+      "tags": [
+        "هوش مصنوعی",
+        "Anthropic",
+        "سرمایه‌گذاری AI",
+        "عرضه اولیه سهام",
+        "هزینه‌کرد تکنولوژی"
+      ]
+    },
+    {
+      "id": "ab4846bbc512d790",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "category": "محصولات و خدمات هوش مصنوعی",
+      "title_fa": "خرید با پیامک: الکسا به کمک کاربران آمازون برای خرید می‌آید",
+      "title_en": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summary_fa": "آمازون قابلیت جدیدی را معرفی کرده که به کاربران امکان می‌دهد از طریق پیام متنی با دستیار هوشمند الکسا ارتباط برقرار کرده و از او برای خرید کمک بگیرند. این شرکت اعلام کرده که قرار است این ویژگی در هفته‌های آتی برای میلیون‌ها کاربر در دسترس قرار گیرد و تجربه خرید را برای آن‌ها آسان‌تر کند.",
+      "tags": [
+        "Amazon",
+        "Alexa",
+        "E-commerce",
+        "دستیار هوشمند",
+        "پیامک"
+      ]
+    },
+    {
+      "id": "fbf575ba8ccde9fe",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "مدل ۳۲ مگابایتی Underdog: تولید گفتار و موسیقی با حجم کم",
+      "title_en": "Underdog shows off a 32MB speech model in new demo",
+      "summary_fa": "شرکت Underdog در دموی جدید خود، یک مدل هوش مصنوعی برای تولید گفتار و موسیقی معرفی کرده است. نکته قابل توجه این مدل، حجم بسیار کم آن تنها ۳۲ مگابایت است. این دستاورد نشان می‌دهد که می‌توان با منابع محدود نیز به قابلیت‌های پیشرفته در حوزه تولید محتوای صوتی دست یافت و کارایی بالا را در ابعاد کوچک ممکن ساخت.",
+      "tags": [
+        "Underdog",
+        "تولید گفتار",
+        "تولید موسیقی",
+        "مدل هوش مصنوعی",
+        "حجم کم"
       ]
     }
   ]
