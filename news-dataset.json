@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-08",
+    "last_updated": "2026-11-09",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1712
+    "total_articles": 1720
   },
   "articles": [
     {
@@ -29032,6 +29032,142 @@
         "تولید موسیقی",
         "مدل هوش مصنوعی",
         "حجم کم"
+      ]
+    },
+    {
+      "id": "a08c1851721b5d3a",
+      "date": "2025-08-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/learning-accelerator",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "معرفی شتاب‌دهنده‌ی آموزشی OpenAI: توانمندسازی سازمان‌های غیرانتفاعی با هوش مصنوعی",
+      "title_en": "Announcing the OpenAI Learning Accelerator",
+      "summary_fa": "OpenAI از راه‌اندازی «شتاب‌دهنده‌ی آموزشی» خود خبر داد. این برنامه با هدف توانمندسازی سازمان‌های غیرانتفاعی و ارائه‌ی منابع، تخصص و دسترسی به ابزارهای پیشرفته هوش مصنوعی به آن‌ها طراحی شده است. هدف این شتاب‌دهنده کمک به این سازمان‌ها برای بهره‌گیری موثر از هوش مصنوعی در جهت پیشبرد ماموریت‌های اجتماعی و تقویت نوآوری است. این اقدام، تعهد OpenAI به گسترش دسترسی به هوش مصنوعی و کاربردهای مثبت آن را نشان می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "Learning Accelerator",
+        "هوش مصنوعی",
+        "سازمان‌های غیرانتفاعی",
+        "آموزش AI"
+      ]
+    },
+    {
+      "id": "3415711b26c6a534",
+      "date": "2025-08-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/blue-j",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "مقیاس‌پذیری سریع Blue J در بازارهای قانون‌مند: قدرت هوش مصنوعی و تخصص عمیق",
+      "title_en": "Blue J’s approach for scaling fast in complex, regulated domains",
+      "summary_fa": "شرکت Blue J به لطف تمرکز، تخصص عمیق در حوزه کاری و بهره‌گیری از مدل مناسب هوش مصنوعی OpenAI، توانسته است به سرعت توسعه یابد. این شرکت موفق شده است فعالیت‌های خود را به سه کشور گسترش داده و به بیش از ۳۰۰۰ شرکت خدمات ارائه کند.",
+      "tags": [
+        "Blue J",
+        "OpenAI",
+        "هوش مصنوعی",
+        "مقیاس‌پذیری",
+        "کسب‌وکار"
+      ]
+    },
+    {
+      "id": "dca5e1de215898de",
+      "date": "2025-08-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/mixi",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Mixi با ChatGPT Enterprise؛ تحولی در ارتباطات و بهره‌وری سازمانی",
+      "title_en": "Mixi reimagines communication with ChatGPT",
+      "summary_fa": "شرکت Mixi، پیشرو در خدمات سرگرمی دیجیتال و سبک زندگی در ژاپن، از ChatGPT Enterprise برای ارتقای توانمندی‌های داخلی خود بهره می‌برد. این اقدام منجر به تحول چشمگیر در بهره‌وری شده و پذیرش هوش مصنوعی را در تمامی تیم‌های شرکت تقویت کرده است. همچنین، استفاده از این پلتفرم محیطی امن و نوآورانه برای توسعه راهکارهای جدید فراهم آورده است.",
+      "tags": [
+        "MIXI",
+        "ChatGPT Enterprise",
+        "هوش مصنوعی",
+        "بهره‌وری",
+        "پذیرش سازمانی"
+      ]
+    },
+    {
+      "id": "d0a3ac936090d729",
+      "date": "2025-08-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/doordash-mariana-garavaglia",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "DoorDash چگونه با هوش مصنوعی، نوآوری کارکنان را شتاب می‌دهد؟ گفتگوی مدیر ارشد نیروی انسانی",
+      "title_en": "Q&A with DoorDash’s CPO, Mariana Garavaglia",
+      "summary_fa": "ماریانا گاراواگلیا، مدیر ارشد نیروی انسانی DoorDash، در گفتگویی به تشریح استراتژی این شرکت برای توسعه و به‌کارگیری هوش مصنوعی پرداخته است. هدف اصلی DoorDash، توانمندسازی کارکنان از طریق هوش مصنوعی است تا بتوانند فرآیندهای ساخت، یادگیری و نوآوری را با سرعت بیشتری پیش ببرند. این گفتگو به چگونگی مقیاس‌دهی به پذیرش هوش مصنوعی در سازمان برای افزایش بهره‌وری و خلاقیت می‌پردازد.",
+      "tags": [
+        "DoorDash",
+        "AI",
+        "توانمندسازی کارکنان",
+        "نوآوری",
+        "CPO"
+      ]
+    },
+    {
+      "id": "fd78855f062f561c",
+      "date": "2025-08-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/basis",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی Basis و OpenAI: تحول در ظرفیت شرکت‌های حسابداری",
+      "title_en": "Scaling accounting capacity with OpenAI",
+      "summary_fa": "شرکت Basis با توسعه عامل‌های هوش مصنوعی خود که بر پایه مدل‌های پیشرفته OpenAI نظیر o3، o3-Pro، GPT-4.1 و GPT-5 ساخته شده‌اند، ابزاری کارآمد برای شرکت‌های حسابداری ارائه کرده است. این فناوری به شرکت‌ها کمک می‌کند تا زمان انجام وظایف خود را تا ۳۰ درصد کاهش دهند و در نتیجه، ظرفیت بیشتری برای ارائه خدمات مشاوره‌ای و توسعه کسب‌وکار داشته باشند.",
+      "tags": [
+        "Basis",
+        "OpenAI",
+        "GPT",
+        "حسابداری",
+        "هوش مصنوعی سازمانی"
+      ]
+    },
+    {
+      "id": "fdfdfd60876dfdbc",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "اتهام ارتباط با جاسوس چینی، صندلی مدیرعامل انویدیا را لرزاند",
+      "title_en": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary_fa": "هیئت مدیره شرکت انویدیا تحقیقاتی را در مورد جنسن هوانگ، مدیرعامل خود، آغاز کرده است. این تحقیقات به دلیل ارتباط مشکوک او با یک جاسوس چینی در جریان است. جفری سوننفلد از دانشگاه ییل تخمین زده که احتمال ماندن یا برکناری هوانگ از سمت مدیرعاملی تقریباً ۵۰-۵۰ است و آینده او در این غول تراشه‌سازی در هاله‌ای از ابهام قرار دارد.",
+      "tags": [
+        "Jensen Huang",
+        "NVIDIA",
+        "CEO",
+        "جاسوس چینی",
+        "هیئت مدیره"
+      ]
+    },
+    {
+      "id": "bc55171edc52873b",
+      "date": "2026-11-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "category": "حاکمیت شرکتی و امنیت",
+      "title_fa": "ان‌ویدیا درباره رابطه مدیرعامل جنسن هوانگ با «جاسوس احتمالی چینی» تحقیق می‌کند",
+      "title_en": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary_fa": "شرکت ان‌ویدیا اعلام کرده است که درباره روابط مدیرعامل خود، جنسن هوانگ، با فردی که مظنون به جاسوسی برای چین است، تحقیق خواهد کرد. در یک یادداشت داخلی به کارکنان شرکت، هوانگ اعتراف کرده که یک رابطه خارج از ازدواج داشته است.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "چین",
+        "جاسوسی",
+        "حاکمیت شرکتی"
+      ]
+    },
+    {
+      "id": "f3bfec28682f8e7d",
+      "date": "2026-11-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "جذب ۱۰ میلیون دلار سرمایه توسط Physicl برای پر کردن شکاف دنیای مجازی و واقعی برای ربات‌ها",
+      "title_en": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary_fa": "شرکت Physicl با جذب سرمایه ۱۰ میلیون دلاری، در تلاش است تا «شکاف شبیه‌سازی تا واقعیت» (sim-to-real gap) را برطرف کند. این شکاف به چالشی اشاره دارد که در آن مدل‌های رباتیک آموزش‌دیده در محیط‌های مجازی، هنگام ورود به دنیای فیزیکی با مشکلاتی مواجه می‌شوند. راهکار Physicl استفاده از یک خط لوله فناورانه است که در ابتدا برای بازاریابی آنلاین کالاها توسعه یافته بود و اکنون برای واقعی‌تر کردن دنیای دیجیتال برای ربات‌ها به کار گرفته شده است.",
+      "tags": [
+        "Physicl",
+        "sim-to-real gap",
+        "Robotics",
+        "Simulation",
+        "سرمایه‌گذاری"
       ]
     }
   ]
