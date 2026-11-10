@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-09",
+    "last_updated": "2026-11-10",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1720
+    "total_articles": 1735
   },
   "articles": [
     {
@@ -29168,6 +29168,260 @@
         "Robotics",
         "Simulation",
         "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "01a8528fa117926a",
+      "date": "2026-11-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "هوش مصنوعی در آموزش: رویکردهای نوین برای پر کردن شکاف راهنمایی‌ها",
+      "title_en": "Closing the AI guidance gap in education",
+      "summary_fa": "گزارش جدیدی با همکاری OpenAI (در منطقه اروپا، خاورمیانه و آفریقا) و تحقیقات ThinkYoung، به بررسی چالش‌ها و فرصت‌های کاربرد هوش مصنوعی در آموزش می‌پردازد. این گزارش بر ضرورت حمایت از معلمان، افزایش سواد هوش مصنوعی در میان دانش‌آموزان و ترویج یادگیری مستقل با کمک ابزارهای هوش مصنوعی تاکید دارد.",
+      "tags": [
+        "OpenAI",
+        "ThinkYoung",
+        "هوش مصنوعی در آموزش",
+        "سواد هوش مصنوعی",
+        "راهنمای آموزشی"
+      ]
+    },
+    {
+      "id": "f37b680abcf7adcb",
+      "date": "2026-11-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/control-room",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی از «اتاق کنترل» رونمایی کرد: سیستمی برای نظارت و توقف مدل‌های هوش مصنوعی در مواقع بحرانی",
+      "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary_fa": "اوپن‌ای‌آی از سیستم جدیدی به نام «اتاق کنترل» پرده‌برداری کرده است. این سیستم به منظور ردیابی و نظارت بر فعالیت مدل‌های هوش مصنوعی در زیرساخت‌های تحقیقاتی این شرکت طراحی شده است. هدف اصلی آن، امکان توقف سریع این مدل‌ها در صورت بروز هرگونه نگرانی ایمنی یا امنیتی است.",
+      "tags": [
+        "OpenAI",
+        "Control Room",
+        "ایمنی هوش مصنوعی",
+        "امنیت هوش مصنوعی",
+        "مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "23b94c697622500f",
+      "date": "2026-11-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "CodeRabbit: هوش مصنوعی، توسعه نرم‌افزار را ۲۰ برابر تسریع می‌کند",
+      "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary_fa": "شرکت CodeRabbit با بهره‌گیری از مدل‌های هوش مصنوعی OpenAI، رویکرد توسعه نرم‌افزار عامل‌محور را مقیاس‌پذیر کرده است. این شرکت با استفاده از کد تولیدشده توسط هوش مصنوعی و مدل Codex، توانسته با همان تیم مهندسی، ۲۰ برابر بیشتر نرم‌افزار به بازار عرضه کند. این موفقیت با تمرکز بر مدیریت و اطمینان‌پذیری کد تولیدشده توسط هوش مصنوعی حاصل شده است.",
+      "tags": [
+        "CodeRabbit",
+        "OpenAI",
+        "هوش مصنوعی",
+        "توسعه نرم‌افزار",
+        "Agentic Software Development"
+      ]
+    },
+    {
+      "id": "932fe34bad728f30",
+      "date": "2026-11-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/kuken",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "سرعت بی‌سابقه در آرشیو فنی: کوکن اینداستریز با هوش مصنوعی، نقشه‌های ۷۰ ساله را در ۴ دقیقه می‌یابد",
+      "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary_fa": "کوکن اینداستریز، با بهره‌گیری از API اوپن‌ای‌آی، توانسته است فرایند جستجوی نقشه‌های فنی برج‌های خنک‌کننده خود را که قدمتی ۷۰ ساله دارند، به شکل چشمگیری تسریع بخشد. مهندسان این شرکت که پیش از این برای یافتن یک نقشه مورد نیاز برای تعمیرات، نزدیک به یک ساعت زمان صرف می‌کردند، اکنون قادرند این کار را تنها در ۴.۵ دقیقه انجام دهند.",
+      "tags": [
+        "Kuken Industries",
+        "OpenAI API",
+        "بهره‌وری",
+        "آرشیو فنی",
+        "مدیریت اسناد"
+      ]
+    },
+    {
+      "id": "8e58b8c30174f3ff",
+      "date": "2025-08-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "شتاب‌دهی به پیشرفت‌های علوم زیستی با هوش مصنوعی: GPT-4b micro در خدمت مهندسی پروتئین و درمان‌های نوین",
+      "title_en": "Accelerating life sciences research",
+      "summary_fa": "مدل هوش مصنوعی تخصصی GPT-4b micro، گام مهمی در تسریع تحقیقات علوم زیستی برداشته است. این مدل توسط OpenAI و Retro Bio مورد استفاده قرار گرفته تا پروتئین‌های مؤثرتری را مهندسی کند. هدف از این مهندسی، بهبود درمان‌های سلول بنیادی و پیشبرد پژوهش‌ها در زمینه افزایش طول عمر است.",
+      "tags": [
+        "GPT-4b micro",
+        "OpenAI",
+        "Retro Bio",
+        "مهندسی پروتئین",
+        "علوم زیستی"
+      ]
+    },
+    {
+      "id": "1b18832a8d2c83f7",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Otter AI به بیش از ۳۰ زبان مسلط شد: ردیابی هوشمند مکالمات چندزبانه",
+      "title_en": "Otter AI can now follow conversations across 30+ languages",
+      "summary_fa": "پلتفرم هوش مصنوعی Otter AI به تازگی با افزودن پشتیبانی از ۲۷ زبان جدید، قابلیت‌های خود را گسترش داده است. این به‌روزرسانی به Otter AI اجازه می‌دهد تا اکنون مکالمات را به بیش از ۳۰ زبان مختلف ردیابی کند. مهم‌تر اینکه، این شرکت از قابلیتی آتی خبر داده که هوش مصنوعی را قادر می‌سازد حتی زمانی که سخنرانان در طول یک مکالمه زبانشان را تغییر می‌دهند، بتواند به دنبال کردن مکالمه ادامه دهد.",
+      "tags": [
+        "Otter AI",
+        "پردازش زبان طبیعی",
+        "تشخیص گفتار",
+        "چندزبانه"
+      ]
+    },
+    {
+      "id": "98071e4b97d92c7e",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "انتروپیک در آستانه ورود به بورس: گزارش‌ها از پیشبرد برنامه‌های IPO خبر می‌دهند",
+      "title_en": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary_fa": "بر اساس گزارش وال استریت ژورنال، شرکت هوش مصنوعی انتروپیک در حال پیشبرد برنامه‌های خود برای عرضه اولیه سهام (IPO) است. پیش‌بینی می‌شود که این شرکت این هفته محدوده ارزش‌گذاری خود را برای ورود به بورس تعیین کند.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "هوش مصنوعی",
+        "وال استریت ژورنال",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "13bdf291560a5d69",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "category": "اخبار شرکت‌ها و رهبران فناوری",
+      "title_fa": "مدیرعامل انویدیا و استخدام جنجالی: جنسن هوانگ یک سال پیش شرکتی با سابقه مدیریت رسوایی‌های بزرگ را برای روابط عمومی‌اش به کار گرفت",
+      "title_en": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "summary_fa": "بر اساس گزارش وایرد (Wired)، جنسن هوانگ، مدیرعامل انویدیا، یک سال پیش یک شرکت روابط عمومی را استخدام کرده است که سابقه رسیدگی به رسوایی‌های بزرگ جنسی را دارد. این شرکت بلافاصله پس از انتشار گزارشی در اکتبر ۲۰۲۵ توسط نیویورک تایمز که به معاملات تجاری آلیس هوانگ با جنسن هوانگ می‌پرداخت، به خدمت گرفته شد.",
+      "tags": [
+        "Jensen Huang",
+        "NVIDIA",
+        "مدیریت شهرت",
+        "Wired",
+        "رسوایی"
+      ]
+    },
+    {
+      "id": "f469998b0ebdf825",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هشدار زودهنگام یک شرکت تحقیقاتی درباره ارتباط مدیرعامل انویدیا با جاسوس احتمالی چینی",
+      "title_en": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary_fa": "شش ماه پیش از افشای رسوایی ارتباطات انویدیا با جاسوسان احتمالی چینی، شرکت تحقیقاتی Culper Research به طور عمومی درباره نزدیکی غیرمعمول جنسن هوانگ، مدیرعامل انویدیا، با یک مدیر اجرایی چینی که مظنون به جاسوسی بود، هشدار داده بود. این هشدار پیش از آن صورت گرفت که ابعاد این رابطه مورد توجه رسانه‌ها قرار گیرد.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Culper Research",
+        "China",
+        "جاسوسی"
+      ]
+    },
+    {
+      "id": "05d31a5bc4a78da3",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "رسوایی جاسوسی و هشدار حقوقی: ان‌ویدیا در معرض شکایت‌های گسترده",
+      "title_en": "The race is on to sue Nvidia",
+      "summary_fa": "پس از آغاز تحقیقات هیئت مدیره ان‌ویدیا درباره رابطه جنسن هوانگ، مدیرعامل شرکت، با یک جاسوس مظنون چینی، سهام این شرکت بیش از ۴ درصد سقوط کرد. یک کارشناس حقوق اوراق بهادار هشدار داده است که پافشاری قبلی ان‌ویدیا بر «عادی» بودن این ارتباط، اکنون می‌تواند برای این شرکت به مشکلی بسیار گران‌قیمت تبدیل شود و راه را برای شکایت‌های حقوقی باز کند.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "شکایت حقوقی",
+        "جاسوسی",
+        "سقوط سهام"
+      ]
+    },
+    {
+      "id": "39befa3379491d53",
+      "date": "2026-11-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "جنسن هوانگ، مدیرعامل انویدیا، در بحبوحه جنجال‌ها از اجلاس ElevenLabs کناره‌گیری کرد",
+      "title_en": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "summary_fa": "جنسن هوانگ، مدیرعامل شرکت انویدیا، در پی جنجال‌های اخیر پیرامون این شرکت، از حضور در اجلاس ElevenLabs انصراف داد. این کناره‌گیری در حالی است که وی پیش‌تر نیز از شرکت در رویدادی که توسط شرکت Anthropic برگزار شده بود، خودداری کرده بود.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "ElevenLabs",
+        "Anthropic",
+        "صنعت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "3ec2e278915eae81",
+      "date": "2026-11-09",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مراکز داده و مناقشه برق: دلیل اصلی اعتراضات چیست؟",
+      "title_en": "The backlash about data centers might really just be about electricity",
+      "summary_fa": "اعتراضات فزاینده علیه مراکز داده، به‌ویژه در مناطق میزبان آن‌ها، ممکن است ریشه‌های عمیق‌تری داشته باشد. عنوان خبر نشان می‌دهد که تمرکز اصلی این مخالفت‌ها نه مسائل دیگر، بلکه مصرف عظیم برق توسط این تاسیسات است. این موضوع می‌تواند بحث‌های گسترده‌ای را درباره زیرساخت‌های انرژی و پایداری توسعه مراکز داده به دنبال داشته باشد.",
+      "tags": [
+        "مراکز داده",
+        "مصرف انرژی",
+        "زیرساخت",
+        "اعتراضات عمومی",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "b09ab79ba3e1e0f9",
+      "date": "2026-11-09",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "category": "محیط زیست و هوش مصنوعی",
+      "title_fa": "ادعاهای محیط‌زیستی هوش مصنوعی: پرونده‌ای که هنوز ثابت نشده",
+      "title_en": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "summary_fa": "یک مقاله تحلیلی جدید، ادعاهای مطرح شده درباره تأثیر مثبت و دوست‌دار محیط زیست هوش مصنوعی را زیر سوال برده است. مری نیکولز، حقوقدان برجسته دانشگاه UCLA و رئیس سابق هیئت منابع هوایی کالیفرنیا، استدلال می‌کند که هنوز دلایل کافی برای اثبات نقش هوش مصنوعی در مبارزه با تغییرات اقلیمی ارائه نشده است.",
+      "tags": [
+        "هوش مصنوعی",
+        "محیط زیست",
+        "تغییرات اقلیمی",
+        "پایداری",
+        "Mary Nichols"
+      ]
+    },
+    {
+      "id": "b044ec790c182bd0",
+      "date": "2026-11-09",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "شتاب‌دهی نوآوری در صنایع شیمیایی با هوش مصنوعی: تجربه‌ی Lubrizol",
+      "title_en": "Innovating with AI in the special chemicals industry",
+      "summary_fa": "در حالی که شرکت‌ها به دنبال تسریع نوآوری با هوش مصنوعی، رایانش ابری و مدل‌سازی پیشرفته هستند، چالش اصلی اتصال این فناوری‌های جدید به داده‌های قابل اعتماد، تخصص علمی و واقعیت‌های عملی عرضه‌ی محصول به بازار است. برای تولیدکننده‌ی مواد شیمیایی خاص Lubrizol، تحول دیجیتال به معنای ارائه‌ی ابزارهایی به محققان است که به آن‌ها امکان می‌دهد ایده‌ها را سریع‌تر آزمایش کرده و تصمیمات آگاهانه‌تری بگیرند.",
+      "tags": [
+        "هوش مصنوعی",
+        "Lubrizol",
+        "صنایع شیمیایی",
+        "نوآوری",
+        "تحول دیجیتال"
+      ]
+    },
+    {
+      "id": "58446515405fd471",
+      "date": "2026-11-09",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "هوش مصنوعی و تغییرات اقلیمی: ادعایی که هنوز اثبات نشده است",
+      "title_en": "The climate case for AI has not been made",
+      "summary_fa": "در کنفرانس اقلیمی سازمان ملل متحد که این هفته در آنتالیا، ترکیه برگزار می‌شود، هوش مصنوعی به یکی از موضوعات اصلی بحث تبدیل شده است. کشور میزبان از تمامی کشورها خواسته است تا متعهد شوند که طراحی، قدرت‌دهی و به‌کارگیری هوش مصنوعی به گونه‌ای باشد که از اقدامات اقلیمی حمایت کند. با این حال، با وجود این درخواست‌ها، هنوز استدلال‌ها و شواهد محکمی مبنی بر اینکه هوش مصنوعی به طور موثری به مبارزه با تغییرات اقلیمی کمک می‌کند، از سوی صنایع جهانی ارائه نشده است.",
+      "tags": [
+        "هوش_مصنوعی",
+        "تغییرات_اقلیمی",
+        "سازمان_ملل",
+        "UN_Climate_Conference",
+        "آنتالیا"
       ]
     }
   ]
