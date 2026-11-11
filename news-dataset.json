@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-10",
+    "last_updated": "2026-11-11",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1735
+    "total_articles": 1750
   },
   "articles": [
     {
@@ -29422,6 +29422,259 @@
         "سازمان_ملل",
         "UN_Climate_Conference",
         "آنتالیا"
+      ]
+    },
+    {
+      "id": "f28f90d2895a812c",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "تحول کسب‌وکار حقوقی با هوش مصنوعی در شرکت Gilbert + Tobin",
+      "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary_fa": "شرکت حقوقی برجسته Gilbert + Tobin در حال بازاندیشی و بازتعریف مدل کسب‌وکار خود با استفاده از فناوری هوش مصنوعی است. این رویکرد نوآورانه با هدف افزایش کارایی، بهبود خدمات ارائه شده به مشتریان و آماده‌سازی برای آینده صنعت حقوقی اتخاذ شده است. این خبر بر مبنای گفتگویی با سم نیکلس، مدیرعامل و شریک این شرکت، به جزئیات این تحول دیجیتال و چشم‌انداز آن می‌پردازد.",
+      "tags": [
+        "Gilbert + Tobin",
+        "AI",
+        "خدمات حقوقی",
+        "تحول دیجیتال",
+        "کسب‌وکار حقوقی"
+      ]
+    },
+    {
+      "id": "80b38ea7da372c49",
+      "date": "2026-11-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "آماده‌سازی بیش از ۲۰ هزار نظامی سابق با ChatGPT Plus رایگان برای مشاغل غیرنظامی",
+      "title_en": "ChatGPT Plus for veterans and servicemembers",
+      "summary_fa": "بیش از ۲۰ هزار کهنه‌سرباز و نیروی نظامی در حال گذار به زندگی غیرنظامی، با استفاده از اشتراک رایگان یک‌ساله ChatGPT Plus، برای ورود به بازار کار آماده می‌شوند. این برنامه به آن‌ها کمک می‌کند تا از هوش مصنوعی برای توسعه مهارت‌ها و تسهیل گذار شغلی خود به فرصت‌های غیرنظامی بهره‌برداری کنند و پتانسیل هوش مصنوعی در حمایت از این افراد را نشان می‌دهد.",
+      "tags": [
+        "ChatGPT Plus",
+        "veterans",
+        "OpenAI",
+        "کاربرد هوش مصنوعی",
+        "آمادگی شغلی"
+      ]
+    },
+    {
+      "id": "46ecb159c1535b09",
+      "date": "2026-11-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "category": "آموزش و کاربردهای هوش مصنوعی",
+      "title_fa": "توانمندسازی مراقبان با ChatGPT: کارگاه‌های رایگان OpenAI برای زندگی روزمره",
+      "title_en": "Helping caregivers use AI in everyday life",
+      "summary_fa": "آکادمی OpenAI با هدف توانمندسازی مراقبان برای استفاده از هوش مصنوعی در زندگی روزمره، کارگاه‌های عملی و رایگان ChatGPT را برگزار می‌کند. این دوره‌ها در پنج شهر ایالات متحده ارائه می‌شوند تا شرکت‌کنندگان مهارت‌های کاربردی هوش مصنوعی را فراگیرند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "مراقبان",
+        "آموزش هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "5ca4dc7b6d88cb31",
+      "date": "2026-11-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "category": "کاربرد هوش مصنوعی در کسب‌وکار",
+      "title_fa": "قابلیت‌های جدید چت‌جی‌پی‌تی برای کسب‌وکارها: از مدیریت اطلاعات تا جذب مشتری",
+      "title_en": "Introducing Businesses in ChatGPT",
+      "summary_fa": "اوپن‌ای‌آی قابلیت‌های جدیدی را در چت‌جی‌پی‌تی معرفی کرده که به کسب‌وکارها امکان می‌دهد اطلاعات خود را در این پلتفرم مدیریت کنند. این ویژگی‌ها به شرکت‌ها کمک می‌کنند تا از نحوه نمایش خود در چت‌جی‌پی‌تی آگاه شوند و علاقه کاربران را به اقداماتی مانند خرید یا ثبت‌نام تبدیل کنند.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "کسب‌وکارها",
+        "مدیریت اطلاعات",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "4e3e5904c85ae763",
+      "date": "2026-11-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/singapore-airlines-travel-work",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ارتقای تجربه سفر و کار در سنگاپور ایرلاینز با فناوری OpenAI",
+      "title_en": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary_fa": "خطوط هوایی سنگاپور با بهره‌گیری از مدل‌ها و APIهای OpenAI، تجربه مشتریان و کارمندان خود را متحول کرده است. این شرکت از هوش مصنوعی برای بهبود پشتیبانی مشتریان، سهولت در کشف مقاصد سفر و افزایش بهره‌وری کارکنان استفاده می‌کند. نتیجه این پیاده‌سازی، دو برابر شدن میزان رضایت مشتریان (CSAT) از چت‌بات \"Kris\" این ایرلاین بوده است.",
+      "tags": [
+        "Singapore Airlines",
+        "OpenAI",
+        "هوش مصنوعی",
+        "چت‌بات",
+        "تجربه مشتری"
+      ]
+    },
+    {
+      "id": "3588ceed41552e46",
+      "date": "2026-11-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "category": "بازار کار و هوش مصنوعی",
+      "title_fa": "هوش مصنوعی و دگرگونی کار فریلنسری: تغییر تقاضا و فرصت‌های جدید در بازار",
+      "title_en": "Work at the Frontier: AI’s effect on freelance work",
+      "summary_fa": "تحقیقات جدید انجام شده توسط OpenAI و Upwork نشان می‌دهد که هوش مصنوعی در حال ایجاد تغییرات چشمگیری در بازار کار فریلنسری است. این مطالعه حاکی از تغییر در تقاضا برای مهارت‌ها، نیاز به ترکیبات جدیدی از توانایی‌ها و افزایش بودجه و ساعات کاری برای پروژه‌های مرتبط با هوش مصنوعی است. این یافته‌ها مسیر جدیدی را برای فریلنسرها و شرکت‌ها ترسیم می‌کند.",
+      "tags": [
+        "OpenAI",
+        "Upwork",
+        "فریلنسینگ",
+        "هوش مصنوعی",
+        "بازار کار"
+      ]
+    },
+    {
+      "id": "a390f90d4604de89",
+      "date": "2026-11-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "بحران انویدیا: نمایشی بی‌سابقه برای ناظران حاکمیت شرکتی",
+      "title_en": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "summary_fa": "کارشناسان حاکمیت شرکتی معتقدند تحولات جاری در انویدیا، بحرانی بی‌سابقه را رقم زده است. به گفته این متخصصان، هیچ‌کس تاکنون شاهد رویدادی شبیه به آنچه اکنون در این غول فناوری در حال وقوع است، نبوده است.",
+      "tags": [
+        "Nvidia",
+        "حاکمیت شرکتی",
+        "بحران",
+        "صنعت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "bd2a6830d8cf7795",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "اوپن‌ای‌آی استارتاپ گردشگری Odessia را تصاحب کرد",
+      "title_en": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary_fa": "شرکت اوپن‌ای‌آی، استارتاپ گردشگری Odessia را به تملک خود درآورد. این استارتاپ توسط فرانسیس دیویدسون، بنیان‌گذار شناخته‌شده‌ی شرکت Sonder در صنعت سفر، تأسیس شده بود. هنوز مشخص نیست که اوپن‌ای‌آی چه برنامه‌هایی برای آینده‌ی حوزه سفر با این تصاحب دارد و اهداف آن به‌طور رسمی اعلام نشده است.",
+      "tags": [
+        "OpenAI",
+        "Odessia",
+        "Sonder",
+        "acquisition",
+        "گردشگری"
+      ]
+    },
+    {
+      "id": "91faed0650f0d054",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "اجرای قانون ایمنی هوش مصنوعی در نیویورک: نظارت بر غول‌های صنعت AI آغاز شد",
+      "title_en": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary_fa": "ایالت نیویورک خود را برای اجرای یک قانون جامع ایمنی هوش مصنوعی آماده می‌کند. این قانون، شرکت‌های بزرگ توسعه‌دهنده هوش مصنوعی مانند OpenAI و Anthropic را ملزم به ثبت‌نام، افشای رویه‌های ایمنی و گزارش حوادث مهم مرتبط با سیستم‌های خود می‌کند. در صورت عدم رعایت این مقررات جدید، جریمه‌های مالی در انتظار این شرکت‌ها خواهد بود.",
+      "tags": [
+        "New York",
+        "OpenAI",
+        "Anthropic",
+        "تنظیم‌گری هوش مصنوعی",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "9a5bae24e02d25cd",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "۷ بنیان‌گذار Anthropic در عرضه اولیه سهام، هر کدام ۲۵۰ میلیون دلار به جیب می‌زنند",
+      "title_en": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary_fa": "هفت بنیان‌گذار شرکت هوش مصنوعی Anthropic قصد دارند در عرضه اولیه سهام این شرکت، به یک میزان از سهام خود را به فروش برسانند. این اقدام برای هر یک از آنها حدود ۲۵۰ میلیون دلار درآمد نقد به همراه خواهد داشت. با وجود این فروش گسترده، گروه بنیان‌گذاران همچنان کنترل شرکت را در اختیار خواهند داشت.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "بنیان‌گذار"
+      ]
+    },
+    {
+      "id": "fe6d70a1808af088",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "اوُرا (Oura) استارتاپ سلامت هوش مصنوعی Counsel Health را به قیمت ۶۲۵ میلیون دلار تصاحب می‌کند",
+      "title_en": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "summary_fa": "شرکت Oura، تولیدکننده حلقه‌های هوشمند سلامت، استارتاپ Counsel Health را که در زمینه مراقبت‌های اولیه مبتنی بر هوش مصنوعی فعالیت می‌کند، به مبلغ ۶۲۵ میلیون دلار تصاحب می‌کند. این قرارداد بزرگ در حالی انجام می‌شود که Oura تنها چند هفته پیش، عرضه اولیه سهام (IPO) خود را به ارزش ۲.۲ میلیارد دلار به دلیل عدم قطعیت در بازار به تعویق انداخته بود. این اقدام، استراتژی Oura برای گسترش در حوزه سلامت دیجیتال و ادغام عمیق‌تر فناوری هوش مصنوعی در خدمات خود را نشان می‌دهد.",
+      "tags": [
+        "Oura",
+        "Counsel Health",
+        "هوش مصنوعی",
+        "سلامت دیجیتال",
+        "M&A"
+      ]
+    },
+    {
+      "id": "2800935556d85c08",
+      "date": "2026-11-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "تلاش PSI برای تجاری‌سازی کشفیات علمی با هوش مصنوعی: حل معمای ۲۰ ساله محاسبات کوانتومی",
+      "title_en": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "summary_fa": "شرکت PSI با بهره‌گیری از یک مدل هوش مصنوعی منتشرنشده از Anthropic، موفق به حل یک سوال اساسی در زمینه محاسبات کوانتومی شد که دانشمندان نزدیک به دو دهه در پی پاسخ آن بودند. این موفقیت نه تنها یک گام بزرگ در کشف علمی است، بلکه PSI قصد دارد این روش کشف مبتنی بر هوش مصنوعی را به یک مدل تجاری تبدیل کند.",
+      "tags": [
+        "PSI",
+        "Anthropic",
+        "هوش مصنوعی",
+        "محاسبات کوانتومی",
+        "کشف علمی"
+      ]
+    },
+    {
+      "id": "997ee517f70b1ab6",
+      "date": "2026-11-10",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "جانشین نانسی پلوسی: تنظیم‌گری هوش مصنوعی در دستور کار سناتور وینر",
+      "title_en": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "summary_fa": "سناتور اسکات وینر، که به عنوان جانشین نانسی پلوسی انتخاب شده، قصد دارد تنظیم‌گری هوش مصنوعی را در اولویت کاری خود قرار دهد. وی پیش از این نیز در دوران فعالیت خود به عنوان سناتور ایالت کالیفرنیا، قوانینی را با هدف کاهش خطرات هوش مصنوعی پیشرفته تدوین کرده بود. اکنون، او آماده است تا در نقش جدید خود، این رویکرد را در سطح وسیع‌تری دنبال کند.",
+      "tags": [
+        "Scott Wiener",
+        "Nancy Pelosi",
+        "تنظیم‌گری هوش مصنوعی",
+        "قانون‌گذاری",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8482284ea7753129",
+      "date": "2026-11-10",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "category": "فناوری‌های صنعتی",
+      "title_fa": "استخراج فلزات: نیاز به تحولی فناورانه پس از یک قرن",
+      "title_en": "Evolving metal extraction processes",
+      "summary_fa": "صنعت فلزات در طول تاریخ شاهد لحظات تحول‌آفرین بسیاری بوده است، از جمله فرآیندهای پیشگامی مانند بیسمر و کوره‌های قوس الکتریکی. با این حال، با گذشت بیش از یک قرن، عمده فرآیندهای استخراج فلزات همچنان بر تکنیک‌هایی متکی هستند که برای متالورژیست‌های نسل‌های گذشته آشنا بوده‌اند. این موضوع، با وجود رشد مقیاس فرآیندها و پیچیدگی سیستم‌های کنترل، نیاز مبرم به نوآوری‌های فناورانه جدید را برای گام بعدی تکامل در این صنعت برجسته می‌کند.",
+      "tags": [
+        "استخراج فلزات",
+        "فناوری صنعتی",
+        "متالورژی",
+        "نوآوری صنعتی",
+        "Bessemer process"
+      ]
+    },
+    {
+      "id": "50d303e5bf841380",
+      "date": "2026-11-09",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "جانشین نانسی پلوسی: تنظیم‌گری هوش مصنوعی در دستور کار فدرال آمریکا",
+      "title_en": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "summary_fa": "اسکات وینر، سناتور سابق ایالت کالیفرنیا، پس از پیروزی در رقابتی فشرده برای کرسی نانسی پلوسی در سان‌فرانسیسکو، به کنگره راه یافت. او پیش از این، نویسنده قوانینی در زمینه کاهش خطرات هوش مصنوعی پیشرفته بود. اکنون، با این جایگاه جدید، وینر می‌تواند نقش مهمی در تدوین سیاست‌های فدرال هوش مصنوعی ایفا کند.",
+      "tags": [
+        "Scott Wiener",
+        "AI regulation",
+        "سیاست‌گذاری هوش مصنوعی",
+        "کنگره آمریکا",
+        "Nancy Pelosi"
       ]
     }
   ]
