@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-12",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1750
+    "total_articles": 1761
   },
   "articles": [
     {
@@ -29675,6 +29675,193 @@
         "سیاست‌گذاری هوش مصنوعی",
         "کنگره آمریکا",
         "Nancy Pelosi"
+      ]
+    },
+    {
+      "id": "1ff74ee2cb106637",
+      "date": "2026-11-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/cogent-security",
+      "category": "امنیت سایبری",
+      "title_fa": "Cogent و OpenAI: راه‌اندازی «کارخانه‌های دفاع سایبری هوشمند» برای سازمان‌ها",
+      "title_en": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary_fa": "شرکت Cogent با ترکیب مدل‌های هوش مصنوعی OpenAI و اطلاعات اختصاصی هر سازمان، پلتفرمی جدید برای دفاع سایبری توسعه داده است. این پلتفرم با بهره‌گیری از عامل‌های هوشمند (agents)، قادر است آسیب‌پذیری‌های امنیتی را به صورت خودکار شناسایی کرده و برای رفع آن‌ها اقدام کند. هدف این همکاری، ایجاد «کارخانه‌های دفاع سایبری» است که فرآیند مقابله با تهدیدات سایبری را برای کسب‌وکارها، مقیاس‌پذیر و خودکار سازد.",
+      "tags": [
+        "OpenAI",
+        "Cogent",
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "9c331579e229757a",
+      "date": "2026-11-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ChatGPT Enterprise در AWS Marketplace در دسترس قرار گرفت: خریدی آسان‌تر برای سازمان‌ها",
+      "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary_fa": "اکنون نسخه‌ی سازمانی ChatGPT (ChatGPT Enterprise) از طریق AWS Marketplace قابل دسترسی است. این اقدام به سازمان‌ها کمک می‌کند تا فرآیند خرید و تهیه‌ی این ابزار قدرتمند هوش مصنوعی را به شکلی ساده‌تر انجام دهند. با بهره‌گیری از روابط خرید و صورت‌حساب موجود خود در AWS، شرکت‌ها می‌توانند به‌راحتی ChatGPT Enterprise را تهیه کنند و مدیریت مالی آن را یکپارچه سازند.",
+      "tags": [
+        "ChatGPT Enterprise",
+        "AWS Marketplace",
+        "OpenAI",
+        "خرید ابری",
+        "هوش مصنوعی سازمانی"
+      ]
+    },
+    {
+      "id": "82be2561b8d68786",
+      "date": "2026-01-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/how-openai-uses-codex",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Codex: شتاب‌دهنده خلاقیت و کارایی در تیم‌های مهندسی OpenAI",
+      "title_en": "How OpenAI Uses Codex to Accelerate Engineering",
+      "summary_fa": "این گزارش به بررسی دقیق چگونگی استفاده تیم‌های OpenAI از مدل Codex برای ارتقای فرآیندهای مهندسی خود می‌پردازد. Codex به آنها کمک می‌کند تا کدهای پیچیده را بهتر درک کنند، سیستم‌ها را بازسازی (refactor) کرده و عملکرد کلی را بهبود بخشند. این رویکرد نه تنها سرعت توسعه را افزایش می‌دهد، بلکه کیفیت و کارایی گردش کارهای مهندسی را نیز به شکل چشمگیری بهبود می‌بخشد.",
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "هوش مصنوعی",
+        "توسعه نرم‌افزار",
+        "مهندسی نرم‌افزار"
+      ]
+    },
+    {
+      "id": "38616a8c4d11b88c",
+      "date": "2025-08-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/blue-j",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Blue J: رشد پرشتاب در حوزه‌های نظارتی پیچیده با هوش مصنوعی OpenAI",
+      "title_en": "Blue J’s approach for scaling fast in complex, regulated domains",
+      "summary_fa": "شرکت Blue J با تمرکز بر تخصص عمیق در حوزه‌های تحت نظارت و استفاده از مدل‌های مناسب OpenAI، به سرعت رشد چشمگیری داشته است. این شرکت توانسته خدمات خود را در سه کشور مختلف به بیش از ۳۰۰۰ شرکت ارائه دهد. موفقیت آن‌ها مرهون استراتژی هدفمند و به‌کارگیری صحیح هوش مصنوعی در محیط‌های کسب‌وکار پیچیده است.",
+      "tags": [
+        "Blue J",
+        "OpenAI",
+        "هوش مصنوعی",
+        "رشد کسب و کار",
+        "حوزه‌های نظارتی"
+      ]
+    },
+    {
+      "id": "48e6c41241423249",
+      "date": "2026-11-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "category": "رهبری و استراتژی شرکت‌های فناوری",
+      "title_fa": "چه کسی سکان Nvidia را از جنسن هوانگ تحویل می‌گیرد؟ فهرست غیررسمی جانشینان احتمالی",
+      "title_en": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary_fa": "شرکت Nvidia فاقد برنامه رسمی برای جانشینی مدیرعامل فعلی، جنسن هوانگ، است. در حالی که مدیرعامل کنونی با چالش‌هایی مواجه است، فقدان چنین برنامه‌ای به نگرانی‌ها دامن زده است. به همین دلیل، فهرستی غیررسمی از نامزدهای احتمالی برای تصدی این پست کلیدی تهیه شده است.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "CEO",
+        "جانشینی",
+        "مدیریت"
+      ]
+    },
+    {
+      "id": "c2f163e5b083bf5f",
+      "date": "2026-11-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "category": "ژئوپلیتیک هوش مصنوعی",
+      "title_fa": "رسوایی جنسن هوانگ: ابعاد امنیتی در رقابت زیرساخت هوش مصنوعی آمریکا و چین",
+      "title_en": "The unfolding Jensen Huang scandal: a timeline",
+      "summary_fa": "رسوایی اخیر مربوط به جنسن هوانگ، مدیرعامل ان‌ویدیا، می‌تواند پیامدهای قابل توجهی برای امنیت ملی آمریکا به دنبال داشته باشد. این موضوع در بحبوحه‌ی رقابت فشرده‌ای میان ایالات متحده و چین برای توسعه پیشرفته‌ترین زیرساخت‌های هوش مصنوعی جهان مطرح شده است. ابعاد این ماجرا می‌تواند بر موازنه قدرت و سرعت پیشرفت دو کشور در این حوزه استراتژیک تاثیرگذار باشد.",
+      "tags": [
+        "Jensen Huang",
+        "NVIDIA",
+        "هوش مصنوعی",
+        "امنیت ملی",
+        "رقابت آمریکا و چین"
+      ]
+    },
+    {
+      "id": "e9253ae6619ecd71",
+      "date": "2026-11-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "شوک در انویدیا: هیئت مدیره در آستانه برکناری جنسن هوانگ؛ سهام سقوط کرد",
+      "title_en": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary_fa": "هیئت مدیره شرکت انویدیا، احتمالاً تا چهارشنبه شب، تصمیم به برکناری جنسن هوانگ، بنیان‌گذار و مدیرعامل این شرکت پس از ۳۳ سال خواهد گرفت. این خبر در پی انتشار گزارش‌هایی مبنی بر آماده‌سازی هیئت مدیره برای این اقدام منتشر شده است. انتشار این شایعه منجر به افت سهام انویدیا شده و می‌تواند تغییرات بزرگی در مسیر این غول تکنولوژی و صنعت هوش مصنوعی ایجاد کند.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "برکناری",
+        "سهام",
+        "AI"
+      ]
+    },
+    {
+      "id": "0ca5cf57ee5146c0",
+      "date": "2026-11-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "category": "اخبار شرکت‌ها و مدیران ارشد",
+      "title_fa": "اتهام جدید رابطه‌ی غیراخلاقی برای جنسن هوانگ؛ این بار با یک مدیر انویدیا",
+      "title_en": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary_fa": "جنسن هوانگ، مدیرعامل انویدیا، که پیش‌تر به دلیل اعتراف به رابطه‌ای با زنی متهم به جاسوسی برای چین تحت فشار قرار گرفته بود، اکنون با اتهام جدیدی مواجه شده است. بر اساس این اتهام، او رابطه‌ی غیراخلاقی جداگانه‌ای با یکی از کارمندان زیردست خود در انویدیا داشته است.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "اتهام",
+        "رابطه غیراخلاقی",
+        "مدیرعامل"
+      ]
+    },
+    {
+      "id": "0d92f57c72e3e3cf",
+      "date": "2026-11-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "سرنوشت نامعلوم مراکز داده: چالش‌های ساخت‌وساز در عصر هوش مصنوعی",
+      "title_en": "Why the data center you dread might never even be built",
+      "summary_fa": "رونق ساخت مراکز داده با چالش‌های جدی و واقعی در حال مواجهه است. این موانع شامل مخالفت‌های محلی، تاخیر در اخذ مجوزها و رقابت شدید برای تامین برق می‌شوند. اما مشکل اساسی‌تر این است که بسیاری از پروژه‌های اعلام شده، حتی پیش از ورود به این چالش‌ها، ممکن است هرگز به مرحله ساخت نرسند؛ وضعیتی که با سرمایه‌گذاری‌های کلان در زیرساخت‌های هوش مصنوعی اهمیت دوچندان می‌یابد.",
+      "tags": [
+        "مراکز داده",
+        "زیرساخت هوش مصنوعی",
+        "چالش‌های ساخت‌وساز",
+        "تامین برق",
+        "Data center boom"
+      ]
+    },
+    {
+      "id": "6bc57b8d8016fc8d",
+      "date": "2026-11-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "category": "تحولات مدیریتی در صنعت فناوری",
+      "title_fa": "کناره‌گیری مدیر ارشد زیرساخت متا پس از سال‌ها خدمت",
+      "title_en": "Meta is losing its longtime head of infrastructure",
+      "summary_fa": "سانتوش جاناردان، مدیر ارشد زیرساخت شرکت متا، که از سال ۲۰۰۹ به این غول فناوری پیوسته بود، از سمت خود کناره‌گیری خواهد کرد. این کناره‌گیری پس از بیش از یک دهه فعالیت او در یکی از کلیدی‌ترین بخش‌های متا، یعنی مدیریت زیرساخت‌های آن، اتفاق می‌افتد.",
+      "tags": [
+        "Meta",
+        "Santosh Janardhan",
+        "زیرساخت",
+        "مدیران ارشد",
+        "صنعت فناوری"
+      ]
+    },
+    {
+      "id": "ad8780c2a1d5f6ae",
+      "date": "2026-11-11",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "از ایده‌های ماندگاری ذهن تا سنجش ریسک‌های هوش مصنوعی",
+      "title_en": "The Download: preserving minds and weighing open AI risks",
+      "summary_fa": "این خبر شش ایده نوآورانه و جسورانه را برای تداوم و حفظ ذهن انسان در برابر فراموشی بررسی می‌کند. با اینکه گذر زمان بسیاری از تجربیات ما را محو می‌کند، اما پیوستگی هویت و آگاهی فردی حفظ می‌شود. این ایده‌ها راهکارهایی را برای مقابله با زوال حافظه و اطمینان از ماندگاری جنبه‌های کلیدی ذهن ارائه می‌دهند.",
+      "tags": [
+        "حفظ ذهن",
+        "آینده فناوری",
+        "OpenAI",
+        "ریسک‌های هوش مصنوعی",
+        "علوم اعصاب"
       ]
     }
   ]
