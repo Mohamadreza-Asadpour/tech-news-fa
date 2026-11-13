@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-12",
+    "last_updated": "2026-11-13",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1761
+    "total_articles": 1776
   },
   "articles": [
     {
@@ -29862,6 +29862,261 @@
         "OpenAI",
         "ریسک‌های هوش مصنوعی",
         "علوم اعصاب"
+      ]
+    },
+    {
+      "id": "5b0f73df89a6e310",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/amplitude",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Amplitude با هوش مصنوعی OpenAI: عرضه سریع بهبود محصولات در ۱ تا ۲ روز",
+      "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary_fa": "شرکت Amplitude با کمک Wave، یک عامل محصول پیشگیرانه مبتنی بر مدل‌های OpenAI، فرآیند توسعه خود را متحول کرده است. Wave قابلیت‌های مورد نیاز را شناسایی می‌کند، با استفاده از عوامل کدنویس به تیم‌ها در پیاده‌سازی سریع تغییرات یاری می‌رساند و در نهایت تأثیر این بهبودها را اندازه‌گیری می‌کند. این رویکرد به Amplitude امکان می‌دهد تا در ۱ تا ۲ روز بهبودهای محصول را عرضه کند.",
+      "tags": [
+        "Amplitude",
+        "OpenAI",
+        "توسعه محصول",
+        "هوش مصنوعی",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "90d79223706ea3ab",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/gondola",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "تأثیر هوش مصنوعی بر بهره‌وری: گن‌دولا با Codex و ChatGPT درآمدش را دو برابر کرد",
+      "title_en": "Gondola doubles revenue as its team builds more with Codex",
+      "summary_fa": "شرکت گن‌دولا، پلتفرمی برای حمایت از فعالان خلاق و کمک به استخدام آن‌ها، با بهره‌گیری از ابزارهای هوش مصنوعی مانند Codex و ChatGPT، شاهد افزایش چشمگیر بهره‌وری بوده است. استفاده از این فناوری‌ها، منجر به افزایش ۵۰ درصدی خروجی مهندس ارشد این شرکت و ساده‌سازی فرآیندهای کاری روزانه شده است. این تحولات در مجموع، به دو برابر شدن درآمد گن‌دولا کمک کرده است.",
+      "tags": [
+        "Gondola",
+        "Codex",
+        "ChatGPT",
+        "هوش مصنوعی",
+        "بهره‌وری"
+      ]
+    },
+    {
+      "id": "0990939c7d6ea9f7",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Holiday Extras با هوش مصنوعی Codex: بازآفرینی تجربه مشتری و رشد کسب‌وکار",
+      "title_en": "Holiday Extras is rethinking what it can build with Codex",
+      "summary_fa": "شرکت Holiday Extras با بهره‌گیری از هوش مصنوعی Codex، در حال بازتعریف مسیر توسعه اپلیکیشن‌های خود است. این شرکت با استفاده از تخصص و بازخورد مشتریان، به دنبال ساخت اپلیکیشن‌های بهبودیافته‌ای است که منجر به افزایش نرخ رزرو می‌شود. این رویکرد نوآورانه، افق‌های جدیدی برای رشد و گسترش کسب‌وکار Holiday Extras می‌گشاید.",
+      "tags": [
+        "Holiday Extras",
+        "Codex",
+        "هوش مصنوعی",
+        "توسعه اپلیکیشن",
+        "تجربه مشتری"
+      ]
+    },
+    {
+      "id": "b06379671ede1f62",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/children-first-declaration",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "تعهد ۲ میلیون دلاری OpenAI برای پژوهش در زمینه ایمنی کودکان و هوش مصنوعی",
+      "title_en": "Supporting research on AI and children’s safety",
+      "summary_fa": "شرکت OpenAI مبلغ ۲ میلیون دلار را به تحقیقاتی پیرامون ایمنی کودکان و هوش مصنوعی اختصاص داده است. هدف از این سرمایه‌گذاری، حمایت از توسعه ابزارهای مشترک برای ارزیابی دقیق خطرات و فرصت‌های هوش مصنوعی برای نسل جوان است.",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Children's Safety",
+        "هوش مصنوعی",
+        "پژوهش"
+      ]
+    },
+    {
+      "id": "8c999d6885d24711",
+      "date": "2026-11-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "JioStar و مقیاس‌پذیری هوش مصنوعی: درس‌هایی از مدیریت نیم میلیارد کاربر",
+      "title_en": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary_fa": "ویجی سشادری، معمار ارشد JioStar، در مورد چگونگی کشف و پیاده‌سازی هوش مصنوعی در مقیاس ۵۰۰ میلیون کاربر توضیح می‌دهد. او در این مطلب، درس‌هایی کلیدی در زمینه ارزیابی مدل‌های هوش مصنوعی، ایجاد مکانیزم‌های محافظتی (guardrails) و ورود موفقیت‌آمیز AI به فاز تولید و عملیاتی را به اشتراک می‌گذارد.",
+      "tags": [
+        "JioStar",
+        "AI",
+        "مقیاس‌پذیری",
+        "هوش مصنوعی در تولید",
+        "guardrails"
+      ]
+    },
+    {
+      "id": "63e32264deb3228e",
+      "date": "2025-08-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "نامه OpenAI به فرماندار کالیفرنیا: پیشگام هماهنگ‌سازی قوانین هوش مصنوعی شوید",
+      "title_en": "OpenAI’s letter to Governor Newsom on harmonized regulation",
+      "summary_fa": "شرکت OpenAI نامه‌ای به گاوین نیوسام، فرماندار کالیفرنیا، ارسال کرده است. در این نامه، OpenAI از کالیفرنیا می‌خواهد تا در هماهنگ‌سازی قوانین هوش مصنوعی ایالتی با استانداردهای ملی و جهانی پیشگام باشد. این اقدام با هدف بهره‌گیری از نقش رهبری آمریکا در شکل‌دهی به چارچوب‌های تنظیم‌گری جهانی برای هوش مصنوعی صورت می‌گیرد.",
+      "tags": [
+        "OpenAI",
+        "Gavin Newsom",
+        "AI regulation",
+        "کالیفرنیا",
+        "استانداردهای هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "55d7d41513d8574a",
+      "date": "2026-11-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "تحقیقات کنگره علیه انویدیا: دموکرات‌ها اتهام «تبانی» مدیرعامل با ترامپ و فروش به چین را بررسی می‌کنند",
+      "title_en": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "summary_fa": "کنگره آمریکا تحقیقاتی را علیه شرکت انویدیا آغاز کرده است. این تحقیقات بر فروش محصولات انویدیا به چین و ارتباطات احتمالی مدیرعامل آن، جنسن هوانگ، با دونالد ترامپ تمرکز دارد. این دومین بررسی کنگره در مورد این مسائل است که پس از فاش شدن اخباری درباره یک «رسوایی جاسوسی» ادعایی کلید خورده است.",
+      "tags": [
+        "Nvidia",
+        "Donald Trump",
+        "تحقیقات کنگره",
+        "سیاست آمریکا",
+        "فروش به چین"
+      ]
+    },
+    {
+      "id": "1a628d755dc37d52",
+      "date": "2026-11-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "قابلیت جدید هوش مصنوعی Muse: تماس با کسب‌وکارها، البته پولی",
+      "title_en": "Muse can now place calls to US businesses — if you pay",
+      "summary_fa": "هوش مصنوعی Muse قابلیت جدیدی را معرفی کرده است که به کاربران اجازه می‌دهد از طریق آن با کسب‌وکارهای آمریکایی تماس برقرار کنند. این قابلیت برقراری تماس‌های خروجی به شرکت‌های ایالات متحده را برای Muse ممکن می‌سازد. اما این سرویس رایگان نبوده و کاربران برای استفاده از آن باید هزینه پرداخت کنند.",
+      "tags": [
+        "Muse",
+        "AI calling",
+        "خدمات پولی",
+        "هوش مصنوعی مکالمه‌ای",
+        "U.S. businesses"
+      ]
+    },
+    {
+      "id": "5e5f306d785f1157",
+      "date": "2026-11-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "استعفای جنجالی جنسن هوانگ از انویدیا: ابعاد یک رسوایی با پیامدهای ملی",
+      "title_en": "The unfolding Jensen Huang scandal: a timeline",
+      "summary_fa": "جنسن هوانگ در پی یک رابطه‌ی خارج از عرف، از سمت مدیرعاملی شرکت انویدیا استعفا داد. این رویداد می‌تواند پیامدهای قابل توجهی برای امنیت ملی داشته باشد، به ویژه در شرایطی که رقابت آمریکا و چین برای توسعه زیرساخت‌های پیشرفته هوش مصنوعی در اوج خود قرار دارد.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "AI",
+        "امنیت ملی",
+        "استعفا"
+      ]
+    },
+    {
+      "id": "412b4e746837e240",
+      "date": "2026-11-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Nebius با ۴۰ میلیارد دلار زیرساخت هوش مصنوعی می‌سازد؛ مدل تامین مالی زیر ذره‌بین",
+      "title_en": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "summary_fa": "شرکت Nebius قصد دارد ۴۰ میلیارد دلار برای گسترش زیرساخت‌های هوش مصنوعی خود سرمایه‌گذاری کند. این سرمایه‌گذاری عظیم قرار است از طریق پیش‌پرداخت مشتریان و وام تامین شود. با این حال، تاخیرها در یکی از مراکز داده مایکروسافت، پرسش‌هایی را در مورد موفقیت و کارایی این مدل تامین مالی مطرح کرده است.",
+      "tags": [
+        "Nebius",
+        "AI infrastructure",
+        "رایانش ابری",
+        "سرمایه‌گذاری",
+        "تامین مالی"
+      ]
+    },
+    {
+      "id": "e153c4dc0f7fcb29",
+      "date": "2026-11-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "category": "اخبار شرکت‌ها و رهبری",
+      "title_fa": "خبر رویترز: رابطه‌ی عاطفی سوم جنسن هوانگ، مدیرعامل انویدیا، با کارمند شرکت",
+      "title_en": "Jensen Huang was having a third affair, Reuters reports",
+      "summary_fa": "به گزارش رویترز، جنسن هوانگ، مدیرعامل شرکت انویدیا، درگیر سومین رابطه‌ی عاطفی خود با یکی از کارکنان این شرکت شده است. رویترز نام این کارمند را فاش نکرده، اما تایید کرده است که او از کارکنان فعلی انویدیاست.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "Reuters",
+        "مدیرعامل",
+        "اخبار شخصی"
+      ]
+    },
+    {
+      "id": "ce9a468b53e9785d",
+      "date": "2026-11-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "گوگل جستجو را با هوش مصنوعی تقویت می‌کند: پاسخ‌های دقیق‌تر به پیچیده‌ترین پرسش‌ها",
+      "title_en": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary_fa": "حالت هوش مصنوعی جستجوی گوگل، که با Gemini 4 Hydrogen تقویت شده، توانایی خود را در درک پرسش‌های پیچیده افزایش داده است. این ارتقا به کاربران کمک می‌کند تا لینک‌های مرتبط‌تر و پاسخ‌های بصری غنی‌تری دریافت کنند.",
+      "tags": [
+        "Google",
+        "Search",
+        "AI",
+        "Gemini",
+        "Google Search AI"
+      ]
+    },
+    {
+      "id": "07356858caea4ddc",
+      "date": "2026-11-12",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "category": "سخت‌افزار و تنظیم‌گری",
+      "title_fa": "تایید خصوصی انویدیا: ردیابی تراشه‌ها برای مقابله با قاچاق امکان‌پذیر است، برخلاف تردیدهای عمومی صنعت",
+      "title_en": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary_fa": "انویدیا به بیل فاستر، نماینده کنگره آمریکا، اعلام کرده است که از نظر فنی امکان اجرای تدابیر ضد قاچاق مطابق با «قانون امنیت تراشه» برای ردیابی محصولاتش را دارد. این در حالی است که پیش از این، گروه‌های صنعتی اجرای چنین اقداماتی را غیرممکن قلمداد کرده بودند. فاستر این موضوع را در مصاحبه‌ای با MIT Technology Review فاش کرد.",
+      "tags": [
+        "Nvidia",
+        "تراشه",
+        "قاچاق",
+        "ردیابی",
+        "Chip Security Act"
+      ]
+    },
+    {
+      "id": "56aae23ea0ecf27d",
+      "date": "2026-11-12",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "نگاهی به فناوری روز: از تلاش برای جاودانگی تا مذاکرات اقلیمی COP31",
+      "title_en": "The Download: COP31’s climate challenge and the quest for immortality",
+      "summary_fa": "این نسخه از خبرنامه روزانه «The Download» مروری بر مهم‌ترین رویدادهای دنیای فناوری ارائه می‌دهد. در این شماره، موضوعاتی چون «جستجوی جاودانگی» از منظر فناوری مورد بحث قرار گرفته و همچنین به جزئیات مذاکرات سالانه تغییرات اقلیمی سازمان ملل (COP31) پرداخته شده است. نشست COP31 در آنتالیای ترکیه، با حضور هزاران نماینده، لابی‌گر و روزنامه‌نگار، چالش‌ها و مذاکرات اقلیمی این دوره را پوشش می‌دهد.",
+      "tags": [
+        "COP31",
+        "مذاکرات اقلیمی",
+        "جستجوی جاودانگی",
+        "فناوری زیستی",
+        "AI"
+      ]
+    },
+    {
+      "id": "198edc5850c5aa3e",
+      "date": "2026-11-11",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "category": "محیط زیست و تغییرات اقلیمی",
+      "title_fa": "آغاز مذاکرات سالانه اقلیمی سازمان ملل: COP31 در آنتالیا کلید خورد",
+      "title_en": "What to know about this year’s UN climate talks",
+      "summary_fa": "نشست سالانه تغییرات اقلیمی سازمان ملل متحد، موسوم به COP31، با حضور هزاران نماینده، لابی‌گر و روزنامه‌نگار در شهر آنتالیا ترکیه آغاز به کار کرد. این رویداد که از ۸ نوامبر رسماً کلید خورده، محلی برای آغاز مذاکرات در یکی از مهم‌ترین عرصه‌های جهانی در زمینه آب‌وهوا است. ترکیه به همراه استرالیا میزبانان مشترک این نشست هستند.",
+      "tags": [
+        "COP31",
+        "سازمان ملل",
+        "تغییرات اقلیمی",
+        "Turkey",
+        "استرالیا"
       ]
     }
   ]
