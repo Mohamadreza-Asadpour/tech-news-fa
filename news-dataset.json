@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1776
+    "total_articles": 1791
   },
   "articles": [
     {
@@ -30117,6 +30117,260 @@
         "تغییرات اقلیمی",
         "Turkey",
         "استرالیا"
+      ]
+    },
+    {
+      "id": "5bf4951adbe9698d",
+      "date": "2026-11-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "category": "خدمات و پلتفرم‌های هوش مصنوعی",
+      "title_fa": "معرفی کیف پول ChatGPT: پرداختی امن برای دستیارهای هوش مصنوعی",
+      "title_en": "Introducing ChatGPT Wallet",
+      "summary_fa": "کیف پول ChatGPT به عنوان راهکاری امن برای انجام تراکنش‌های خرید توسط دستیارهای هوش مصنوعی معرفی شد. این سیستم به دستیارهای هوش مصنوعی در پلتفرم‌هایی مانند ChatGPT Work، Codex و dots امکان می‌دهد تا با تایید کاربر و بهره‌گیری از پروتکل‌های امنیتی کارت‌های بانکی موجود، فرآیند خرید را انجام دهند.",
+      "tags": [
+        "ChatGPT Wallet",
+        "ChatGPT",
+        "OpenAI",
+        "پرداخت هوشمند",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "d1318183fe172893",
+      "date": "2026-11-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/shield",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Shield با هوش مصنوعی OpenAI: راهکاری برای اتوماسیون وظایف پورتال‌های قدیمی",
+      "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary_fa": "شرکت Shield با بهره‌گیری از هوش مصنوعی OpenAI به تکنسین‌های IT کمک می‌کند تا وظایف مربوط به پورتال‌های قدیمی و پیچیده را به آسانی واگذار کنند. عوامل Forge این شرکت، وظایف ناوبری در سیستم‌ها را بر عهده می‌گیرند و کارهای تکراری را انجام می‌دهند. این امر به تکنسین‌ها امکان می‌دهد تا تمرکز خود را بر روی مسائل حساس‌تر که نیاز به قضاوت انسانی دارند، معطوف کرده و بهره‌وری کلی را افزایش دهند.",
+      "tags": [
+        "Shield",
+        "OpenAI",
+        "اتوماسیون وظایف",
+        "پورتال قدیمی",
+        "بهره‌وری IT"
+      ]
+    },
+    {
+      "id": "d7893b67b5b0b072",
+      "date": "2025-08-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-new-era-of-work",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "GPT-5: پیشگام تحول در بهره‌وری و اتوماسیون سازمانی",
+      "title_en": "GPT-5 and the new era of work",
+      "summary_fa": "GPT-5، جدیدترین و پیشرفته‌ترین مدل هوش مصنوعی از شرکت OpenAI، به عنوان نیروی محرکه‌ای برای دگرگونی در هوش مصنوعی سازمانی شناخته می‌شود. این مدل ظرفیت بالایی برای افزایش اتوماسیون فرآیندها و بهبود قابل توجه بهره‌وری نیروی کار در سازمان‌ها دارد. انتظار می‌رود GPT-5 عصر جدیدی از کار هوشمند را آغاز کند و چگونگی انجام وظایف در محیط‌های کسب‌وکار را تغییر دهد.",
+      "tags": [
+        "GPT-5",
+        "OpenAI",
+        "هوش مصنوعی سازمانی",
+        "اتوماسیون",
+        "بهره‌وری نیروی کار"
+      ]
+    },
+    {
+      "id": "9db0abdca95b09e4",
+      "date": "2025-08-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-5-for-developers",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5 برای توسعه‌دهندگان: توانمندی‌های جدید در API OpenAI",
+      "title_en": "Introducing GPT-5 for developers",
+      "summary_fa": "OpenAI از معرفی GPT-5 در پلتفرم API خود خبر داد. این مدل جدید قابلیت‌های استدلال پیشرفته‌ای را ارائه می‌دهد و کنترل‌های بیشتری را در اختیار توسعه‌دهندگان قرار می‌دهد. GPT-5 در انجام وظایف کدنویسی واقعی نیز نتایج بی‌نظیری به ارمغان می‌آورد و عملکردی در سطح بهترین‌ها ارائه می‌کند.",
+      "tags": [
+        "GPT-5",
+        "OpenAI",
+        "API",
+        "توسعه‌دهندگان",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "0c5c0a6f1172afbc",
+      "date": "2025-08-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-coding-design",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5: افق‌های تازه در کدنویسی و طراحی با نسل جدید هوش مصنوعی",
+      "title_en": "Coding and design with GPT-5",
+      "summary_fa": "جدیدترین نسخه از مدل زبانی بزرگ OpenAI، یعنی GPT-5، قرار است امکانات بی‌سابقه‌ای را در حوزه‌های کدنویسی و طراحی ارائه دهد. این مدل پیشرفته، با ارتقاء قابلیت‌های خود، می‌تواند فرآیندهای توسعه نرم‌افزار و خلق محتوای بصری را متحول سازد و راهکارهای نوآورانه‌ای را برای متخصصان این حوزه‌ها فراهم آورد. انتظار می‌رود GPT-5 بهره‌وری و خلاقیت را در این صنایع به طرز چشمگیری افزایش دهد.",
+      "tags": [
+        "GPT-5",
+        "OpenAI",
+        "هوش مصنوعی",
+        "کدنویسی",
+        "طراحی"
+      ]
+    },
+    {
+      "id": "5fa81cf74ab3fd2f",
+      "date": "2025-08-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-creative-writing",
+      "category": "کاربرد هوش مصنوعی در تولید محتوا و هنر",
+      "title_fa": "GPT-5: همیار تازه نویسندگان خلاق",
+      "title_en": "Creative writing with GPT-5",
+      "summary_fa": "مدل قدرتمند هوش مصنوعی GPT-5 به‌عنوان ابزاری نوین برای کمک به نویسندگان در فرآیند خلاقانه نگارش معرفی شده است. این مدل قادر است در ایده‌پردازی اولیه، توسعه طرح داستان و حتی نگارش پیش‌نویس متون خلاقانه به یاری کاربران بشتابد. کاربرد GPT-5 نه تنها به افزایش بهره‌وری نویسندگان کمک می‌کند، بلکه افق‌های جدیدی را در شیوه خلق آثار ادبی و محتوای خلاقانه می‌گشاید.",
+      "tags": [
+        "GPT-5",
+        "نویسندگی خلاق",
+        "هوش مصنوعی",
+        "تولید محتوا"
+      ]
+    },
+    {
+      "id": "ec577d4c46a6d8ce",
+      "date": "2026-11-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "نگرانی از آینده تامین مالی استارتاپ‌های هوش مصنوعی: «خروج جنسن هوانگ حفره‌ای بزرگ ایجاد می‌کند»",
+      "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary_fa": "شرکت انویدیا تحت رهبری جنسن هوانگ، ده‌ها میلیارد دلار در استارتاپ‌های حوزه هوش مصنوعی سرمایه‌گذاری کرده است. اکنون، با مطرح شدن احتمال عدم حضور او، سرمایه‌گذاران خطرپذیر (VCs) و بنیان‌گذاران استارتاپ‌ها نسبت به آینده این جریان مالی نگران هستند. آن‌ها پیش‌بینی می‌کنند که بدون مدیریت هوانگ، میزان سرمایه‌گذاری‌ها و ارزش‌گذاری شرکت‌های نوپا کاهش چشمگیری خواهد داشت.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "سرمایه‌گذاری",
+        "استارتاپ‌های هوش مصنوعی",
+        "VCs"
+      ]
+    },
+    {
+      "id": "645e798427f902eb",
+      "date": "2026-11-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "LangChain، استارتاپ عوامل هوش مصنوعی، ۳ میلیارد دلاری شد",
+      "title_en": "AI agent startup LangChain hits $3B valuation",
+      "summary_fa": "استارتاپ LangChain، فعال در حوزه توسعه عوامل هوش مصنوعی، موفق شد ارزش خود را به ۳ میلیارد دلار برساند. این شرکت بیش از ۷۰۰۰ مشتری برای ابزار LangSmith خود جذب کرده است؛ ابزاری که برای مدیریت عامل‌های هوش مصنوعی طراحی شده و مستقل از پلتفرم یا مدل خاصی عمل می‌کند.",
+      "tags": [
+        "LangChain",
+        "LangSmith",
+        "عوامل هوش مصنوعی",
+        "استارتاپ",
+        "ارزش‌گذاری"
+      ]
+    },
+    {
+      "id": "3dc626ea28ff3a7d",
+      "date": "2026-11-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "افشاگری: مدل‌های هوش مصنوعی قدرتمند چین با تراشه‌های ممنوعه انویدیا توسعه یافتند",
+      "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "summary_fa": "تحقیقات جدید نشان می‌دهد که پیشرفته‌ترین مدل‌های هوش مصنوعی توسعه‌یافته در چین، با استفاده از تراشه‌های ممنوعه شرکت انویدیا آموزش دیده‌اند. این یافته‌ها حاکی از آن است که علیرغم محدودیت‌های صادراتی اعمال‌شده بر این تراشه‌ها، چین همچنان به منابع لازم برای پیشبرد قابلیت‌های هوش مصنوعی خود دسترسی پیدا کرده است. این موضوع می‌تواند پیامدهای مهمی برای سیاست‌های کنترل صادرات تکنولوژی و رقابت جهانی در زمینه هوش مصنوعی داشته باشد.",
+      "tags": [
+        "Nvidia",
+        "China AI",
+        "ممنوعیت صادرات",
+        "تراشه هوش مصنوعی",
+        "رقابت فناوری"
+      ]
+    },
+    {
+      "id": "c231d25e54b9ad3f",
+      "date": "2026-11-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "category": "کاربردهای هوش مصنوعی",
+      "title_fa": "کیف پول جدید ChatGPT: هوش مصنوعی برایتان خرید و پرداخت می‌کند",
+      "title_en": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "summary_fa": "قابلیت جدید «کیف پول ChatGPT» به عوامل هوش مصنوعی اجازه می‌دهد تا به نمایندگی از کاربران، خریدهای آنلاین و فرآیند پرداخت را انجام دهند. این ویژگی ابتدا به صورت محدود برای مشترکان ChatGPT Pro در ایالات متحده عرضه شده است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "AI agents",
+        "E-commerce",
+        "پرداخت آنلاین"
+      ]
+    },
+    {
+      "id": "59c58e3f39cc6e58",
+      "date": "2026-11-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "جنجال اخلاقی جنسن هوانگ؛ استعفای مدیرعامل انویدیا و پیامدهای ملی در رقابت هوش مصنوعی",
+      "title_en": "The unfolding Jensen Huang scandal: a timeline",
+      "summary_fa": "جنسن هوانگ، مدیرعامل شرکت انویدیا، در پی یک رسوایی اخلاقی از سمت خود کناره‌گیری کرده است. این استعفا می‌تواند تبعات ملی قابل توجهی داشته باشد، به ویژه در شرایطی که آمریکا و چین در رقابتی تنگاتنگ برای دستیابی به پیشرفته‌ترین زیرساخت‌های هوش مصنوعی هستند. این رویداد نگرانی‌های جدی در خصوص امنیت ملی ایجاد کرده است.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "AI",
+        "رقابت آمریکا و چین",
+        "امنیت ملی"
+      ]
+    },
+    {
+      "id": "744da6a2871c93b3",
+      "date": "2026-11-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ElevenLabs اپلیکیشن جدیدی برای یادداشت‌برداری و دیکته هوشمند جلسات تیمی عرضه کرد",
+      "title_en": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "summary_fa": "شرکت ElevenLabs اپلیکیشن جدیدی به نام ElevenAI را معرفی کرده است که به طور خاص برای یادداشت‌برداری از جلسات و قابلیت دیکته صوتی برای تیم‌ها و سازمان‌ها طراحی شده است. این ابزار جدید با هدف ساده‌سازی فرآیند ثبت اطلاعات و افزایش بهره‌وری در جلسات کاری عرضه شده است.",
+      "tags": [
+        "ElevenLabs",
+        "ElevenAI",
+        "AI",
+        "productivity tools",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "f1dbc25a6463dea4",
+      "date": "2026-11-13",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "خطای دید سیلیکون‌ولی: چرا پیش‌بینی انتخابات میان‌دوره‌ای اشتباه از آب درآمد؟",
+      "title_en": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "summary_fa": "این بخش از خبرنامه روزانه ما به بررسی نقطه ضعف سیلیکون‌ولی در پیش‌بینی‌های سیاسی می‌پردازد. با وجود ادعای شناخت آینده توسط فعالان این دره فناوری، آنها نتوانستند نتایج انتخابات میان‌دوره‌ای را به درستی پیش‌بینی کنند. آرون زاموست، مشاور ارتباطات تکنولوژی و مدیر سابق شرکت Square، این مسئله را یک نقطه کور برای مدعیان آینده‌نگری در سیلیکون‌ولی می‌داند.",
+      "tags": [
+        "Silicon Valley",
+        "انتخابات میان‌دوره‌ای",
+        "پیش‌بینی سیاسی",
+        "Aaron Zamost",
+        "صنعت تکنولوژی"
+      ]
+    },
+    {
+      "id": "04ab322d24b7e4e6",
+      "date": "2026-11-13",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "خواسته‌های جدید داوطلبان ایمپلنت مغزی: خودمختاری بیشتر، NDA کمتر",
+      "title_en": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "summary_fa": "دانشمندان دهه‌هاست که روی رمزگشایی فعالیت‌های مغزی کار می‌کنند و ایمپلنت‌هایی توسعه داده‌اند که امکان کنترل اندام‌های رباتیک، رایانه‌ها و حتی «صحبت کردن» را فراهم می‌آورند. داوطلبان این آزمایش‌ها نقشی حیاتی در پیشبرد این تحقیقات دارند و اکنون خواستار افزایش خودمختاری و کاهش قراردادهای عدم افشا (NDA) هستند تا حقوقشان در این پژوهش‌ها بهتر رعایت شود.",
+      "tags": [
+        "ایمپلنت مغزی",
+        "BCI",
+        "آزمایش بالینی",
+        "خودمختاری",
+        "NDA"
+      ]
+    },
+    {
+      "id": "5de37488cd547f03",
+      "date": "2026-11-13",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "category": "تحلیل صنعت تکنولوژی",
+      "title_fa": "ادعای پیش‌بینی آینده توسط سیلیکون‌ولی؛ چرا تحلیل‌های سیاسی‌شان اشتباه از آب درآمد؟",
+      "title_en": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "summary_fa": "رهبران و آینده‌نگران خودخوانده سیلیکون‌ولی، از جمله مدیرعامل OpenAI، سم آلتمن، و رئیس SpaceX، ایلان ماسک، شهرت و موفقیت خود را بر اساس ادعای توانایی دیدن آینده بنا کرده‌اند. این رویکرد بلندمدت و دوراندیشی، ارزشی کلیدی برای آن‌ها محسوب می‌شود؛ تا جایی که مارک زاکربرگ برای متا نقشه راهی ۱۰ ساله ترسیم کرده و گوگل نیز پیش از عرضه اولیه عمومی خود، با اطمینان خاطر به سرمایه‌گذاران گفته بود که نگران هیچ چیز نیست.",
+      "tags": [
+        "Silicon Valley",
+        "Sam Altman",
+        "Elon Musk",
+        "پیش‌بینی",
+        "سیاست"
       ]
     }
   ]
