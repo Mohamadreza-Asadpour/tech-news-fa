@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-15",
+    "last_updated": "2026-11-16",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1803
+    "total_articles": 1806
   },
   "articles": [
     {
@@ -30574,6 +30574,57 @@
         "Kress",
         "رهبری",
         "جانشینی"
+      ]
+    },
+    {
+      "id": "91e58e2ea930c2fa",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/lvmh-media-division-partnership",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "LVMH با OpenAI شریک شد: هوش مصنوعی برای ارتقای ژورنالیسم و دسترسی به محتوا",
+      "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary_fa": "گروه رسانه‌ای LVMH از یک همکاری استراتژیک با OpenAI خبر داد. هدف اصلی این شراکت، به‌کارگیری هوش مصنوعی برای حمایت و توسعه ژورنالیسم است. این همکاری همچنین به افزایش دسترس‌پذیری محتوای نشریات LVMH از طریق پلتفرم ChatGPT کمک خواهد کرد تا مخاطبان بتوانند راحت‌تر به اطلاعات دسترسی پیدا کنند.",
+      "tags": [
+        "LVMH",
+        "OpenAI",
+        "هوش مصنوعی",
+        "ChatGPT",
+        "ژورنالیسم"
+      ]
+    },
+    {
+      "id": "4b0fc5b701ffd77d",
+      "date": "2026-11-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-new-blog-for-science",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "اوپن‌ای‌آی وبلاگ علمی جدید خود را راه‌اندازی کرد: هوش مصنوعی در خدمت پیشرفت علم",
+      "title_en": "Our new blog for science",
+      "summary_fa": "اوپن‌ای‌آی وبلاگ علمی جدیدی راه‌اندازی کرده است. این وبلاگ به اشتراک‌گذاری یافته‌های نوین، روش‌های کاربردی و تجربیات دست اول محققانی می‌پردازد که از هوش مصنوعی برای پیشبرد کشفیات علمی بهره می‌برند.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "علم",
+        "پژوهش",
+        "بلاگ"
+      ]
+    },
+    {
+      "id": "9e3d554c6cb56d83",
+      "date": "2026-11-15",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "نقش حیاتی انویدیا در هوش مصنوعی: آیا آینده صنعت AI به سرنوشت جنسن هوانگ گره خورده است؟",
+      "title_en": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary_fa": "جنسن هوانگ، مدیرعامل شرکت انویدیا، به دلیل نقش حیاتی این شرکت در تأمین تراشه‌های لازم برای هوش مصنوعی، چهره‌ای کلیدی در صنعت فناوری محسوب می‌شود. بخش عظیمی از اقتصاد فعلی و پیشرفت هوش مصنوعی به عملکرد انویدیا وابسته است. بنابراین، هرگونه اتفاق نامطلوب برای هوانگ یا انویدیا می‌تواند تأثیرات گسترده‌ای بر کل اکوسیستم هوش مصنوعی و حتی فراتر از آن داشته باشد.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "AI Industry",
+        "تراشه",
+        "اقتصاد هوش مصنوعی"
       ]
     }
   ]
