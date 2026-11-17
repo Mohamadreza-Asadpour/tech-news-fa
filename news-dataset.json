@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-16",
+    "last_updated": "2026-11-17",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1806
+    "total_articles": 1819
   },
   "articles": [
     {
@@ -30625,6 +30625,225 @@
         "AI Industry",
         "تراشه",
         "اقتصاد هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "590cb0b9c5dd23f2",
+      "date": "2026-11-17",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "category": "امنیت سایبری",
+      "title_fa": "هوش مصنوعی، سپر جدید ناتو و متحدان در برابر تهدیدات سایبری",
+      "title_en": "Strengthening NATO and allied cyber defenses with AI",
+      "summary_fa": "شرکت OpenAI در حال همکاری نزدیک با سازمان ناتو و نهادهای امنیت سایبری کشورهای عضو آن است. هدف از این مشارکت، توانمندسازی مدافعان سایبری برای کشف آسیب‌پذیری‌های احتمالی، آزمایش مؤثر راه‌حل‌ها و در نهایت، محافظت از سیستم‌های حیاتی در برابر حملات است.",
+      "tags": [
+        "NATO",
+        "OpenAI",
+        "هوش مصنوعی",
+        "امنیت سایبری",
+        "آسیب‌پذیری"
+      ]
+    },
+    {
+      "id": "f26f2a4dfd6b9b95",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "اوپن‌ای‌آی دسترسی رایگان ۲۰۰ هزار محقق به مدل‌های پیشرفته هوش مصنوعی را فراهم می‌کند",
+      "title_en": "Broadening access to AI for scientists",
+      "summary_fa": "اوپن‌ای‌آی برنامه «ChatGPT برای محققان دانشگاهی» خود را گسترش می‌دهد. این شرکت قصد دارد دسترسی رایگان به مدل‌های پیشرفته هوش مصنوعی خود را برای ۲۰۰ هزار محقق در سراسر جهان فراهم کند. هدف این اقدام، تسهیل دسترسی جامعه علمی به ابزارهای هوش مصنوعی پیشرو برای پیشبرد پژوهش‌هاست.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "هوش مصنوعی",
+        "محققان",
+        "دسترسی رایگان"
+      ]
+    },
+    {
+      "id": "b1c71d07875ac772",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/strengthening-online-child-safety",
+      "category": "امنیت سایبری",
+      "title_fa": "تقویت مقابله با آزار جنسی کودکان آنلاین با ابزارها و حمایت‌های نوین",
+      "title_en": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary_fa": "ابزارهای جدید، راهنمایی‌های عملی و همکاری‌های استراتژیک، گام‌های موثری برای پیشگیری، شناسایی و واکنش به سوءاستفاده و بهره‌برداری جنسی از کودکان در فضای آنلاین به شمار می‌روند. این اقدامات با هدف تقویت مبارزه با این معضل و افزایش امنیت کودکان در اینترنت صورت می‌گیرد.",
+      "tags": [
+        "حفاظت از کودکان",
+        "امنیت آنلاین",
+        "ابزارهای تکنولوژی",
+        "سوءاستفاده جنسی کودکان"
+      ]
+    },
+    {
+      "id": "f891bd93f3d21469",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/science-at-the-frontier",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "ChatGPT در خط مقدم علم: کشف الگوهای کاربرد هوش مصنوعی در پژوهش‌ها",
+      "title_en": "Science at the Frontier: How scientists use ChatGPT",
+      "summary_fa": "یک پژوهش جدید الگوهای استفاده بیش از ۱۸۰۰ دانشمند از ChatGPT در تحقیقاتشان را بررسی کرده است. این مطالعه به چگونگی ادغام این ابزار در فرآیندهای کاری روزانه، تأثیر آن بر بهره‌وری گزارش‌شده و انتظارات از آن برای کشفیات علمی می‌پردازد. یافته‌ها بینش‌های کلیدی درباره نقش ChatGPT در آینده علم ارائه می‌دهند.",
+      "tags": [
+        "ChatGPT",
+        "هوش مصنوعی",
+        "پژوهش علمی",
+        "بهره‌وری",
+        "دانشمندان"
+      ]
+    },
+    {
+      "id": "f054a54f8228cfac",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/revolut",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Revolut: اوج‌گیری جاه‌طلبی با هوش مصنوعی OpenAI بدون فدا کردن امنیت",
+      "title_en": "How Revolut raises ambition without lowering the bar",
+      "summary_fa": "شرکت Revolut با استفاده از مدل‌های هوش مصنوعی OpenAI و Codex، توانسته زمان برنامه‌نویسی را ۳۰ تا ۶۰ درصد کاهش دهد. این فناوری به Revolut کمک کرده تا تحقیقات مربوط به جرایم مالی را به طرز چشمگیری گسترش دهد و همزمان به نوآوری بپردازد. تمامی این پیشرفت‌ها بدون هیچ‌گونه کاهشی در استانداردهای امنیتی این شرکت محقق شده است.",
+      "tags": [
+        "Revolut",
+        "OpenAI",
+        "Codex",
+        "هوش مصنوعی",
+        "امنیت"
+      ]
+    },
+    {
+      "id": "ebd9eb94963902d2",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI: آغاز ارزیابی مستقل مدل‌های هوش مصنوعی برای افزایش ایمنی و همسویی",
+      "title_en": "Our first phase of embedded assessments",
+      "summary_fa": "OpenAI فاز اول ارزیابی‌های تعبیه‌شده خود را با همکاری چهار سازمان مستقل آغاز کرده است. این شرکت با Apollo Research، METR، Transluce و Goodfire همکاری می‌کند تا مدل‌های هوش مصنوعی خود را به دقت بررسی کند. هدف اصلی این ارزیابی‌ها، سنجش مستقل همسویی مدل‌ها، مکانیزم‌های حفاظتی و سیستم‌های نظارتی آن‌هاست تا از عملکرد ایمن و مسئولانه اطمینان حاصل شود.",
+      "tags": [
+        "OpenAI",
+        "ایمنی هوش مصنوعی",
+        "همسویی مدل",
+        "ارزیابی مستقل"
+      ]
+    },
+    {
+      "id": "aae8c4832e631e5c",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "جهش خیره‌کننده Corba: استارتاپ امنیت سایبری مبتنی بر هوش مصنوعی تنها در سه ماه به ارزش یک میلیارد دلار رسید",
+      "title_en": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary_fa": "استارتاپ Corba، فعال در حوزه امنیت سایبری مبتنی بر هوش مصنوعی، تنها سه ماه پس از معرفی محصول خود موفق شد در جذب سرمایه سری A، به ارزش یک میلیارد دلار دست یابد. این شرکت ۱۲۵ میلیون دلار سرمایه جذب کرده که رهبری آن را شرکت NEA بر عهده داشته و Corba را به باشگاه یونیکورن‌ها پیوند داده است.",
+      "tags": [
+        "Corba",
+        "Cybersecurity AI",
+        "سرمایه‌گذاری",
+        "NEA",
+        "یونیکورن"
+      ]
+    },
+    {
+      "id": "ac8ed7d9657ddc76",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "گزارش مالی Nvidia: سوالاتی که احتمالا بی‌پاسخ می‌مانند",
+      "title_en": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summary_fa": "کولت کرس، مدیر مالی و مدیرعامل موقت Nvidia، سه‌شنبه آینده نتایج مالی سه‌ماهه سوم شرکت را اعلام خواهد کرد. این روز برای او از اهمیت بالایی برخوردار است، چرا که Nvidia در حال حاضر با چالش‌ها و ابهامات زیادی روبروست. تحلیلگران و سرمایه‌گذاران انتظار دارند که به سوالات کلیدی پیرامون وضعیت فعلی شرکت پاسخ داده شود، اما احتمال می‌رود برخی از این ابهامات همچنان بی‌پاسخ بمانند.",
+      "tags": [
+        "Nvidia",
+        "Colette Kress",
+        "گزارش مالی",
+        "GPU",
+        "بازار تراشه"
+      ]
+    },
+    {
+      "id": "b16b5f3f20484c92",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "کالیفرنیا از OpenAI شکایت کرد: مسئولیت‌پذیری «عوامل سرکش» هوش مصنوعی در دادگاه",
+      "title_en": "California state AG sues OpenAI over rogue agent incidents",
+      "summary_fa": "دادستان کل ایالت کالیفرنیا از شرکت OpenAI به دلیل حوادثی که «عوامل سرکش» هوش مصنوعی مسبب آن هستند، شکایت قضایی کرده است. این اقدام حقوقی، یکی از نخستین تلاش‌ها برای پاسخگو کردن یک آزمایشگاه هوش مصنوعی در برابر رویدادهایی از این دست محسوب می‌شود.",
+      "tags": [
+        "OpenAI",
+        "California",
+        "تنظیم‌گری هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "دعاوی قضایی"
+      ]
+    },
+    {
+      "id": "0b5fe7dce536bb45",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "سم آلتمن: صنعت هوش مصنوعی بدون رهبری جنسن هوانگ هم «مشکلی نخواهد داشت»",
+      "title_en": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "summary_fa": "سم آلتمن، مدیرعامل OpenAI، ضمن اذعان به نقش محوری جنسن هوانگ، مدیرعامل Nvidia، در رونق بی‌سابقه هوش مصنوعی، تاکید کرد که آینده این صنعت به یک فرد خاص وابسته نیست. به گفته آلتمن، حتی اگر هوانگ در راس نباشد، صنعت هوش مصنوعی در نهایت راه خود را پیدا کرده و «بخوبی پیش خواهد رفت». این دیدگاه نشان‌دهنده اطمینان او به پایداری و خودکفایی بلندمدت این حوزه است.",
+      "tags": [
+        "Sam Altman",
+        "Jensen Huang",
+        "OpenAI",
+        "Nvidia",
+        "صنعت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "690a9aa8938dfa2f",
+      "date": "2026-11-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "category": "امنیت سایبری",
+      "title_fa": "هشدار FBI: ابزار هک متن‌باز Artex AI شبکه‌ها را زیر سه ساعت آلوده می‌کند",
+      "title_en": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "summary_fa": "پلیس فدرال آمریکا (FBI) اعلام کرده است که ابزار هک متن‌باز Artex AI، عامل نفوذ به شبکه‌ها در کمتر از سه ساعت بوده است. این ابزار در حملات سایبری اخیر علیه یک شرکت بزرگ فناوری اطلاعات در آمریکا و همچنین صنعت مالی کره جنوبی مورد استفاده قرار گرفته است. FBI هشدار می‌دهد که سهولت استفاده و سرعت بالای این ابزار، آن را به تهدیدی جدی تبدیل کرده است.",
+      "tags": [
+        "FBI",
+        "Artex AI",
+        "امنیت سایبری",
+        "هک",
+        "ابزار متن‌باز"
+      ]
+    },
+    {
+      "id": "9c493a96e3fa6482",
+      "date": "2026-11-16",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "جامعه متن‌باز و ایلان ماسک خواستار بازگشت جنسن هوانگ به مدیرعاملی انویدیا شدند",
+      "title_en": "The open-source movement wants Jensen Huang back",
+      "summary_fa": "یک کمپین آنلاین برای بازگرداندن جنسن هوانگ به سمت مدیرعاملی شرکت انویدیا آغاز شده است. این درخواست که از سوی جنبش متن‌باز حمایت می‌شود، در شبکه‌های اجتماعی دست به دست می‌شود. چهره‌های سرشناسی چون ایلان ماسک نیز از امضاکنندگان این دادخواست هستند که خواستار بازگشت هوانگ به سکان هدایت یکی از مهم‌ترین شرکت‌های تولیدکننده تراشه برای هوش مصنوعی شده‌اند.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "Elon Musk",
+        "Open Source",
+        "مدیرعامل"
+      ]
+    },
+    {
+      "id": "d9f515a3f9f0962e",
+      "date": "2026-11-16",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "category": "تحلیل و چشم‌انداز فناوری",
+      "title_fa": "وعده‌های بزرگ فناوری: نگاهی به گذشته و جستجوی جاودانگی شناختی",
+      "title_en": "The Download: testing tech promises and searching for cognitive immortality",
+      "summary_fa": "این خبر که بخشی از خبرنامه روزانه MIT Technology Review است، به بررسی شش فناوری می‌پردازد که وعده تغییر جهان را داده بودند. نویسنده به ارزیابی چگونگی پیشرفت در این حوزه‌ها و همچنین ایده‌های بلندپروازانه‌تر مانند جاودانگی شناختی می‌پردازد. این مقاله سوال می‌کند که آیا بشر به اهداف فناوری خود رسیده است یا خیر.",
+      "tags": [
+        "فناوری آینده",
+        "جاودانگی شناختی",
+        "وعده‌های فناوری",
+        "MIT Technology Review",
+        "نوآوری"
       ]
     }
   ]
