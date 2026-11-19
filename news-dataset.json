@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-18",
+    "last_updated": "2026-11-19",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1837
+    "total_articles": 1852
   },
   "articles": [
     {
@@ -31148,6 +31148,261 @@
         "پذیرش سازمانی هوش مصنوعی",
         "اتوماسیون کسب‌وکار",
         "حکمرانی داده"
+      ]
+    },
+    {
+      "id": "e683d40fba103b5f",
+      "date": "2026-11-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-silent-consensus",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "آینده هوش مصنوعی و چالش حفظ کنترل جامعه: دیدگاه متخصص OpenAI",
+      "title_en": "The Silent Consensus",
+      "summary_fa": "دین بال، رئیس بخش آینده‌پژوهی استراتژیک در OpenAI، به بررسی عمیق چگونگی دگرگونی جامعه توسط هوش مصنوعی با قابلیت‌های پیشرفته پرداخته است. او در تحلیل خود به این مسئله محوری می‌پردازد که چگونه می‌توان در مواجهه با این تحولات، کنترل نهادها و ساختارهای اجتماعی را حفظ کرد و اجازه نداد قدرت از دست انسان‌ها خارج شود.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "آینده هوش مصنوعی",
+        "حاکمیت هوش مصنوعی",
+        "کنترل اجتماعی"
+      ]
+    },
+    {
+      "id": "9fa731b0ef6c1da9",
+      "date": "2026-11-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "شتاب هوش مصنوعی در پژوهش خودش: نگاهی به عملکرد نامتوازن عامل‌های کدنویس",
+      "title_en": "Research acceleration: The jagged frontier",
+      "summary_fa": "اوپن‌ای‌آی در پژوهش جدید خود به بررسی این موضوع پرداخته که چگونه عامل‌های هوش مصنوعی کدنویس، سرعت تحقیقات در حوزه هوش مصنوعی را افزایش می‌دهند. این تحقیق نشان می‌دهد که اگرچه این عامل‌ها به شتاب‌دهی کمک می‌کنند، اما عملکرد آن‌ها همواره یکسان و بدون نقص نیست و دارای فراز و نشیب‌هایی است. یافته‌های این بررسی، سرنخ‌هایی درباره مفهوم «خودبهبودگری بازگشتی» در هوش مصنوعی ارائه می‌دهد که یکی از مسیرهای احتمالی برای پیشرفت‌های آینده است.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "تحقیقات هوش مصنوعی",
+        "عامل کدنویس",
+        "خودبهبودگری بازگشتی"
+      ]
+    },
+    {
+      "id": "b527b6f0ddceafec",
+      "date": "2026-11-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "سومیتومو لایف و پذیرش ChatGPT Enterprise: راهبری مدیران مسیر را هموار کرد",
+      "title_en": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary_fa": "شرکت بیمه سومیتومو لایف برای اهدافی چون تحقیق در مورد بیمه‌گران، تهیه پیشنهادها و حتی نوشتن کد برای تحلیل سرمایه‌گذاری از ChatGPT Enterprise استفاده می‌کند. پذیرش موفق این ابزار در میان تیم‌ها تا حد زیادی مدیون استفاده اولیه و حمایت مدیران ارشد شرکت بوده است که نقش کلیدی در هموار کردن مسیر یکپارچه‌سازی هوش مصنوعی ایفا کرده‌اند.",
+      "tags": [
+        "Sumitomo Life",
+        "ChatGPT Enterprise",
+        "پذیرش سازمانی هوش مصنوعی",
+        "کاربرد هوش مصنوعی",
+        "رهبری تکنولوژی"
+      ]
+    },
+    {
+      "id": "53f2a14376dda94d",
+      "date": "2026-11-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/inside-the-codex-sandbox",
+      "category": "امنیت سایبری",
+      "title_fa": "Codex: جعبه‌شنی ایمن برای اجرای دستورات با کنترل کامل بر منابع سیستم",
+      "title_en": "Inside the Codex sandbox",
+      "summary_fa": "Codex یک جعبه‌شنی (sandbox) است که به شما امکان می‌دهد دستورات را در سیستم خود اجرا کنید. این ابزار، در عین حال، محدودیت‌های فایل‌سیستم و شبکه را که توسط شما تعیین شده‌اند، اعمال می‌کند. به این ترتیب، کاربران می‌توانند با اطمینان خاطر، دستورات مختلف را در محیطی ایزوله و کنترل‌شده روی سیستم‌عامل‌های macOS، لینوکس و ویندوز اجرا کنند.",
+      "tags": [
+        "Codex",
+        "Sandbox",
+        "امنیت سیستم",
+        "Cross-platform",
+        "اجرای کد"
+      ]
+    },
+    {
+      "id": "8b6ac2940fdc0d0e",
+      "date": "2026-11-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/managing-frontier-ai-risk",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "روش OpenAI برای مدیریت ریسک‌های هوش مصنوعی پیشرفته: از آموزش تا استقرار",
+      "title_en": "Managing frontier AI risk: From training to deployment",
+      "summary_fa": "شرکت OpenAI در گزارشی تشریح کرده است که چگونه خطرات مرتبط با هوش مصنوعی‌های پیشرفته (frontier AI) را در تمام مراحل توسعه، از آموزش تا استقرار، مدیریت می‌کند. این شرکت برای تضمین ایمنی و کاهش ریسک‌ها، از رویکردهایی نظیر هم‌ترازی مدل‌ها (model alignment)، استفاده از محیط‌های ایزوله (sandboxing)، مکانیزم‌های محافظتی مسدودکننده و پایش مداوم بهره می‌برد.",
+      "tags": [
+        "OpenAI",
+        "frontier AI",
+        "مدیریت ریسک هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "model alignment"
+      ]
+    },
+    {
+      "id": "c7d3ecb006439a13",
+      "date": "2026-11-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "مدل‌های هوش مصنوعی OpenAI: گامی بلند در طراحی تراشه",
+      "title_en": "Advancing chip design with OpenAI models",
+      "summary_fa": "مدل‌های هوش مصنوعی OpenAI، از جمله GPT-6 Astra، موفق به بهینه‌سازی مدارهای مورد استفاده در تراشه «هالاپینو» (Jalapeño) شده‌اند. این پیشرفت همچنین شامل بهبود چشمگیر در طراحی هسته‌های RISC-V است. این دستاوردها، گام بزرگی در طراحی تراشه با کمک هوش مصنوعی محسوب می‌شود و پتانسیل بالای AI در این حوزه را نشان می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "GPT-6 Astra",
+        "طراحی تراشه",
+        "RISC-V",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a8022fb06095c478",
+      "date": "2026-11-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ساتیا نادلا: هوش مصنوعی، دلیل درخواست مایکروسافت از ۶۰ هزار کارمند برای ترک داوطلبانه",
+      "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary_fa": "مدیرعامل مایکروسافت، ساتیا نادلا، توضیح داد که چرا به ۶۰ هزار نفر از کارمندان خود پیشنهاد تسویه‌حساب داوطلبانه داده است. این اقدام با هدف جلوگیری از تعدیل نیروی گسترده و تشویق به ترک داوطلبانه کار صورت گرفت. دلیل اصلی این تصمیم، هوش مصنوعی عنوان شده است، اما نه به آن شکلی که ممکن است تصور شود.",
+      "tags": [
+        "Microsoft",
+        "Satya Nadella",
+        "هوش مصنوعی",
+        "مدیریت نیروی کار",
+        "استراتژی سازمانی"
+      ]
+    },
+    {
+      "id": "44255eb49d7cccbd",
+      "date": "2026-11-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "category": "امنیت سایبری و خطرات هوش مصنوعی",
+      "title_fa": "ساتیا نادلا: زیرساخت‌های حیاتی در برابر حملات هوش مصنوعی «غیرقابل ترمیم» هستند",
+      "title_en": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "summary_fa": "ساتیا نادلا، مدیرعامل مایکروسافت، ضمن کم‌اهمیت جلوه دادن قطعی اخیر سرویس Outlook، به تأثیرات هوش مصنوعی بر امنیت جهانی اشاره کرد. او توضیح داد که در کنار فرصت‌هایی که هوش مصنوعی ایجاد می‌کند، این فناوری چالش‌های امنیتی جدیدی را نیز برای حفاظت از زیرساخت‌های متصل به وجود آورده است. به گفته نادلا، بخش زیادی از این زیرساخت‌های حیاتی در برابر حملات سایبری هوش مصنوعی «قابل ترمیم نیستند» و این موضوع نگرانی‌هایی را در پی دارد.",
+      "tags": [
+        "AI",
+        "امنیت سایبری",
+        "Satya Nadella",
+        "Microsoft",
+        "زیرساخت‌های حیاتی"
+      ]
+    },
+    {
+      "id": "ae30c6152bf9ca30",
+      "date": "2026-11-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "category": "افراد و شرکت‌های تأثیرگذار در هوش مصنوعی",
+      "title_fa": "ایلان ماسک: جنسن هوانگ مایکل جردن فناوری آمریکاست؛ برکناری او خودزنی است",
+      "title_en": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "summary_fa": "ایلان ماسک، مدیرعامل تسلا و اسپیس‌ایکس، در دفاع از جنسن هوانگ، مدیرعامل NVIDIA، اظهار داشت که برکناری او از جایگاهش به مثابه حذف مایکل جردن از یک تیم ورزشی است. ماسک تاکید کرد که هوانگ را فردی وفادار به ایالات متحده می‌داند و معتقد نیست که او نسبت به این کشور بی‌وفا باشد.",
+      "tags": [
+        "Elon Musk",
+        "Jensen Huang",
+        "NVIDIA",
+        "هوش مصنوعی",
+        "رهبری فناوری"
+      ]
+    },
+    {
+      "id": "ebee197c44b51a8c",
+      "date": "2026-11-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "اطمینان ساتیا نادلا به آینده انویدیا پس از تغییرات رهبری",
+      "title_en": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "summary_fa": "ساتیا نادلا، مدیرعامل مایکروسافت، نسبت به انویدیا و رهبری جدید آن ابراز اطمینان کرد. وی مشخصاً به کولت کرس، جانشین جنسان هوانگ که به عنوان مدیرعامل موقت انویدیا فعالیت می‌کند، اعتماد کامل دارد.",
+      "tags": [
+        "Microsoft",
+        "Nvidia",
+        "Satya Nadella",
+        "Colette Kress",
+        "Jensen Huang"
+      ]
+    },
+    {
+      "id": "f7885a7f892bd839",
+      "date": "2026-11-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "پیش‌بینی ساتیا نادلا: ایجنت‌های هوش مصنوعی قواعد اقتصادی وب را دگرگون می‌کنند",
+      "title_en": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary_fa": "ساتیا نادلا، مدیرعامل مایکروسافت، پیش‌بینی می‌کند که عامل‌های هوش مصنوعی (AI agents) آینده‌ی وب را متحول خواهند کرد. او معتقد است که این ایجنت‌ها مدل‌های کسب‌وکار فعلی، به‌ویژه آن‌هایی که بر پایه تبلیغات هستند، را مختل خواهند کرد. به گفته‌ی نادلا، شرکت‌های بزرگی مانند آمازون نیز باید رویکرد خود را در رقابت برای جذب مشتریان بازنگری کنند.",
+      "tags": [
+        "Satya Nadella",
+        "Microsoft",
+        "AI agents",
+        "اقتصاد وب",
+        "مدل کسب‌وکار"
+      ]
+    },
+    {
+      "id": "6b4b11d8558c175e",
+      "date": "2026-11-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "عرضه اولیه Anthropic با قیمتی فراتر از انتظار؛ هر سهم ۸۳ دلار",
+      "title_en": "Anthropic prices IPO at $83 a share, above projected range",
+      "summary_fa": "شرکت Anthropic، توسعه‌دهنده هوش مصنوعی، سرانجام عرضه اولیه سهام خود را با قیمتی بالاتر از محدوده پیش‌بینی شده آغاز کرد. هر سهم این شرکت ۸۳ دلار قیمت‌گذاری شده است. این عرضه اولیه (IPO) بر اساس محاسبات کاملاً رقیق‌شده، ارزش کلی Anthropic را به ۱.۵ تریلیون دلار می‌رساند.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "ارزش‌گذاری"
+      ]
+    },
+    {
+      "id": "bb3ee1cf50e29f40",
+      "date": "2026-11-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "تب هوش مصنوعی: از جستجوی گوگل تا ربات‌های خانگی، AI در همه‌جا",
+      "title_en": "The AI Hype Index: AI is everywhere",
+      "summary_fa": "هوش مصنوعی به سرعت در حال گسترش است و به پدیده‌ای فراگیر در زندگی روزمره تبدیل شده است. از سرویس‌های جدید گوگل مانند AI Overviews که با وجود هزینه‌های میلیارد دلاری برای شرکت ارائه می‌شوند، تا ربات‌های انسان‌نمای مجهز به AI که برای انجام کارهای خانگی به کار گرفته می‌شوند، نشانه‌های این گسترش همه‌جانبه هستند.",
+      "tags": [
+        "AI",
+        "Google",
+        "AI Overviews",
+        "ربات هوشمند",
+        "فراگیر شدن هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "5fe5c48115f1c83a",
+      "date": "2026-11-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "هوش مصنوعی حس بویایی پیدا می‌کند: بینی دیجیتال در رقابت با انسان",
+      "title_en": "The Download: AI learns to smell and hydropower struggles",
+      "summary_fa": "یک استارتاپ فناوری ادعا می‌کند هوش مصنوعی توسعه‌یافته توسط این شرکت، حس بویایی را آموخته است. این شرکت مستقر در نیوجرسی، مدعی است که بینی هوش مصنوعی آن‌ها توانایی تشخیص بوها را با دقتی معادل یک انسان دارد. محققان در آزمایشگاه این استارتاپ در تلاشند تا هر بوی موجود در زمین را شناسایی و دسته‌بندی کنند.",
+      "tags": [
+        "هوش مصنوعی",
+        "حس بویایی",
+        "AI",
+        "استارتاپ",
+        "مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "d1dd49b4f83d7a93",
+      "date": "2026-11-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Osmo و ادعایی بزرگ: هوش مصنوعی ما همپای بینی انسان بوها را می‌شناسد",
+      "title_en": "This smell startup says its AI nose is as good as a human’s",
+      "summary_fa": "استارتاپ هوش مصنوعی Osmo در حال توسعه سیستمی است که ادعا می‌کند قدرت بویایی آن به اندازه انسان دقیق است. این شرکت برای آموزش مدل هوش مصنوعی خود، از تیمی متشکل از حدود ۳۰ متخصص بویایی کمک می‌گیرد که با دقت نتایج تشخیص بوها را ثبت می‌کنند. این داده‌های انسانی سپس با تحلیل‌های شیمیایی ترکیب شده تا مجموعه‌ای غنی برای آموزش اولین مدل بنیادین جهان در حوزه بویایی ایجاد شود.",
+      "tags": [
+        "Osmo",
+        "AI nose",
+        "بویایی",
+        "Foundation Model",
+        "هوش مصنوعی"
       ]
     }
   ]
