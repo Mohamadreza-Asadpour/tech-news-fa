@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-19",
+    "last_updated": "2026-11-20",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1852
+    "total_articles": 1867
   },
   "articles": [
     {
@@ -31403,6 +31403,260 @@
         "بویایی",
         "Foundation Model",
         "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6687f7be62c34e4a",
+      "date": "2026-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "category": "بهینه‌سازی و عملکرد هوش مصنوعی",
+      "title_fa": "راز پایداری سرعت ChatGPT: کارخانه‌ی عملکرد OpenAI چگونه کار می‌کند؟",
+      "title_en": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary_fa": "اوپن‌ای‌آی (OpenAI) با راه‌اندازی «کارخانه‌ی عملکرد»، سیستمی نوین برای تضمین سرعت پایدار ChatGPT ایجاد کرده است. این کارخانه از فرایندهای خودکاری بهره می‌برد که با مدل هوش مصنوعی Codex قدرت گرفته‌اند. وظیفه اصلی آن، شناسایی و رفع سریع مشکلات عملکردی است تا تجربه کاربری روان و سریعی برای میلیون‌ها کاربر ChatGPT فراهم شود.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Codex",
+        "بهینه‌سازی هوش مصنوعی",
+        "عملکرد سیستم"
+      ]
+    },
+    {
+      "id": "4b08ec50268e04a4",
+      "date": "2026-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "category": "امنیت سایبری",
+      "title_fa": "Daybreak Red: چارچوبی مرجع برای تحقیقات امنیتی تحت نظارت",
+      "title_en": "Deploying Daybreak Red",
+      "summary_fa": "این خبر به معرفی معماری مرجع Daybreak Red می‌پردازد که برای انجام تحقیقات امنیتی تحت نظارت طراحی شده است. این چارچوب جامع، رویکردی ساختاریافته را برای پیاده‌سازی این نوع تحقیقات ارائه می‌دهد. تمرکز اصلی بر کنترل‌های ایمنی، مراحل راه‌اندازی و پایش مداوم سیستم برای تضمین کارایی و امنیت است.",
+      "tags": [
+        "Daybreak Red",
+        "امنیت سایبری",
+        "تحقیقات امنیتی",
+        "معماری مرجع",
+        "safety controls"
+      ]
+    },
+    {
+      "id": "cb99e2baa62e7866",
+      "date": "2026-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/pr-scans-demo",
+      "category": "توسعه نرم‌افزار",
+      "title_fa": "بررسی نتایج اسکن کد در Pull Request: یک نمایش عملی",
+      "title_en": "See PR scans in action",
+      "summary_fa": "این راهنمای عملی، نحوه کارکرد اسکن‌های Pull Request را نشان می‌دهد. در این نمایش، چگونگی بررسی و مدیریت نتایج این اسکن‌ها در یک جریان کاری Pull Request استاندارد به تفصیل توضیح داده شده است.",
+      "tags": [
+        "Pull Request",
+        "PR scans",
+        "Code review",
+        "DevOps"
+      ]
+    },
+    {
+      "id": "e29ac258c013c12c",
+      "date": "2026-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "category": "امنیت سایبری",
+      "title_fa": "پلاگین امنیتی Codex: کاوشی در عملکرد و جریان کار با یک دمو",
+      "title_en": "Explore the Codex Security Plugin",
+      "summary_fa": "این خبر به تماشای دموی پلاگین امنیتی Codex دعوت می‌کند. در این دمو، مراحل کامل استفاده از پلاگین، از لحظه شروع به کار تا بررسی نتایج ارائه‌شده، به نمایش گذاشته می‌شود تا کاربران با جریان کاری آن آشنا شوند.",
+      "tags": [
+        "Codex Security Plugin",
+        "امنیت سایبری",
+        "پلاگین",
+        "امنیت کد",
+        "دمو"
+      ]
+    },
+    {
+      "id": "a2fb00344062975f",
+      "date": "2026-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "category": "راهنمای محصول و کاربری",
+      "title_fa": "Daybreak Blue: راهنمای جامع راه‌اندازی و شروع به کار",
+      "title_en": "Get started with Daybreak Blue",
+      "summary_fa": "این خبر به بررسی دقیق فرایند ورود (onboarding) به پلتفرم Daybreak Blue می‌پردازد. در این راهنما، کاربران می‌توانند گام به گام با نحوه راه‌اندازی اولیه و شروع کار با این سرویس آشنا شوند و جزئیات تجربه کاربری در مراحل ابتدایی را مشاهده کنند. هدف این آموزش، تسهیل آشنایی و استفاده سریع‌تر از قابلیت‌های Daybreak Blue است.",
+      "tags": [
+        "Daybreak Blue",
+        "Onboarding",
+        "Setup",
+        "راهنمای کاربری",
+        "شروع به کار"
+      ]
+    },
+    {
+      "id": "cfcc7acb02e9ca79",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "گام جدید ChatGPT در سلامت: عامل‌های هوشمند و افزونه‌های تخصصی برای ارتقای مراقبت",
+      "title_en": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary_fa": "شرکت OpenAI قابلیت‌های ChatGPT را برای حوزه سلامت گسترش داده است. این به‌روزرسانی شامل معرفی عامل‌های هوشمند برای کاربری کامپیوتر، بهبود قابل توجه پاسخ‌های کلینیکی و افزونه‌های جدیدی است که می‌توانند با نرم‌افزارهای مختلف سلامت همکاری کنند. هدف از این ابزارهای نوین، تسهیل و تسریع انجام کارهای عملی در بخش مراقبت‌های درمانی است.",
+      "tags": [
+        "ChatGPT",
+        "Healthcare AI",
+        "پزشکی",
+        "افزونه‌ها",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "8f4728ffc5b95bfc",
+      "date": "2026-11-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "شنیده‌ها: اپل عامل هوش مصنوعی اختصاصی برای مدیریت مک توسعه می‌دهد",
+      "title_en": "Apple may be developing its own AI agent that runs your Mac",
+      "summary_fa": "شرکت اپل ظاهراً در حال توسعه عامل‌های هوش مصنوعی اختصاصی است که قرار است مدیریت سیستم‌عامل مک را بر عهده بگیرند. این گام جدید نشان‌دهنده ورود جدی اپل به عرصه رقابت عاملان هوشمند است. انتظار می‌رود این عامل‌ها بتوانند با نمونه‌های قدرتمندی چون متا میوز، اینستینکت، کلود و OpenAI Dots رقابت کنند.",
+      "tags": [
+        "Apple",
+        "AI Agent",
+        "macOS",
+        "هوش مصنوعی",
+        "Meta",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "f1dd0bea0b97e4ab",
+      "date": "2026-11-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "IPO رکوردشکن Anthropic: ۷ بنیانگذار نزدیک به ۲ میلیارد دلار به خانه بردند",
+      "title_en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary_fa": "در پی عرضه اولیه سهام (IPO) شرکت Anthropic با قیمت ۸۳ دلار به ازای هر سهم، هفت بنیانگذار این شرکت هر کدام ۲۸۰ میلیون دلار درآمد کسب کردند که مجموعاً به حدود ۲ میلیارد دلار می‌رسد. همچنین، این شرکت در این عرضه اولیه بی‌سابقه، نزدیک به ۱۰۵ میلیارد دلار جذب کرد که نشان از موفقیت چشمگیر آن در بازار دارد.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "بنیانگذاران"
+      ]
+    },
+    {
+      "id": "6f0f2d869f0fe635",
+      "date": "2026-11-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "گجت پوشیدنی هوش مصنوعی متا، Muse Charm، احتمالا ۳۰۰ دلار قیمت خواهد داشت",
+      "title_en": "Meta’s new Muse Charm device may cost $300",
+      "summary_fa": "بر اساس گزارش‌های منتشر شده، گجت پوشیدنی هوش مصنوعی جدید شرکت متا با نام Muse Charm ممکن است با قیمت ۳۰۰ دلار به بازار عرضه شود. متا تاکنون این خبر را به طور رسمی نه تایید و نه تکذیب کرده است. این شرکت تنها اعلام کرده که به زودی اطلاعات بیشتری درباره محصول پوشیدنی هوش مصنوعی آتی خود به اشتراک خواهد گذاشت.",
+      "tags": [
+        "Meta",
+        "Muse Charm",
+        "AI wearable",
+        "هوش مصنوعی",
+        "گجت پوشیدنی"
+      ]
+    },
+    {
+      "id": "f2dddf2ea7d8bc56",
+      "date": "2026-11-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "category": "امنیت سایبری",
+      "title_fa": "اختلالات فناوری، با طعم Y2K و ردپای هوش مصنوعی؟",
+      "title_en": "These tech outages are giving Y2K, AI agent style",
+      "summary_fa": "قطعی‌های زنجیره‌ای اخیر در سیستم‌های رزرو پرواز، پلتفرم‌های بانکی و ابزارهای بهره‌وری، این پرسش را مطرح کرده که آیا این اتفاقات تصادفی هستند؟ کارشناسان امنیت سایبری معتقدند که پای یک ماجرای عمیق‌تر در میان است. آن‌ها این اختلالات گسترده را یادآور بحران Y2K می‌دانند و به نقش احتمالی عوامل هوش مصنوعی اشاره می‌کنند.",
+      "tags": [
+        "اختلالات فناوری",
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "Y2K",
+        "AI agents"
+      ]
+    },
+    {
+      "id": "423b8c753c11c242",
+      "date": "2026-11-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "استعفای جنجالی جنسن هوانگ از انویدیا: ابعاد امنیت ملی در رقابت هوش مصنوعی",
+      "title_en": "The unfolding Jensen Huang scandal: a timeline",
+      "summary_fa": "جنسن هوانگ، مدیرعامل انویدیا، به دنبال یک رسوایی اخلاقی از سمت خود کناره‌گیری کرد. این استعفا در بحبوحه‌ی رقابت شدید میان آمریکا و چین برای توسعه پیشرفته‌ترین زیرساخت‌های هوش مصنوعی صورت گرفته است. کارشناسان معتقدند که این اتفاق می‌تواند پیامدهای مهمی برای امنیت ملی دو کشور داشته باشد و بر آینده‌ی صنعت هوش مصنوعی تاثیر بگذارد.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "AI",
+        "US-China",
+        "امنیت ملی"
+      ]
+    },
+    {
+      "id": "2ad2190c7ade6b93",
+      "date": "2026-11-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "عرضه اولیه Anthropic و چشم‌انداز اهدای ۱۵۶ میلیارد دلار به خیریه",
+      "title_en": "Anthropic’s IPO could deliver $156B to charity",
+      "summary_fa": "Anthropic، آزمایشگاه پیشرو در زمینه هوش مصنوعی، ممکن است از طریق عرضه اولیه سهام خود (IPO)، مبلغ قابل توجهی را به امور خیریه اختصاص دهد. بر اساس برآوردها، در صورت قیمت‌گذاری هر سهم به مبلغ ۹۵ دلار، مجموع کمک‌های بنیاد انتفاع عمومی شرکت، هدایای کارکنان و تطبیق شرکت، به ۱۵۶ میلیارد دلار خواهد رسید.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "خیریه",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "0011ae0145f003e8",
+      "date": "2026-11-19",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "category": "پژوهش‌های پزشکی و زیستی",
+      "title_fa": "رکوردشکنی در پزشکی: کبد انسانی هفت هفته خارج از بدن زنده نگه داشته شد",
+      "title_en": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "summary_fa": "پژوهشگران استرالیایی موفق شدند یک کبد انسانی را برای مدت بی‌سابقه هفت هفته در خارج از بدن و با استفاده از سیستم‌های حمایتی زنده نگه دارند. این دستاورد یک رکورد جدید در زمینه نگهداری اعضای پیوندی محسوب می‌شود و گامی مهم در پیشرفت جراحی پیوند اعضا خواهد بود.",
+      "tags": [
+        "کبد",
+        "پژوهش پزشکی",
+        "زیست‌فناوری",
+        "پیوند اعضا",
+        "Australia"
+      ]
+    },
+    {
+      "id": "200c26dcc8016e98",
+      "date": "2026-11-19",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "category": "پژوهش و فناوری پزشکی",
+      "title_fa": "رکوردشکنی در علم پزشکی: کبد انسان هفت هفته خارج از بدن زنده ماند",
+      "title_en": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary_fa": "پژوهشگران استرالیایی مدعی شدند که توانسته‌اند یک کبد انسانی را برای مدت بی‌سابقه هفت هفته خارج از بدن و با استفاده از دستگاه‌های پشتیبانی حیات، زنده نگه دارند. این موفقیت چشمگیر، که جزئیات آن هنوز به طور کامل منتشر نشده، افق‌های جدیدی را در زمینه مهندسی پزشکی زیستی پیش روی دانشمندان می‌گشاید. این دستاورد در سیدنی و توسط تیمی به رهبری جراح و مخترع، کارلو پولیتانو، با اتصال یک کبد اهدایی به سیستم‌های حیاتی حاصل شده است.",
+      "tags": [
+        "کبد",
+        "پیوند اعضا",
+        "پژوهش پزشکی",
+        "مهندسی زیستی",
+        "Carlo Pulitano"
+      ]
+    },
+    {
+      "id": "1208f01e00a62efe",
+      "date": "2026-11-19",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "category": "فناوری باتری و ذخیره‌ساز انرژی",
+      "title_fa": "قرارداد میلیارد دلاری Sila و Panasonic: احیای امیدها در بازار باتری‌های نسل جدید آمریکا",
+      "title_en": "What a billion-dollar deal says about the US battery market",
+      "summary_fa": "پس از دوره‌ای پرچالش برای باتری‌های نسل جدید در آمریکا که با شکست‌هایی نیز همراه بود، اکنون خبرهای مثبتی به گوش می‌رسد. شرکت Sila قراردادی مهم با Panasonic Energy، تولیدکننده‌ی جهانی باتری، امضا کرده تا مواد آند سیلیکون-کربن را تامین کند. این ماده‌ی نوین نقشی کلیدی در ساخت باتری‌های کوچک‌تر و سبک‌تر دارد. Sila ارزش این توافق را بیش از یک میلیارد دلار برآورد کرده که نشانه‌ای از امید به آینده این صنعت است.",
+      "tags": [
+        "Sila",
+        "Panasonic Energy",
+        "باتری‌های نسل جدید",
+        "آند سیلیکون-کربن",
+        "US battery market"
       ]
     }
   ]
