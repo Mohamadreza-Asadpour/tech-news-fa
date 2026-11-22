@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-21",
+    "last_updated": "2026-11-22",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1875
+    "total_articles": 1887
   },
   "articles": [
     {
@@ -31793,6 +31793,208 @@
         "علوم اعصاب",
         "پژوهش علمی",
         "فناوری‌های آینده"
+      ]
+    },
+    {
+      "id": "d15c45643214b444",
+      "date": "2026-11-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/hebbia",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Hebbia: جهش چشمگیر در تحقیقات مالی با GPT-6 Astra",
+      "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary_fa": "شرکت Hebbia با ارزیابی مدل پیش‌نمایش GPT-6 Astra، پیشرفت‌های قابل توجهی در تحقیقات مالی گزارش کرده است. این ارزیابی‌ها بهبودهایی را در پوشش منابع، اعتبار استنادها و کیفیت ارائه‌ی اطلاعات نشان می‌دهند که افق‌های جدیدی برای پژوهش‌های مالی می‌گشاید.",
+      "tags": [
+        "Hebbia",
+        "GPT-6 Astra",
+        "هوش مصنوعی",
+        "تحقیقات مالی",
+        "کاربرد AI"
+      ]
+    },
+    {
+      "id": "e3915f7e4cf071c4",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-kings-trust-and-openai",
+      "category": "آموزش و مهارت‌آموزی هوش مصنوعی",
+      "title_fa": "همکاری یک میلیون پوندی The King's Trust و OpenAI: آموزش مهارت‌های هوش مصنوعی به جوانان بریتانیایی",
+      "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary_fa": "The King's Trust و شرکت OpenAI با راه‌اندازی یک همکاری مشترک به ارزش یک میلیون پوند، قصد دارند به ۲۵,۰۰۰ جوان در سراسر بریتانیا کمک کنند. هدف این طرح، آموزش مهارت‌های عملی هوش مصنوعی مورد نیاز برای ورود به بازار کار و توانمندسازی نسل جوان است.",
+      "tags": [
+        "The King's Trust",
+        "OpenAI",
+        "آموزش هوش مصنوعی",
+        "مهارت‌های شغلی",
+        "UK"
+      ]
+    },
+    {
+      "id": "3899b6e8ee3cc1f1",
+      "date": "2026-11-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Holiday Extras: هوش مصنوعی پیش از درخواست، کارها را انجام می‌دهد",
+      "title_en": "At Holiday Extras, dots get to work before anyone asks",
+      "summary_fa": "در شرکت Holiday Extras، دستیاران هوشمند موسوم به «نقطه‌ها» (Dots) پیش از آنکه کسی از آن‌ها بخواهد، کارهای مهمی را انجام می‌دهند. آن‌ها به طور خودکار گزارش‌های راه‌اندازی را ارائه می‌کنند، مسائل پنهان را شناسایی و اطلاع‌رسانی می‌کنند و حتی در مسیر رفت‌وآمد، جزئیات جلسات آینده را مرور می‌کنند. این رویکرد به افزایش کارایی و بهره‌وری در این شرکت کمک شایانی کرده است.",
+      "tags": [
+        "هوش مصنوعی",
+        "اتوماسیون",
+        "Holiday Extras",
+        "بهره‌وری",
+        "دستیار هوشمند"
+      ]
+    },
+    {
+      "id": "87d7014c15ee68a3",
+      "date": "2026-11-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "نقش GPT-6 Astra در گامی مهم برای تعریف مدل استاندارد فیزیک در شبکه‌ی فضایی",
+      "title_en": "A step toward defining the Standard Model on a lattice",
+      "summary_fa": "پژوهشگران گامی مهم در جهت تعریف غیرپراکنشی (nonperturbative) مدل استاندارد فیزیک در یک ساختار شبکه‌ای برداشته‌اند. نکته‌ی قابل توجه این است که هوش مصنوعی GPT-6 Astra نقش کلیدی در تبدیل این ایده اولیه به یک اثبات دقیق و مفصل ایفا کرده است.",
+      "tags": [
+        "هوش مصنوعی",
+        "GPT-6 Astra",
+        "مدل استاندارد",
+        "فیزیک نظری",
+        "پژوهش علمی"
+      ]
+    },
+    {
+      "id": "a045ec708b22e25e",
+      "date": "2026-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "گسترش جهانی تبلیغات ChatGPT: ورود به ۴۴ کشور با حمایت انحصاری Aleph",
+      "title_en": "ChatGPT Ads increases its market presence in 44 countries",
+      "summary_fa": "شرکت Aleph به عنوان نماینده فروش انحصاری تبلیغات ChatGPT در ۴۴ کشور جهان انتخاب شده است. این همکاری با هدف ارائه خدمات محلی‌سازی شده از جمله فاکتورهای بومی، پشتیبانی حضوری و تخصص بازاریابی منطقه‌ای به برندها و آژانس‌های تبلیغاتی صورت می‌گیرد تا حضور ChatGPT Ads در این بازارها تقویت شود.",
+      "tags": [
+        "ChatGPT Ads",
+        "Aleph",
+        "بازار جهانی",
+        "تبلیغات",
+        "AI"
+      ]
+    },
+    {
+      "id": "041eb172e023ffb6",
+      "date": "2026-11-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/ads/customers/vistaprint",
+      "category": "کاربرد هوش مصنوعی در بازاریابی",
+      "title_fa": "VistaPrint با ChatGPT Ads: بازاریابی هوشمند برای کسب‌وکارهای کوچک",
+      "title_en": "How VistaPrint helps small businesses get the word out",
+      "summary_fa": "بسیاری از صاحبان کسب‌وکارهای کوچک پیش از برنامه‌ریزی برای یک رویداد یا راه‌اندازی محصول، هدف خود را می‌دانند اما لزوماً نمی‌دانند چه محصول چاپی برای آن مناسب است. VistaPrint برای حل این مشکل، از ابزار ChatGPT Ads بهره می‌برد. این شرکت از طریق هوش مصنوعی نشان می‌دهد که چگونه محصولاتی مانند تابلو و اقلام تبلیغاتی می‌توانند به کسب‌وکارها در اطلاع‌رسانی و بازاریابی کمک کنند.",
+      "tags": [
+        "VistaPrint",
+        "ChatGPT Ads",
+        "هوش مصنوعی",
+        "بازاریابی",
+        "کسب‌وکارهای کوچک"
+      ]
+    },
+    {
+      "id": "8d54d4add32f2fcc",
+      "date": "2026-11-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "category": "حریم خصوصی",
+      "title_fa": "محدودیت اسکرین‌شات در سیگنال برای مقابله با نظارت هوش مصنوعی",
+      "title_en": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary_fa": "اپلیکیشن پیام‌رسان سیگنال به تازگی قابلیت اسکرین‌شات گرفتن را برای کاربران خود در هر دو پلتفرم اندروید و iOS محدود کرده است. این اقدام در راستای مقابله با آنچه شرکت از آن به عنوان «تهدید وجودی» نظارت مبتنی بر هوش مصنوعی یاد می‌کند، صورت گرفته است. سیگنال بر این باور است که با این تدبیر می‌تواند حریم خصوصی کاربرانش را در برابر ابزارهای نظارتی نوین حفظ کند.",
+      "tags": [
+        "Signal",
+        "حریم خصوصی",
+        "نظارت هوش مصنوعی",
+        "Screenshot"
+      ]
+    },
+    {
+      "id": "127326b87b53e7a9",
+      "date": "2026-11-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "تصویری دوگانه از انویدیا: تراز مالی و فراخوان برای جنسن هوانگ",
+      "title_en": "A tale of two Nvidias",
+      "summary_fa": "گزارش مالی اخیر انویدیا تصویری متفاوت از وضعیت این شرکت ارائه داده است. در همین حال، برخی از مدیران ارشد فناوری به وضوح خواستار نقش‌آفرینی پررنگ‌تر جنسن هوانگ، مدیرعامل انویدیا، در رهبری شرکت شده‌اند که تضادی در برداشت‌ها از مسیر آینده‌ی آن ایجاد می‌کند.",
+      "tags": [
+        "NVIDIA",
+        "Jensen Huang",
+        "گزارش مالی",
+        "صنعت تکنولوژی",
+        "رهبری شرکت"
+      ]
+    },
+    {
+      "id": "01945f6a907c7618",
+      "date": "2026-11-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "category": "ابزارهای هوش مصنوعی",
+      "title_fa": "با برترین دستیاران هوش مصنوعی در پیامک‌های خود آشنا شوید",
+      "title_en": "Here are the top AI agents that can live in your text messages",
+      "summary_fa": "لیستی از برجسته‌ترین ایجنت‌های هوش مصنوعی که می‌توانند مستقیماً در پیام‌های متنی شما فعالیت کنند، تهیه شده است. این ایجنت‌ها شامل دستیاران عمومی گرفته تا هوش‌های مصنوعی تخصصی برای خانواده، سفر و کار می‌شوند و آماده تسهیل کارهای روزمره شما هستند.",
+      "tags": [
+        "AI agents",
+        "هوش مصنوعی مکالمه‌ای",
+        "دستیار هوشمند",
+        "پیامک"
+      ]
+    },
+    {
+      "id": "89298d3b7fb05770",
+      "date": "2026-11-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "category": "کاربرد هوش مصنوعی در رسانه و سرگرمی",
+      "title_fa": "چهره‌های هوش مصنوعی: آیا این آینده بازیگری در هالیوود است؟",
+      "title_en": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary_fa": "یک بازیگر هالیوودی چهره خود را به یک استارتاپ تولید میکرو-دراما واگذار کرده تا نسخه‌ای هوش مصنوعی از آن ساخته شود. این رویکرد که پیشتر در چین محبوبیت یافته، اکنون به هالیوود نیز راه یافته و سوالاتی جدی درباره آینده صنعت بازیگری مطرح کرده است. کارشناسان نسبت به پیامدهای بلندمدت و تبعات احتمالی این پدیده در صورت فراگیر شدن، هشدار می‌دهند.",
+      "tags": [
+        "AI",
+        "Hollywood",
+        "بازیگران",
+        "Microdrama",
+        "چهره دیجیتال"
+      ]
+    },
+    {
+      "id": "079373956374b3c3",
+      "date": "2026-11-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "مرکز داده‌های فضایی: تراشه‌ها دوام می‌آورند، اما تامین مالی‌شان چطور؟",
+      "title_en": "Chips can survive the space environment — can their financing?",
+      "summary_fa": "اگرچه سخت‌افزارهای کامپیوتری می‌توانند در محیط خشن فضا دوام بیاورند، اما تامین مالی برای پروژه‌های مراکز داده فضایی با موانع جدی روبه‌روست. وام‌دهندگان نگرانند که وثیقه‌های آنها توسط شرکت‌هایی نظیر اسپیس‌ایکس به مدار پرتاب شود و از دسترس خارج گردد. این موضوع، ابهامات زیادی را در مورد امکان‌پذیری و گسترش پروژه‌های بلندپروازانه مراکز داده فضایی ایجاد کرده است.",
+      "tags": [
+        "مراکز داده فضایی",
+        "تامین مالی",
+        "صنعت فضایی",
+        "SpaceX",
+        "Chips"
+      ]
+    },
+    {
+      "id": "92c1cc867c014247",
+      "date": "2026-11-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "پیامدهای رسوایی مدیرعامل Nvidia: از رشد مالی تا توقف فروش H200 در چین",
+      "title_en": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summary_fa": "شرکت Nvidia در حالی که با پیامدهای برکناری مدیرعامل خود، جن‌سن هوانگ، دست و پنجه نرم می‌کند، گزارش مالی اخیر خود را منتشر کرد. این گزارش از رشد قابل توجه و چشم‌انداز مثبت برای آینده خبر می‌دهد. با این حال، غول تراشه‌سازی اعلام کرده که فروش تراشه‌های H200 خود را در چین متوقف خواهد کرد و درخواست‌های دیگر را نیز رد کرده است.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "H200",
+        "چین",
+        "گزارش مالی"
       ]
     }
   ]
