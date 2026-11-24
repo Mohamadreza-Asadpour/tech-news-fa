@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-23",
+    "last_updated": "2026-11-24",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1889
+    "total_articles": 1904
   },
   "articles": [
     {
@@ -32028,6 +32028,261 @@
         "هوش مصنوعی",
         "صنعت داروسازی",
         "کاربرد هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "1d0c151fefed0dea",
+      "date": "2026-11-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-shirudo",
+      "category": "امنیت سایبری",
+      "title_fa": "شیرودو: راهکار متن‌باز OpenAI و سیسکو برای امنیت ران‌تایم لینوکس",
+      "title_en": "OpenAI and Cisco introduce Shirudo",
+      "summary_fa": "OpenAI و سیسکو با همکاری یکدیگر، پروژه متن‌باز جدیدی به نام Shirudo را معرفی کرده‌اند. این ابزار، یک ران‌تایم متن‌باز برای سیستم‌عامل لینوکس است که به تیم‌ها کمک می‌کند تا در حین اعمال وصله‌های امنیتی، از سیستم‌های در حال کار خود محافظت کنند. هدف Shirudo افزایش امنیت عملیاتی و کاهش آسیب‌پذیری‌ها در زمان به‌روزرسانی سیستم‌ها است.",
+      "tags": [
+        "OpenAI",
+        "Cisco",
+        "Shirudo",
+        "Linux",
+        "امنیت سایبری"
+      ]
+    },
+    {
+      "id": "f8a4e02f42124693",
+      "date": "2026-11-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی در بخش حقوقی شرکت‌ها: بهره‌وری و اتصال هوشمند",
+      "title_en": "Connected intelligence for in-house legal",
+      "summary_fa": "در نشستی تخصصی، استیسی ونگ و کریگ برونی از OpenAI، به همراه مری اوکارول از LECG و ریچارد سیگال از Cooley، چگونگی کاربرد هوش مصنوعی را در تیم‌های حقوقی داخلی شرکت‌ها بررسی کردند. آن‌ها توضیح دادند که چگونه هوش مصنوعی می‌تواند به این تیم‌ها کمک کند تا اطلاعات تجاری را به‌طور هوشمند متصل کرده، گردش کارهای قابل استفاده مجدد بسازند و بهره‌وری بیشتری از مشاوران حقوقی خارجی ببرند. هدف این رویکرد، افزایش کارایی و ادغام هوشمند اطلاعات در فرایندهای حقوقی درون‌سازمانی است.",
+      "tags": [
+        "OpenAI",
+        "Legal Tech",
+        "هوش مصنوعی",
+        "تیم حقوقی داخلی",
+        "اتوماسیون حقوقی"
+      ]
+    },
+    {
+      "id": "680b35173b971311",
+      "date": "2026-11-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Richpanel: خودکارسازی نیمی از پشتیبانی مشتریان در ۳۰ روز با تکیه بر هوش مصنوعی",
+      "title_en": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary_fa": "شرکت Richpanel از مدل‌های پیشرفته هوش مصنوعی برای تجهیز عوامل پشتیبانی خودکار خود بهره می‌برد. این پلتفرم با استفاده از GPT-6 Astra و GPT-6.1 Sol ابزارها و رویه‌ها را فراهم کرده و از GPT-6 Luna برای مدیریت مکالمات استفاده می‌کند. هدف Richpanel این است که در مدت ۳۰ روز، ۵۰ درصد از فرآیندهای پشتیبانی مشتریان را به صورت خودکار انجام دهد.",
+      "tags": [
+        "Richpanel",
+        "GPT-6",
+        "AI",
+        "پشتیبانی مشتری",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "7b431c4620f17592",
+      "date": "2025-08-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/gpt-5-our-best-model-for-work",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5: پرچمدار Open AI برای افزایش بهره‌وری در کسب‌وکار",
+      "title_en": "GPT-5: Our best model for work",
+      "summary_fa": "دموی اخیر از مدل GPT-5 نشان می‌دهد که این مدل چگونه می‌تواند به طور چشمگیری بهره‌وری در محیط کار را افزایش دهد. این مدل قابلیت‌هایی مانند تحلیل جامع بازخوردهای کاربران، ایجاد طرح‌های عملیاتی برای محصولات، ساخت نمونه‌های اولیه و خلاصه‌سازی مراحل بعدی کار را به نمایش می‌گذارد.",
+      "tags": [
+        "GPT-5",
+        "OpenAI",
+        "هوش مصنوعی",
+        "بهره‌وری",
+        "محیط کار"
+      ]
+    },
+    {
+      "id": "62a1b8ad0947fbe4",
+      "date": "2025-08-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ChatGPT در دسترس دولت آمریکا: دسترسی گسترده و تقریباً رایگان برای کارکنان فدرال",
+      "title_en": "Providing ChatGPT to the Entire U.S. Federal Workforce",
+      "summary_fa": "OpenAI با همکاری اداره خدمات عمومی آمریکا (GSA)، طرحی را آغاز کرده که طی آن، ChatGPT Enterprise به مدت یک سال در اختیار تمامی کارکنان قوه‌ی مجریه‌ی دولت فدرال آمریکا قرار می‌گیرد. این دسترسی به هوش مصنوعی پیشرفته تقریباً بدون هزینه برای کارکنان فراهم خواهد شد.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT Enterprise",
+        "GSA",
+        "دولت فدرال آمریکا",
+        "پذیرش هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "94c0ed69a0be1472",
+      "date": "2025-08-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+      "category": "کاربردها و توانمندی‌های هوش مصنوعی",
+      "title_fa": "عامل هوش مصنوعی ChatGPT: کارها را به آن بسپارید تا در عرض چند دقیقه انجام دهد!",
+      "title_en": "Delegate work to ChatGPT agent",
+      "summary_fa": "یک دموی جدید از عامل هوش مصنوعی ChatGPT منتشر شده که قابلیت‌های چشمگیر آن را به نمایش می‌گذارد. این فناوری می‌تواند به طور خودکار کارهایی نظیر تحقیق، کدنویسی و انجام اقدامات آنلاین را بر عهده بگیرد. به این ترتیب، امکان تکمیل یک برنامه‌ی کسب‌وکار کامل در عرض چند دقیقه فراهم می‌شود و بهره‌وری به شکل چشمگیری افزایش می‌یابد.",
+      "tags": [
+        "ChatGPT",
+        "AI agent",
+        "اتوماسیون",
+        "مدیریت وظایف",
+        "بهره‌وری"
+      ]
+    },
+    {
+      "id": "27065c561fbc5a7f",
+      "date": "2026-11-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "category": "کاربرد هوش مصنوعی در توسعه نرم‌افزار",
+      "title_fa": "آنتروپیک با «کلود شیپ» فرآیند بررسی و تأیید کد را به هوش مصنوعی می‌سپارد",
+      "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "summary_fa": "با افزایش چشمگیر کدهای تولید شده توسط هوش مصنوعی، شرکت آنتروپیک ابزار جدید توسعه‌دهنده خود را با نام «کلود شیپ» (Claude Ship) معرفی کرده است. این ابزار به عامل‌های هوش مصنوعی اجازه می‌دهد تا فرآیندهای معمول بررسی، رفع اشکال و تأیید تغییرات کد را به‌طور خودکار انجام دهند. هدف این اقدام، حذف یکی از موانع اصلی در چرخه توسعه نرم‌افزار و سرعت بخشیدن به آن است.",
+      "tags": [
+        "Anthropic",
+        "Claude Ship",
+        "AI Agents",
+        "Code Review",
+        "توسعه نرم‌افزار"
+      ]
+    },
+    {
+      "id": "0d63fb1e6c01db65",
+      "date": "2026-11-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "category": "فناوری مالی و هوش مصنوعی",
+      "title_fa": "Supertake ۲۰ میلیون دلار جذب کرد: هوش مصنوعی پیش‌بینی‌های بازار را به سبد سهام تبدیل می‌کند",
+      "title_en": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "summary_fa": "استارتاپ Supertake موفق به جذب ۲۰ میلیون دلار سرمایه شده است. این شرکت به کاربران این امکان را می‌دهد که با استفاده از عامل‌های هوش مصنوعی (AI agents)، پیش‌بینی‌های خود را از روند بازار سرمایه به سبد سهام واقعی تبدیل کنند. هدف Supertake این است که سرمایه‌گذاران بتوانند بدون نیاز به انتخاب مستقیم سهام، پول خود را بر اساس ایده‌هایشان در بازار به کار گیرند.",
+      "tags": [
+        "Supertake",
+        "AI agents",
+        "Fintech",
+        "سرمایه‌گذاری",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "ada2460a24f685eb",
+      "date": "2026-11-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "جنسن هوانگ در انویدیا ابقا شد؛ ایلان ماسک: اشتباه تصحیح شد",
+      "title_en": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "summary_fa": "جنسن هوانگ، مدیرعامل برجسته انویدیا، پس از یک دوره غیبت بحث‌برانگیز که با شایعاتی درباره یک رسوایی همراه بود، بار دیگر به جایگاه خود در این شرکت بازگشت. این خبر با واکنش‌های مثبتی از سوی چهره‌های سرشناس حوزه تکنولوژی از جمله ایلان ماسک روبه‌رو شد. ماسک با بیان اینکه «اشتباه تصحیح شده است»، از این ابقا استقبال کرد که نشان‌دهنده رضایت او و بسیاری از فعالان صنعت از بازگشت هوانگ است.",
+      "tags": [
+        "Jensen Huang",
+        "NVIDIA",
+        "Elon Musk",
+        "صنعت هوش مصنوعی",
+        "رهبری"
+      ]
+    },
+    {
+      "id": "9d1f6a725104cec1",
+      "date": "2026-11-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "شرکت Megaspeed، کانون رسوایی جنسن هوانگ، در شرف تحریم آمریکا",
+      "title_en": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "summary_fa": "شرکت Megaspeed، که پیش‌تر تحت مدیریت آلیس هوانگ قرار داشت، در آستانه قرار گرفتن در لیست سیاه ایالات متحده است. این اقدام باعث خواهد شد که Megaspeed از انجام هرگونه فعالیت تجاری با شرکت‌های آمریکایی منع شود، مگر اینکه آن شرکت‌ها بتوانند مجوز ویژه‌ای از دولت فدرال دریافت کنند.",
+      "tags": [
+        "Megaspeed",
+        "Jensen Huang",
+        "Alice Huang",
+        "US blacklist",
+        "تحریم"
+      ]
+    },
+    {
+      "id": "2475b067992dd4ab",
+      "date": "2026-11-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "بازگشت قهرمانانه جنسن هوانگ به مقر انویدیا: «این بار مدیرعامل بهتری خواهم بود»",
+      "title_en": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "summary_fa": "جنسن هوانگ، مدیرعامل و بنیان‌گذار Nvidia، پس از بازگشت به مقر اصلی شرکت، با استقبال پرشور و قهرمانانه کارکنان مواجه شد. او در جمع کارمندان خود وعده داد که در این «دور دوم» مدیریت خود، مدیرعامل بهتری برای شرکت خواهد بود و به پیشرفت‌ها ادامه خواهد داد.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "CEO",
+        "هوش مصنوعی",
+        "رهبری"
+      ]
+    },
+    {
+      "id": "7601f68fa236425c",
+      "date": "2026-11-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی جستجوی گوگل به درایو و کیف پول متصل شد: ارائه‌ی پاسخ‌های شخصی‌تر",
+      "title_en": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "summary_fa": "گوگل قابلیت هوش مصنوعی (AI Mode) خود را در جستجو و اپلیکیشن Gemini گسترش داده است تا بتواند به اطلاعات کاربران در سرویس‌های Drive و Wallet دسترسی پیدا کند. این اقدام با هدف ارائه‌ی پاسخ‌های شخصی‌سازی‌شده‌تر و دقیق‌تر به کاربران، با بهره‌گیری از حجم وسیع داده‌های موجود در اکوسیستم خود گوگل صورت گرفته است.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "AI Mode",
+        "Drive",
+        "شخصی‌سازی"
+      ]
+    },
+    {
+      "id": "9f04eb00d9b24339",
+      "date": "2026-11-24",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "category": "زیرساخت هوش مصنوعی",
+      "title_fa": "چالش برق‌رسانی و راهکار جدید دیتاسنترها: ساخت نیروگاه‌های گاز طبیعی اختصاصی",
+      "title_en": "Data centers are getting their own natural gas power plants",
+      "summary_fa": "یکی از بزرگترین موانع در راه‌اندازی مراکز داده، کسب مجوز اتصال به شبکه برق است که گاهی تا یک دهه زمان می‌برد. به همین دلیل، برخی توسعه‌دهندگان برای دوری از این انتظار طولانی، تصمیم به ساخت نیروگاه‌های برق گاز طبیعی اختصاصی و مستقل از شبکه گرفته‌اند. این اقدام به منظور تأمین انرژی لازم برای رشد روزافزون هوش مصنوعی و دیتاسنترهای مرتبط با آن صورت می‌گیرد.",
+      "tags": [
+        "دیتاسنتر",
+        "نیروگاه گاز طبیعی",
+        "تأمین انرژی",
+        "AI boom",
+        "xAI"
+      ]
+    },
+    {
+      "id": "9c079ad7f691dfe4",
+      "date": "2026-11-23",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "گزارش METR: پیشرفت‌های جهشی هوش مصنوعی و چالش قضاوت مدل‌ها",
+      "title_en": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "summary_fa": "سازمان غیرانتفاعی METR در گزارشی جدید، نمودار 'سوءبرداشت‌شده' در هوش مصنوعی را به‌روزرسانی کرده است. این گزارش نشان می‌دهد که اگرچه برخی قابلیت‌های هوش مصنوعی به صورت تصاعدی در حال بهبود هستند، اما مدل‌های کنونی در قضاوت کلی به خوبی تصور عمومی نیستند و با چالش‌هایی روبرو هستند.",
+      "tags": [
+        "METR",
+        "AI evaluation",
+        "AI models",
+        "هوش مصنوعی",
+        "قابلیت‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "dc02d0ba7ca73718",
+      "date": "2026-11-23",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "category": "فناوری‌های پایداری و محیط زیست",
+      "title_fa": "حذف کربن با سنگ‌ها: راهکاری گران و پرریسک برای کشاورزی؟",
+      "title_en": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "summary_fa": "شرکت‌های بزرگ تکنولوژی مانند گوگل و مایکروسافت، صدها میلیون دلار در استارتاپ‌هایی سرمایه‌گذاری کرده‌اند که با استفاده از سنگ‌های خردشده برای حذف کربن از اتمسفر تلاش می‌کنند. این روش شامل پخش کردن مواد قلیایی مانند بازالت و الیوین بر روی مزارع است تا کربن را جذب و ذخیره کند. با این حال، نگرانی‌هایی جدی وجود دارد که این رویکرد نوآورانه، در بلندمدت ممکن است به کاهش رشد محصولات کشاورزی منجر شود و تأثیر منفی بر تولید غذا بگذارد.",
+      "tags": [
+        "Carbon removal",
+        "Climatetech",
+        "Google",
+        "Microsoft",
+        "کشاورزی"
       ]
     }
   ]
