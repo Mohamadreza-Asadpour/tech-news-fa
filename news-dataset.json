@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-24",
+    "last_updated": "2026-11-25",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1904
+    "total_articles": 1913
   },
   "articles": [
     {
@@ -32283,6 +32283,159 @@
         "Google",
         "Microsoft",
         "کشاورزی"
+      ]
+    },
+    {
+      "id": "f3aa9260f1094b37",
+      "date": "2026-11-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "Astra در خدمت شکار سیارات فراخورشیدی: موفقیت ستاره‌شناسان آماتور با هوش مصنوعی",
+      "title_en": "Searching for distant planets with Astra",
+      "summary_fa": "دو ستاره‌شناس آماتور با بهره‌گیری از ابزارهای هوش مصنوعی Codex و Astra، موفق به کشف سیارات فراخورشیدی بالقوه جدیدی شدند. این یافته‌ها از طریق تحلیل داده‌های عمومی جمع‌آوری‌شده توسط تلسکوپ‌های فضایی کپلر و تس ناسا به دست آمده است.",
+      "tags": [
+        "Astra",
+        "Codex",
+        "exoplanets",
+        "هوش مصنوعی",
+        "ستاره‌شناسی"
+      ]
+    },
+    {
+      "id": "ec442b764e041cd2",
+      "date": "2026-11-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/intentful-dots",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "آریا؛ دستیار هوشمند Intentful که زمان را برای رشد کسب‌وکار آزاد می‌کند",
+      "title_en": "How Intentful uses dots to make more time for growth",
+      "summary_fa": "«آریا» (Aria)، دستیار هوشمند توسعه‌یافته توسط مارینا پتروا در Intentful، وظایف تحقیقاتی وب‌سایت‌ها و آماده‌سازی پیشنهادها را تسهیل می‌کند. این ابزار کارآمد، پیام‌ها را به صورت فعال علامت‌گذاری کرده و به حل مسائل کمک می‌کند. هدف اصلی «آریا» خودکارسازی کارهای روتین است تا افراد و کسب‌وکارها زمان بیشتری برای تمرکز بر رشد و نوآوری داشته باشند.",
+      "tags": [
+        "Aria",
+        "Intentful",
+        "دستیار هوش مصنوعی",
+        "اتوماسیون",
+        "بهره‌وری کسب‌وکار"
+      ]
+    },
+    {
+      "id": "7a6462e387eb267a",
+      "date": "2026-11-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/ifood",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "تحول توسعه نرم‌افزار در iFood: مقیاس‌گذاری عامل‌های هوش مصنوعی در ۱۵,۰۰۰ مخزن کد",
+      "title_en": "How iFood scales coding agents across 15,000 repositories",
+      "summary_fa": "شرکت iFood، پلتفرم بزرگ تحویل غذا، گامی مهم در تحول توسعه نرم‌افزار برداشته است. این شرکت با موفقیت توانسته است عامل‌های کدنویسی مبتنی بر هوش مصنوعی را در مقیاسی بی‌سابقه در بیش از ۱۵,۰۰۰ مخزن کد پیاده‌سازی و مدیریت کند. این استراتژی پیشگامانه نشان‌دهنده چگونگی به‌کارگیری هوش مصنوعی برای اتوماسیون و بهبود فرآیندهای مهندسی در یک سازمان با زیرساخت‌های فناوری پیچیده است.",
+      "tags": [
+        "iFood",
+        "هوش مصنوعی",
+        "توسعه نرم‌افزار",
+        "اتوماسیون",
+        "Coding Agents"
+      ]
+    },
+    {
+      "id": "99b93f3e10984935",
+      "date": "2026-11-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Clay: هوش مصنوعی Codex و ChatGPT، برگ برنده تیم‌های فروش",
+      "title_en": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary_fa": "پلتفرم Clay با ادغام هوش مصنوعی ChatGPT و Codex به تیم‌های فروش کمک می‌کند تا در معاملات خود موفق‌تر عمل کنند. این ابزار به کاربران امکان می‌دهد تا معاملات را عمیق‌تر بررسی کرده و داده‌ها را به استراتژی‌های مؤثر ورود به بازار تبدیل کنند. مدل‌های پیشرفته GPT-6 نیز مسئولیت استدلال و تحلیل پیچیده را بر عهده دارند تا بهترین نتیجه حاصل شود.",
+      "tags": [
+        "Clay",
+        "ChatGPT",
+        "Codex",
+        "GPT-6",
+        "فروش"
+      ]
+    },
+    {
+      "id": "05f887d0221c3adc",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هشدار استاد ییل: انویدیا تهدیدی برای قدرت صنعتی آمریکا، نه قهرمان آن",
+      "title_en": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "summary_fa": "جفری زوننفلد، استاد دانشگاه ییل، با ابراز نگرانی شدید نسبت به بازگشت جنسن هوانگ به عنوان مدیرعامل انویدیا، این اقدام را یک اشتباه بزرگ می‌داند. به گفته او، انویدیا با عرضه تراشه‌های پیشرفته به دست رقبا و دشمنان آمریکا، نه تنها به قدرت صنعتی این کشور کمکی نمی‌کند، بلکه به آن آسیب می‌رساند. زوننفلد هشدار می‌دهد که این رویکرد می‌تواند هیئت مدیره شرکت را در معرض مسئولیت‌های حقوقی سنگین قرار دهد.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Yale",
+        "تراشه",
+        "امنیت ملی آمریکا"
+      ]
+    },
+    {
+      "id": "6e5f032fb046721a",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "هوش مصنوعی در مواجهه با زندگی روزمره: حتی بهترین‌ها هم دچار مشکلند",
+      "title_en": "Even the best AI agents struggle with everyday life",
+      "summary_fa": "با وجود استقبال میلیون‌ها نفر از دستیارهای هوش مصنوعی شخصی، یک معیار جدید نشان می‌دهد که حتی پیشرفته‌ترین مدل‌های هوش مصنوعی نیز در انجام کارهای روزمره به صورت قابل اعتماد و ایمن مشکل دارند. این چالش‌ها حتی می‌توانند به ایجاد مسائل جدیدی منجر شوند و توانمندی عملی هوش مصنوعی را زیر سوال ببرند.",
+      "tags": [
+        "هوش مصنوعی",
+        "AI Agents",
+        "عملکرد هوش مصنوعی",
+        "دستیار هوش مصنوعی",
+        "Benchmark"
+      ]
+    },
+    {
+      "id": "42cb577d7e7884cb",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "category": "کاربرد هوش مصنوعی در تجارت الکترونیک",
+      "title_fa": "خرید Black Friday با هوش مصنوعی: همکاری Walmart و Meta",
+      "title_en": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "summary_fa": "والمارت (Walmart) با همکاری متا (Meta)، خرید تخفیف‌های جمعه سیاه (Black Friday) را از طریق نماینده هوش مصنوعی «میوز» (Muse) برای مشتریانش فراهم کرده است. این اقدام به کاربران امکان می‌دهد تا از طریق هوش مصنوعی متا، به پیشنهادهای ویژه و تخفیف‌های بلک فرایدی دسترسی پیدا کرده و خرید کنند.",
+      "tags": [
+        "Walmart",
+        "Meta",
+        "Muse",
+        "Black Friday",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "5ece1567bcedca9d",
+      "date": "2026-11-24",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "انفجار مصرف انرژی هوش مصنوعی: مراکز داده به نیروگاه‌های گازی روی می‌آورند",
+      "title_en": "The Download: AI’s gas power boom and a consciousness reality check",
+      "summary_fa": "مراکز داده، به‌ویژه آن‌هایی که میزبان سیستم‌های هوش مصنوعی هستند، به دلیل نیاز روزافزون به انرژی، با چالش تامین برق مواجه‌اند. در پاسخ به این مشکل و دشواری اتصال به شبکه برق سراسری، بسیاری از این مراکز در حال ساخت نیروگاه‌های گازی اختصاصی برای خود هستند.",
+      "tags": [
+        "AI",
+        "Data centers",
+        "Natural gas",
+        "مصرف انرژی هوش مصنوعی",
+        "زیرساخت"
+      ]
+    },
+    {
+      "id": "02839082ff9ffa67",
+      "date": "2026-11-23",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "تردید فیلسوف برجسته در مورد «آگاهی هوش مصنوعی» از نگاه Anthropic",
+      "title_en": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary_fa": "شرکت هوش مصنوعی Anthropic پیش از عرضه عمومی سهام خود، احتمال آگاهی یا هوشمندی هوش مصنوعی را به عنوان یک عامل خطر برای سرمایه‌گذاران معرفی کرد. اما، یک فیلسوف نامدار به شدت با استدلال Anthropic در این زمینه مخالفت کرده و این ادعا را نپذیرفته است. این خبر به بررسی این اختلاف نظر و ابعاد فلسفی موضوع هوشمندی ماشین‌ها می‌پردازد.",
+      "tags": [
+        "Anthropic",
+        "آگاهی هوش مصنوعی",
+        "فلسفه هوش مصنوعی",
+        "ریسک هوش مصنوعی",
+        "هوشمندی مصنوعی"
       ]
     }
   ]
