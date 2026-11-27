@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-26",
+    "last_updated": "2026-11-27",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1929
+    "total_articles": 1943
   },
   "articles": [
     {
@@ -32707,6 +32707,244 @@
         "United States",
         "شفافیت اطلاعاتی",
         "خدمات دولتی"
+      ]
+    },
+    {
+      "id": "5150e505fc82fe33",
+      "date": "2025-08-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/figma-david-kossnick",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "فیگما با هوش مصنوعی، طراحی دیجیتال را دگرگون می‌کند",
+      "title_en": "Figma uses AI to transform digital design",
+      "summary_fa": "شرکت Figma با بهره‌گیری از هوش مصنوعی، در حال ایجاد تحولی بنیادین در حوزه طراحی دیجیتال است. به گفته دیوید کاسنیک، ابزارهایی مانند Figma Make به تیم‌ها امکان می‌دهند تا با کمک هوش مصنوعی، نمونه‌سازی، همکاری و ساخت را انجام دهند. این رویکرد جدید، فرایندهای کاری طراحان، توسعه‌دهندگان و حتی افراد غیرفنی را به کلی متحول می‌کند.",
+      "tags": [
+        "Figma",
+        "AI",
+        "طراحی دیجیتال",
+        "Figma Make",
+        "ابزارهای هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "7de88997de0e1c4c",
+      "date": "2025-07-31",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-stargate-norway",
+      "category": "زیرساخت هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی با «استارگیت نروژ» وارد اروپا شد: اولین مرکز داده هوش مصنوعی در قاره سبز",
+      "title_en": "Introducing Stargate Norway",
+      "summary_fa": "اوپن‌ای‌آی از راه‌اندازی «استارگیت نروژ»، اولین ابتکار مرکز داده هوش مصنوعی خود در اروپا تحت برنامه «OpenAI for Countries»، خبر داد. «استارگیت» به عنوان بستر زیرساختی کلی اوپن‌ای‌آی شناخته می‌شود و بخش حیاتی چشم‌انداز بلندمدت شرکت برای ارائه مزایای هوش مصنوعی به همگان محسوب می‌گردد. این گام، حضور فیزیکی اوپن‌ای‌آی در قاره اروپا را تقویت می‌کند.",
+      "tags": [
+        "OpenAI",
+        "Stargate Norway",
+        "AI Infrastructure",
+        "Europe",
+        "Norway"
+      ]
+    },
+    {
+      "id": "37d83405ef1db654",
+      "date": "2025-07-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/intercom",
+      "category": "استراتژی و پیاده‌سازی هوش مصنوعی",
+      "title_fa": "برتری پایدار با هوش مصنوعی: سه درس عملی از Intercom",
+      "title_en": "Three lessons for creating a sustainable AI advantage",
+      "summary_fa": "شرکت Intercom با تمرکز بر سه درس کلیدی، از جمله ارزیابی دقیق مدل‌ها و طراحی معماری منعطف، موفق به ساخت یک پلتفرم هوش مصنوعی مقیاس‌پذیر شده است. این رویکرد به آنها امکان می‌دهد تا در آینده پشتیبانی مشتری پیشرو باشند و مزیت رقابتی پایداری در حوزه هوش مصنوعی برای خود ایجاد کنند.",
+      "tags": [
+        "Intercom",
+        "هوش مصنوعی",
+        "پلتفرم هوش مصنوعی",
+        "استراتژی هوش مصنوعی",
+        "پشتیبانی مشتری"
+      ]
+    },
+    {
+      "id": "133ed4f2ba22968e",
+      "date": "2025-07-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-study-mode",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "ChatGPT با «حالت مطالعه»، یادگیری گام‌به‌گام را متحول می‌کند",
+      "title_en": "Introducing study mode in ChatGPT",
+      "summary_fa": "ChatGPT از قابلیت جدید «حالت مطالعه» رونمایی کرده است که تجربه‌ای نوین در یادگیری ارائه می‌دهد. این ویژگی به کاربران کمک می‌کند تا مسائل را مرحله به مرحله حل کنند و با ارائه پرسش‌های هدایت‌گر، پشتیبانی ساختارمند (scaffolding) و بازخوردهای مداوم، دانش‌آموزان را راهنمایی می‌کند. هدف اصلی «حالت مطالعه»، دستیابی به درک عمیق‌تر و یادگیری مؤثرتر از طریق تعامل هدفمند با هوش مصنوعی است.",
+      "tags": [
+        "ChatGPT",
+        "study mode",
+        "آموزش",
+        "یادگیری",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "b8bbbc5ed338cec7",
+      "date": "2025-07-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/outtake",
+      "category": "امنیت سایبری",
+      "title_fa": "OpenAI: ۱۰۰ برابر سرعت بیشتر در دفع تهدیدات دیجیتال",
+      "title_en": "Resolving digital threats 100x faster with OpenAI",
+      "summary_fa": "شرکت Outtake با استفاده از مدل‌های GPT-4.1 و OpenAI o3، عامل‌های هوش مصنوعی (AI agents) توسعه داده است. این عامل‌ها قادرند تهدیدات دیجیتال را با سرعتی ۱۰۰ برابر بیشتر از قبل شناسایی و برطرف کنند. این پیشرفت چشمگیر، رویکرد مقابله با خطرات سایبری را متحول می‌سازد.",
+      "tags": [
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "OpenAI",
+        "AI Agents",
+        "GPT-4.1"
+      ]
+    },
+    {
+      "id": "420cfdad49cb7a00",
+      "date": "2025-07-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/announcing-devday-2025",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی تاریخ برگزاری سومین کنفرانس DevDay خود را اعلام کرد",
+      "title_en": "Announcing OpenAI DevDay 2025",
+      "summary_fa": "شرکت اوپن‌ای‌آی تاریخ برگزاری سومین کنفرانس سالانه توسعه‌دهندگان خود با نام DevDay 2025 را مشخص کرد. این رویداد مهم در تاریخ ۶ اکتبر ۲۰۲۵ (۱۴ مهر ۱۴۰۴ شمسی) در شهر سان‌فرانسیسکو و در محل فورت میسون برگزار خواهد شد. DevDay بستری برای معرفی جدیدترین ابزارها و مدل‌های هوش مصنوعی توسط اوپن‌ای‌آی به جامعه توسعه‌دهندگان است.",
+      "tags": [
+        "OpenAI",
+        "DevDay",
+        "هوش مصنوعی",
+        "کنفرانس توسعه‌دهندگان",
+        "سان‌فرانسیسکو"
+      ]
+    },
+    {
+      "id": "94305b427e5aac0a",
+      "date": "2026-11-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "توقف ارسال تراشه‌های هوش مصنوعی انویدیا به آسیای جنوب شرقی؛ فشار آمریکا بر زنجیره تامین",
+      "title_en": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary_fa": "انویدیا به شرکای تولیدی خود دستور داده است تا ارسال سرورهای حاوی تراشه‌های پیشرفته هوش مصنوعی به چهار کشور مالزی، سنگاپور، تایلند و اندونزی را به حالت تعلیق درآورند. این تصمیم در راستای تشدید فشار ایالات متحده برای جلوگیری از دسترسی چین به تراشه‌های هوش مصنوعی صورت گرفته است.",
+      "tags": [
+        "Nvidia",
+        "AI chips",
+        "Export controls",
+        "China",
+        "Southeast Asia"
+      ]
+    },
+    {
+      "id": "e5c5d8632474a2a0",
+      "date": "2026-11-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "جی‌تی‌ای ۶ درسی برای عصر هوش مصنوعی: کارایی به تنهایی کافی نیست",
+      "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary_fa": "در روزی که شرکت هوش مصنوعی Anthropic وارد بازار سهام شد، بازی ویدئویی Grand Theft Auto VI که با تلاشی انسانی و بی‌وقفه ساخته شده، یکی از موفق‌ترین عرضه‌های تاریخ سرگرمی را تجربه کرد. این تضاد، سوالی مهم را مطرح می‌کند که آیا تمرکز بر کارایی محض، آن هم در عصر هوش مصنوعی، همیشه بهترین مسیر است یا ارزش خلاقیت و ظرافت انسانی همچنان جایگاه ویژه‌ای دارد؟ موفقیت بی‌نظیر این بازی یادآور آن است که برخی از بزرگترین دستاوردها لزوماً نتیجه سریع‌ترین یا کارآمدترین فرآیندها نیستند.",
+      "tags": [
+        "GTA VI",
+        "Anthropic",
+        "هوش مصنوعی",
+        "بازی ویدئویی",
+        "خلاقیت"
+      ]
+    },
+    {
+      "id": "b47f021e12d7c019",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مراکز داده هوش مصنوعی: موانع ساخت‌وساز و فشار بر کلاودهای نوپا",
+      "title_en": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary_fa": "انویدیا اعلام کرده است که تا زمانی که یک مرکز داده هوش مصنوعی تقریباً آماده بهره‌برداری نباشد، از آن پشتیبانی مالی نخواهد کرد. این سیاست جدید در حالی اعمال می‌شود که ارائه‌دهندگان خدمات ابری نوپا (neoclouds) با تأخیر در ساخت‌وساز و افزایش هزینه‌های بدهی خود مواجه هستند. پیام اصلی این است که در حال حاضر، وجود زمین، برق و یک ساختمان تکمیل‌شده، بیش از یک طرح توجیهی برای جذب سرمایه اهمیت دارد.",
+      "tags": [
+        "Nvidia",
+        "AI data centers",
+        "Cloud Infrastructure",
+        "سرمایه‌گذاری تکنولوژی",
+        "Neoclouds"
+      ]
+    },
+    {
+      "id": "61cb6e1f95ec64ca",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مذاکرات آمازون و متا برای رفع انسداد عامل هوش مصنوعی Muse",
+      "title_en": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summary_fa": "شرکت‌های آمازون و متا در حال مذاکره برای دستیابی به توافقی هستند که به انسداد دو ماهه عامل هوش مصنوعی Muse پایان خواهد داد. این توافق می‌تواند راه را برای دسترسی یا فعالیت مجدد این عامل هوش مصنوعی هموار کند و نشان‌دهنده تلاش برای حل یک چالش بزرگ در زمینه هوش مصنوعی میان دو غول فناوری است.",
+      "tags": [
+        "Amazon",
+        "Meta",
+        "Muse",
+        "AI",
+        "مذاکرات"
+      ]
+    },
+    {
+      "id": "958b4d502f59f32f",
+      "date": "2026-11-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "انویدیا و جنسن هوانگ زیر ذره‌بین: ابهامات درباره سرنوشت تراشه‌ها و ارتباط با مگاسپید",
+      "title_en": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "summary_fa": "تحقیقات گسترده‌ای در خصوص شرکت انویدیا و مدیرعامل آن، جنسن هوانگ، آغاز شده است. تمرکز اصلی این بررسی‌ها بر این سوال است که انویدیا تا چه حد از مقصد نهایی تراشه‌های تولیدی خود که توسط شرکت مگاسپید توزیع شده‌اند، آگاه بوده است. علاوه بر این، ارتباط شخصی جنسن هوانگ با یکی از مدیران اجرایی مگاسپید، این سوال را مطرح کرده که آیا این رابطه دلیلی برای بی‌اعتمادی انویدیا به تضمین‌های مگاسپید بوده است یا خیر.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Megaspeed",
+        "تراشه",
+        "تحقیقات"
+      ]
+    },
+    {
+      "id": "7a5947019eec714b",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "category": "مدیریت و رهبری شرکت‌های تکنولوژی",
+      "title_fa": "مخالفت پابرجا جنسن هوانگ با برنامه جانشینی؛ موضعی تأمل‌برانگیز پس از چالش‌های اخیر ان‌ویدیا",
+      "title_en": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "summary_fa": "جنسن هوانگ، مدیرعامل ان‌ویدیا، همچنان معتقد است که داشتن یک برنامه‌ی جانشینی تنها به ایجاد سلسله‌مراتب غیرضروری در شرکت منجر می‌شود. این موضع در حالی مطرح شده که ان‌ویدیا اخیراً در غیاب بنیان‌گذار خود با چالش‌هایی مواجه شده و تأثیر نبود یک نقشه‌ی راه روشن برای رهبری را به وضوح تجربه کرده است.",
+      "tags": [
+        "Jensen Huang",
+        "NVIDIA",
+        "Succession plan",
+        "Corporate governance",
+        "رهبری سازمانی"
+      ]
+    },
+    {
+      "id": "f7c430bedf7a2e8d",
+      "date": "2026-11-27",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "پروتزهای پیشرفته: ابزاری برای کاوش در ذهن انسان",
+      "title_en": "Cutting-edge prosthetics allow researchers to probe the human mind",
+      "summary_fa": "پروتزهای پیشرفته، ابزاری نوین برای محققان فراهم آورده‌اند تا بتوانند با کاوش عمیق‌تر در ذهن انسان، به درک بهتری از عملکرد آن دست یابند. الکساندر (اوی) دیویدسون، که پس از آسیب دیدگی شدید در نوجوانی فلج شده و دست چپ خود را از دست داده بود، یکی از افرادی است که تجربه شخصی او به عنوان یک درمانگر تروما، راهنمای این پژوهش‌ها شده است. این خبر نشان می‌دهد که چگونه تجربیات زیسته افراد دارای معلولیت، در کنار فناوری‌های نوین پروتز، به درک پیچیدگی‌های ارتباط مغز و اندام کمک می‌کند.",
+      "tags": [
+        "پروتز پیشرفته",
+        "علوم اعصاب",
+        "Brain-Computer Interface",
+        "توانبخشی",
+        "Avi Davidson"
+      ]
+    },
+    {
+      "id": "df757b3ca1dd4130",
+      "date": "2026-11-26",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "دست‌های بیونیک نسل جدید: بازگشت حس لامسه به اندام‌های مصنوعی",
+      "title_en": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "summary_fa": "این خبر از رونمایی نسل جدید دست‌های بیونیک خبر می‌دهد که انقلابی در فناوری پروتزها به شمار می‌رود. این اندام‌های مصنوعی پیشرفته اکنون قادرند حس لامسه را به کاربران بازگردانده و تجربه‌ای طبیعی‌تر از یک دست واقعی را فراهم کنند. آوی دیویدسون، یکی از کاربران این فناوری، که دست چپ خود را در نوجوانی از دست داده بود، با استفاده از این پروتز جدید توانسته است حس‌های از دست رفته را دوباره تجربه کند و کیفیت زندگی‌اش بهبود یابد.",
+      "tags": [
+        "دست بیونیک",
+        "پروتز",
+        "حس لامسه",
+        "تکنولوژی پزشکی",
+        "AI"
       ]
     }
   ]
