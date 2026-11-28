@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-11-27",
+    "last_updated": "2026-11-28",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1943
+    "total_articles": 1956
   },
   "articles": [
     {
@@ -32945,6 +32945,226 @@
         "حس لامسه",
         "تکنولوژی پزشکی",
         "AI"
+      ]
+    },
+    {
+      "id": "c3b523229c46266a",
+      "date": "2025-07-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/model-ml-chaz-englander",
+      "category": "کاربرد هوش مصنوعی در امور مالی",
+      "title_fa": "Model ML: هوش مصنوعی، معمار تحول بنیادین صنعت مالی",
+      "title_en": "Model ML is helping financial firms rebuild with AI from the ground up",
+      "summary_fa": "شرکت Model ML، به رهبری مدیرعامل آن، چاز انگلندر، در حال پیشگامی در تحول صنعت خدمات مالی از طریق هوش مصنوعی است. این شرکت با تمرکز بر ایجاد زیرساخت‌های بومی هوش مصنوعی (AI-native infrastructure) و توسعه عوامل خودکار (autonomous agents)، به موسسات مالی کمک می‌کند تا فرایندهای کاری خود را از پایه متحول سازند. رویکرد Model ML به یکپارچه‌سازی عمیق هوش مصنوعی منجر به بازسازی کارآمدتر و هوشمندتر عملیات مالی خواهد شد.",
+      "tags": [
+        "Model ML",
+        "هوش مصنوعی",
+        "خدمات مالی",
+        "زیرساخت AI-native",
+        "Autonomous agents"
+      ]
+    },
+    {
+      "id": "aaa1cddeccd89b21",
+      "date": "2025-07-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ai-clinical-copilot-penda-health",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "تحول در تشخیص پزشکی: دستیار هوش مصنوعی OpenAI و Penda Health خطاهای تشخیصی را ۱۶ درصد کاهش داد",
+      "title_en": "Pioneering an AI clinical copilot with Penda Health",
+      "summary_fa": "شرکت OpenAI و Penda Health از یک دستیار هوش مصنوعی بالینی جدید رونمایی کرده‌اند. این ابزار نوآورانه در کاربردهای واقعی موفق شده خطاهای تشخیصی را تا ۱۶ درصد کاهش دهد. این دستاورد مسیر جدید و ایمنی را برای به‌کارگیری مؤثر هوش مصنوعی در حوزه مراقبت‌های بهداشتی و پزشکی می‌گشاید.",
+      "tags": [
+        "OpenAI",
+        "Penda Health",
+        "هوش مصنوعی پزشکی",
+        "دستیار بالینی",
+        "خطای تشخیصی"
+      ]
+    },
+    {
+      "id": "9debf0511dd04abb",
+      "date": "2025-07-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/new-economic-analysis",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "تحلیل جدید OpenAI از تأثیر ChatGPT بر اقتصاد و بازار کار",
+      "title_en": "OpenAI’s new economic analysis",
+      "summary_fa": "OpenAI اخیراً تحلیل اقتصادی جدیدی را منتشر کرده که بینش‌هایی در مورد تأثیر ChatGPT بر اقتصاد ارائه می‌دهد. این گزارش به بررسی تغییرات احتمالی در بازار کار و بهره‌وری ناشی از هوش مصنوعی می‌پردازد. همزمان، OpenAI از آغاز همکاری‌های تحقیقاتی جدیدی خبر داده است که هدف آن مطالعه جامع‌تر اثرات هوش مصنوعی بر نیروی کار و رشد اقتصادی است.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "اقتصاد",
+        "بازار کار",
+        "AI"
+      ]
+    },
+    {
+      "id": "1f499c60214af59e",
+      "date": "2025-07-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
+      "category": "زیرساخت هوش مصنوعی",
+      "title_fa": "اوراکل و OpenAI برای توسعه ۴.۵ گیگاوات زیرساخت هوش مصنوعی Stargate توافق کردند",
+      "title_en": "Stargate advances with 4.5 GW partnership with Oracle",
+      "summary_fa": "اوراکل و OpenAI برای توسعه ۴.۵ گیگاوات ظرفیت جدید مرکز داده Stargate در ایالات متحده به توافق رسیده‌اند. این سرمایه‌گذاری با هدف ایجاد شغل، تسریع در صنعتی‌سازی مجدد آمریکا و پیشبرد رهبری این کشور در هوش مصنوعی انجام می‌شود. این توافق، نقطه عطفی مهم برای Stargate، پلتفرم زیرساخت هوش مصنوعی OpenAI و چشم‌انداز بلندمدت آن برای ارائه مزایای هوش مصنوعی به همگان است.",
+      "tags": [
+        "OpenAI",
+        "Oracle",
+        "Stargate",
+        "AI Infrastructure",
+        "Data Center"
+      ]
+    },
+    {
+      "id": "f9a9f0e1fd72dc80",
+      "date": "2025-07-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/openai-and-uk-government-partnership",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "شراکت استراتژیک OpenAI با دولت بریتانیا برای پیشبرد هوش مصنوعی و رونق اقتصادی",
+      "title_en": "OpenAI and UK Government announce strategic partnership to deliver AI-driven growth",
+      "summary_fa": "شرکت OpenAI و دولت بریتانیا یک شراکت راهبردی را به منظور تسریع پذیرش هوش مصنوعی در این کشور اعلام کرده‌اند. این همکاری با هدف تحریک رشد اقتصادی، بهبود خدمات عمومی و ایجاد یک اکوسیستم پر رونق برای هوش مصنوعی در بریتانیا شکل گرفته است.",
+      "tags": [
+        "OpenAI",
+        "UK Government",
+        "هوش مصنوعی",
+        "رشد اقتصادی",
+        "اکوسیستم هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "3409c3b08dd6a04d",
+      "date": "2025-07-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هوش مصنوعی: توانمندسازی بی‌سابقه برای همگان",
+      "title_en": "AI as the greatest source of empowerment for all",
+      "summary_fa": "یک متخصص تکنولوژی با رویکرد عملگرا، هوش مصنوعی را نه به خاطر خود فناوری، بلکه به دلیل توانایی بی‌نظیرش در بهبود زندگی مردم ارزشمند می‌داند. او بر این باور است که هوش مصنوعی فرصت‌های بی‌شماری را برای افراد بیشتری نسبت به هر فناوری دیگری در تاریخ فراهم خواهد کرد. اگر مسیر درست طی شود، هوش مصنوعی می‌تواند قدرتی بی‌سابقه به همگان ببخشد و به عاملی کلیدی برای توانمندسازی جمعی تبدیل شود.",
+      "tags": [
+        "هوش مصنوعی",
+        "توانمندسازی",
+        "آینده فناوری",
+        "فرصت‌های شغلی",
+        "تاثیر اجتماعی"
+      ]
+    },
+    {
+      "id": "5f077d12f5abe5fa",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "category": "رهبری و مدیریت در فناوری",
+      "title_fa": "اعترافات جنسن هوانگ: مدیرعامل انویدیا از کاخ سفید تشکر کرد، عذر خواست و از روان‌درمانی‌اش گفت",
+      "title_en": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "summary_fa": "جنسن هوانگ، مدیرعامل و بنیان‌گذار انویدیا، روز سه‌شنبه در یک جلسه عمومی با کارکنان، بابت فرصت دوباره برای رهبری شرکت از آنان عذرخواهی کرد. او ضمن ابراز قدردانی از کاخ سفید، فاش ساخت که در حال حاضر تحت روان‌درمانی قرار دارد. این اظهارات در نشستی صورت گرفت که بر شفافیت و قدردانی در مسیر آینده شرکت تاکید داشت.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "مدیرعامل",
+        "رهبری",
+        "روان‌درمانی"
+      ]
+    },
+    {
+      "id": "724878a26e68ea5b",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "category": "حریم خصوصی",
+      "title_fa": "Maple با جذب ۵.۳ میلیون دلار، هوش مصنوعی محافظِ داده‌ها حتی در برابر سازنده‌اش را می‌سازد",
+      "title_en": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "summary_fa": "شرکت نوپای Maple با جذب ۵.۳ میلیون دلار سرمایه، در حال توسعه محصولات هوش مصنوعی است که رویکردی نوین به حفظ حریم خصوصی داده‌ها دارد. معماری رمزنگاری شده این هوش مصنوعی به گونه‌ای طراحی شده است که تضمین می‌کند حتی خودِ شرکت سازنده نیز نمی‌تواند به اطلاعات خصوصی کاربران دسترسی پیدا کند و بدین ترتیب، امنیت داده‌ها را در بالاترین سطح ممکن فراهم می‌آورد.",
+      "tags": [
+        "Maple",
+        "AI",
+        "حریم خصوصی داده",
+        "رمزنگاری",
+        "سرمایه گذاری استارتاپی"
+      ]
+    },
+    {
+      "id": "754f867302b7ac7a",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "سقوط سهام Anthropic زیر قیمت عرضه اولیه؛ نشانه‌ای نگران‌کننده برای استارتاپ‌های هوش مصنوعی",
+      "title_en": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary_fa": "پس از عرضه اولیه سهام در بورس، ارزش سهام شرکت Anthropic به زیر قیمت تعیین شده سقوط کرده است. این روند نگران‌کننده می‌تواند زنگ خطری برای انتظارات از ارزش‌گذاری بالای سایر استارتاپ‌های فعال در حوزه هوش مصنوعی باشد و شرایط سرمایه‌گذاری را برای آن‌ها دشوارتر کند.",
+      "tags": [
+        "Anthropic",
+        "استارتاپ هوش مصنوعی",
+        "IPO",
+        "ارزش‌گذاری"
+      ]
+    },
+    {
+      "id": "cb0d7372f9a0d9c6",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "category": "امنیت سایبری",
+      "title_fa": "هشدار بریتانیا: حملات سایبری با هوش مصنوعی، ضعف‌های امنیتی قدیمی را برملا می‌کند",
+      "title_en": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary_fa": "آژانس سایبری بریتانیا اعلام کرده است که ابزارهای هک مبتنی بر هوش مصنوعی با بهره‌برداری از نقص‌های امنیتی ساده، سال‌ها ضعف در زیرساخت‌های دفاعی را نمایان می‌سازند. این نهاد تاکید کرده که «ایجاد بنیان‌های قوی هرگز تا این حد اهمیت نداشته است» و کسب‌وکارها و سازمان‌ها باید تمرکز خود را بر بهبود اصول اولیه امنیت سایبری قرار دهند.",
+      "tags": [
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "حملات سایبری",
+        "UK",
+        "ضعف امنیتی"
+      ]
+    },
+    {
+      "id": "eaadf2423721fd74",
+      "date": "2026-11-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "category": "محصولات و ادغام‌های هوش مصنوعی",
+      "title_fa": "متا، دستیار هوش مصنوعی Muse را به دایرکت‌های اینستاگرام آورد",
+      "title_en": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary_fa": "شرکت متا دستیار هوش مصنوعی خود، Muse، را به طور مستقیم در بخش پیام‌های خصوصی (دایرکت) اینستاگرام ادغام کرده است. این ویژگی جدید به کاربران امکان می‌دهد تا بدون نیاز به خروج از اینستاگرام و مراجعه به یک اپلیکیشن جداگانه، به طور مستقیم با این دستیار هوش مصنوعی تعامل کنند و از قابلیت‌های آن بهره ببرند.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "Instagram",
+        "AI Assistant",
+        "Direct Messages"
+      ]
+    },
+    {
+      "id": "e0750e6833be5a4b",
+      "date": "2026-11-27",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "category": "نوآوری و کارآفرینی",
+      "title_fa": "MIT Technology Review فراخوان «مبتکران زیر ۳۵ سال» را آغاز کرد: در جستجوی نوابغ جوان فناوری",
+      "title_en": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "summary_fa": "نشریه معتبر MIT Technology Review فراخوان جهانی برای رقابت سالانه «مبتکران زیر ۳۵ سال» خود را آغاز کرده است. این برنامه هر ساله به منظور شناسایی و تقدیر از ۳۵ نفر از بااستعدادترین دانشمندان، کارآفرینان و مخترعان جوان سراسر جهان برگزار می‌شود. هدف، معرفی و تجلیل از نوابغی است که با نوآوری‌های پیشگامانه خود آینده فناوری را شکل می‌دهند.",
+      "tags": [
+        "MIT Technology Review",
+        "Innovators Under 35",
+        "فناوری",
+        "نوآوری",
+        "جایزه"
+      ]
+    },
+    {
+      "id": "b4e61911e477721b",
+      "date": "2026-11-27",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "category": "نوآوری و پژوهش فناوری",
+      "title_fa": "آغاز فراخوان «نوآوران زیر ۳۵ سال» MIT Technology Review برای دوره ۲۰۲۷",
+      "title_en": "Our 2027 Innovators Under 35 competition is now open",
+      "summary_fa": "نشریه MIT Technology Review فراخوان سالانه خود را برای شناسایی «۳۵ نوآور برتر زیر ۳۵ سال» در سال ۲۰۲۷ آغاز کرده است. این رقابت به دنبال دانشمندان جوان، کارآفرینان و مخترعانی است که راه‌حل‌هایی مهندسی شده برای برخی از چالش‌های مهم جهان ارائه می‌دهند. هدف این نشریه، ارج نهادن به نخبگان جوانی است که در حوزه‌های مختلف تکنولوژی و نوآوری پیشرو هستند.",
+      "tags": [
+        "MIT Technology Review",
+        "Innovators Under 35",
+        "نوآوری",
+        "کارآفرینی",
+        "پژوهش"
       ]
     }
   ]
